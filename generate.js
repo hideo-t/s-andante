@@ -22,10 +22,10 @@ function rewriteUrls(html) {
   return html
     .replace(/https?:\/\/s-andante\.org\/wp-content\/uploads\/([^"'\s)]+)/g, (m, p) => {
       try { p = decodeURIComponent(p.split('?')[0]); } catch(e) {}
-      return '/' + path.join('media', p).replace(/\\/g,'/');
+      return BASE + '/' + path.join('media', p).replace(/\\/g,'/');
     })
     // Keep internal links pointing to our new structure
-    .replace(/https?:\/\/s-andante\.org\//g, '/');
+    .replace(/https?:\/\/s-andante\.org\//g, BASE + '/');
 }
 
 function decode(s) {
@@ -41,11 +41,15 @@ function decode(s) {
 
 function postUrl(p) {
   const d = (p.date||'').substring(0,10).split('-');
-  if (d.length !== 3) return `/posts/${p.id}/`;
-  return `/${d[0]}/${d[1]}/${d[2]}/${p.slug}/`;
+  if (d.length !== 3) return `${BASE}/posts/${p.id}/`;
+  return `${BASE}/${d[0]}/${d[1]}/${d[2]}/${p.slug}/`;
 }
-function pageUrl(p) { return `/${p.slug}/`; }
-function catUrl(cid) { return `/category/${catSlugs[cid] || cid}/`; }
+function pageUrl(p) { return `${BASE}/${p.slug}/`; }
+function catUrl(cid) { return `${BASE}/category/${catSlugs[cid] || cid}/`; }
+
+// GitHub Pages project page lives under /s-andante/ — all internal absolute paths must be prefixed.
+// If migrating to a custom domain, set BASE = '' and re-generate.
+const BASE = '/s-andante';
 
 const SITE = {
   name: '一般社団法人あんだんて',
@@ -58,19 +62,19 @@ const SITE = {
 
 // Nav grouped by 系統 (system/family). Items with `children` render as dropdowns.
 const NAV = [
-  {label:'ホーム', href:'/'},
+  {label:'ホーム', href:`${BASE}/`},
   {label:'きららか系', children:[
-    {label:'きららかサロン', href:'/kiraraka/'},
-    {label:'若者の居場所ユースプレイス', href:'/yp-2/'},
-    {label:'子育て相談室', href:'/%e5%ad%90%e8%82%b2%e3%81%a6%e7%9b%b8%e8%ab%87%e5%ae%a4/'},
+    {label:'きららかサロン', href:`${BASE}/kiraraka/`},
+    {label:'若者の居場所ユースプレイス', href:`${BASE}/yp-2/`},
+    {label:'子育て相談室', href:`${BASE}/%e5%ad%90%e8%82%b2%e3%81%a6%e7%9b%b8%e8%ab%87%e5%ae%a4/`},
   ]},
   {label:'らふみーる系', children:[
-    {label:'こども＆みんなの食堂', href:'/kodomos/'},
+    {label:'こども＆みんなの食堂', href:`${BASE}/kodomos/`},
     {label:'らふみーる新白河', href:'https://hideo-t.github.io/rafmiir/', external:true},
   ]},
-  {label:'活動実績', href:'/shisetsu/'},
-  {label:'ニュース', href:'/news/'},
-  {label:'ご支援企業', href:'/%e3%81%94%e6%94%af%e6%8f%b4%e3%81%84%e3%81%9f%e3%81%a0%e3%81%84%e3%81%a6%e3%81%84%e3%82%8b%e4%bc%81%e6%a5%ad%e3%83%bb%e5%9b%a3%e4%bd%93%e4%b8%80%e8%a6%a7/'},
+  {label:'活動実績', href:`${BASE}/shisetsu/`},
+  {label:'ニュース', href:`${BASE}/news/`},
+  {label:'ご支援企業', href:`${BASE}/%e3%81%94%e6%94%af%e6%8f%b4%e3%81%84%e3%81%9f%e3%81%a0%e3%81%84%e3%81%a6%e3%81%84%e3%82%8b%e4%bc%81%e6%a5%ad%e3%83%bb%e5%9b%a3%e4%bd%93%e4%b8%80%e8%a6%a7/`},
 ];
 
 const RELATED_SHOPS = [
@@ -84,22 +88,22 @@ const SYSTEMS = [
     key:'kiraraka',
     label:'きららか系',
     en:'KIRARAKA FAMILY',
-    image:'/assets/hero_kiraraka.jpg',
+    image:`${BASE}/assets/hero_kiraraka.jpg`,
     desc:'地域の憩い・若者の居場所・子育てを支える「集う」系統。',
     items:[
-      {label:'きららかサロン', href:'/kiraraka/'},
-      {label:'若者の居場所ユースプレイス', href:'/yp-2/'},
-      {label:'子育て相談室', href:'/%e5%ad%90%e8%82%b2%e3%81%a6%e7%9b%b8%e8%ab%87%e5%ae%a4/'},
+      {label:'きららかサロン', href:`${BASE}/kiraraka/`},
+      {label:'若者の居場所ユースプレイス', href:`${BASE}/yp-2/`},
+      {label:'子育て相談室', href:`${BASE}/%e5%ad%90%e8%82%b2%e3%81%a6%e7%9b%b8%e8%ab%87%e5%ae%a4/`},
     ]
   },
   {
     key:'rafmiir',
     label:'らふみーる系',
     en:'RAFMIIR FAMILY',
-    image:'/assets/hero_rafmiir.jpg',
+    image:`${BASE}/assets/hero_rafmiir.jpg`,
     desc:'地域に温かい食を届ける「食」と「働く」の系統。',
     items:[
-      {label:'こども＆みんなの食堂', href:'/kodomos/'},
+      {label:'こども＆みんなの食堂', href:`${BASE}/kodomos/`},
       {label:'らふみーる新白河', href:'https://hideo-t.github.io/rafmiir/', external:true},
     ]
   },
@@ -141,7 +145,7 @@ ${canonical ? `<link rel="canonical" href="${canonical}">` : ''}
 <body>
 <header class="site">
   <div class="header-inner">
-    <a class="logo" href="/">
+    <a class="logo" href="${BASE}/">
       <div>
         <div class="mark">${SITE.name}</div>
         <div class="sub">${SITE.tagline}</div>
@@ -170,9 +174,9 @@ ${body}
   <div class="org">${SITE.name}</div>
   <div class="addr">${SITE.addr}<br>TEL: ${SITE.tel}（山本）</div>
   <div class="links">
-    <a href="/">ホーム</a>
-    <a href="/news/">ニュース</a>
-    <a href="/shisetsu/">活動実績</a>
+    <a href="${BASE}/">ホーム</a>
+    <a href="${BASE}/news/">ニュース</a>
+    <a href="${BASE}/shisetsu/">活動実績</a>
     <a href="https://hideo-t.github.io/rafmiir/" target="_blank" rel="noopener">らふみーる新白河 ↗</a>
     <a href="https://www.facebook.com/mitsuko.yamamot" target="_blank" rel="noopener">Facebook ↗</a>
   </div>
@@ -201,6 +205,14 @@ function writeFile(rel, content) {
   const full = path.join(ROOT, rel);
   ensureDir(path.dirname(full));
   fs.writeFileSync(full, content, 'utf8');
+}
+
+// Convert a URL (with BASE prefix) into a local file path under ROOT.
+// e.g. /s-andante/news/ → news/index.html
+function urlToFilePath(url) {
+  let rel = url.startsWith(BASE) ? url.substring(BASE.length) : url;
+  rel = rel.replace(/^\//, '');
+  return path.join(rel, 'index.html');
 }
 
 // === HOME ===
@@ -256,7 +268,7 @@ function buildHome() {
         </li>`;
       }).join('')}
     </ul>
-    <div class="news-more"><a href="/news/">すべてのニュースを見る →</a></div>
+    <div class="news-more"><a href="${BASE}/news/">すべてのニュースを見る →</a></div>
   </div>
 </section>
 `;
@@ -278,7 +290,7 @@ function buildPages() {
     const body = `
 <section class="page-hero">
   <div class="wrap">
-    <div class="crumb"><a href="/">ホーム</a> &raquo; ${title}</div>
+    <div class="crumb"><a href="${BASE}/">ホーム</a> &raquo; ${title}</div>
     <h1>${title}</h1>
   </div>
 </section>
@@ -289,7 +301,7 @@ function buildPages() {
 </article>
 `;
     const url = pageUrl(p);
-    const filePath = path.join(url.replace(/^\//,''), 'index.html');
+    const filePath = urlToFilePath(url);
     writeFile(filePath, pageShell({
       title,
       description: (content.replace(/<[^>]+>/g,'').substring(0,160)),
@@ -317,7 +329,7 @@ function buildPosts() {
     const body = `
 <section class="page-hero">
   <div class="wrap">
-    <div class="crumb"><a href="/">ホーム</a> &raquo; <a href="/news/">ニュース</a>${catName ? ` &raquo; <a href="${catUrl(cid)}">${catName}</a>` : ''}</div>
+    <div class="crumb"><a href="${BASE}/">ホーム</a> &raquo; <a href="${BASE}/news/">ニュース</a>${catName ? ` &raquo; <a href="${catUrl(cid)}">${catName}</a>` : ''}</div>
     <h1>${title}</h1>
     <div class="meta">${d}${catName ? `<span class="cat">${catName}</span>` : ''}</div>
   </div>
@@ -333,7 +345,7 @@ function buildPosts() {
 </article>
 `;
     const url = postUrl(p);
-    const filePath = path.join(url.replace(/^\//,''), 'index.html');
+    const filePath = urlToFilePath(url);
     writeFile(filePath, pageShell({
       title,
       description: decode((p.excerpt?.rendered || '').replace(/<[^>]+>/g,'').substring(0,160)),
@@ -355,7 +367,7 @@ function buildCategoryArchives() {
     const body = `
 <section class="page-hero">
   <div class="wrap">
-    <div class="crumb"><a href="/">ホーム</a> &raquo; カテゴリ</div>
+    <div class="crumb"><a href="${BASE}/">ホーム</a> &raquo; カテゴリ</div>
     <h1>${decode(cat.name)}</h1>
     <div class="meta">${inCat.length}件の投稿</div>
   </div>
@@ -375,12 +387,12 @@ function buildCategoryArchives() {
 </section>
 `;
     const url = catUrl(cat.id);
-    writeFile(path.join(url.replace(/^\//,''), 'index.html'), pageShell({
+    writeFile(urlToFilePath(url), pageShell({
       title: `${cat.name} カテゴリ`,
       description: `${cat.name}カテゴリの投稿一覧（${inCat.length}件）`,
       body,
-      depth: url.split('/').filter(Boolean).length,
-      canonical: SITE.url + url.replace(/^\//,''),
+      depth: url.replace(BASE,'').split('/').filter(Boolean).length,
+      canonical: SITE.url + url.replace(BASE,'').replace(/^\//,''),
     }));
     count++;
   });
@@ -397,12 +409,12 @@ function buildNewsArchive() {
     const pagination = [];
     for (let i = 1; i <= totalPages; i++) {
       if (i === pg) pagination.push(`<span class="current">${i}</span>`);
-      else pagination.push(`<a href="${i === 1 ? '/news/' : '/news/page/' + i + '/'}">${i}</a>`);
+      else pagination.push(`<a href="${i === 1 ? `${BASE}/news/` : `${BASE}/news/page/${i}/`}">${i}</a>`);
     }
     const body = `
 <section class="page-hero">
   <div class="wrap">
-    <div class="crumb"><a href="/">ホーム</a></div>
+    <div class="crumb"><a href="${BASE}/">ホーム</a></div>
     <h1>ニュース・お知らせ</h1>
     <div class="meta">全${DATA.posts.length}件 / ${pg} of ${totalPages}</div>
   </div>
@@ -425,8 +437,8 @@ function buildNewsArchive() {
   </div>
 </section>
 `;
-    const url = pg === 1 ? '/news/' : `/news/page/${pg}/`;
-    writeFile(path.join(url.replace(/^\//,''), 'index.html'), pageShell({
+    const url = pg === 1 ? `${BASE}/news/` : `${BASE}/news/page/${pg}/`;
+    writeFile(urlToFilePath(url), pageShell({
       title: pg === 1 ? 'ニュース・お知らせ' : `ニュース (${pg}/${totalPages})`,
       description: `あんだんての活動ニュース全${DATA.posts.length}件`,
       body,
