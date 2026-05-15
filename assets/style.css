@@ -439,6 +439,12 @@ footer.site .related-shops a:hover{
   background:var(--accent);color:#fff;border-color:var(--accent);
 }
 
+/* Related news block (on program pages) */
+.related-news{
+  background:linear-gradient(180deg,var(--paper) 0%,var(--softgrid) 100%);
+  padding:64px 0;border-top:1px solid var(--grid);
+}
+
 /* Category badge colors */
 .cat-21{background:#fff4e0;color:#a55519}  /* こども食堂 */
 .cat-22{background:#e8f0d9;color:#3f5a2c}  /* あんだんて */

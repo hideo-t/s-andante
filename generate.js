@@ -74,6 +74,7 @@ const NAV = [
   ]},
   {label:'活動実績', href:`${BASE}/shisetsu/`},
   {label:'ニュース', href:`${BASE}/news/`},
+  {label:'資料DL', href:`${BASE}/resources/`},
   {label:'ご支援企業', href:`${BASE}/%e3%81%94%e6%94%af%e6%8f%b4%e3%81%84%e3%81%9f%e3%81%a0%e3%81%84%e3%81%a6%e3%81%84%e3%82%8b%e4%bc%81%e6%a5%ad%e3%83%bb%e5%9b%a3%e4%bd%93%e4%b8%80%e8%a6%a7/`},
 ];
 
@@ -281,12 +282,98 @@ function buildHome() {
 }
 
 // === STATIC PAGES ===
+// Map slug → which category to show as "related news"
+const PAGE_CATEGORY_MAP = {
+  'kiraraka': 23,           // きららかサロン
+  'kodomos': 21,            // こども食堂
+  'yp-2': null,             // ユースプレイス (no dedicated category)
+  '%e5%ad%90%e8%82%b2%e3%81%a6%e7%9b%b8%e8%ab%87%e5%ae%a4': null,  // 子育て相談
+  'shisetsu': 26,           // あんだんて活動実績
+  'ibasyo': null,
+  '%e3%81%94%e6%94%af%e6%8f%b4%e3%81%84%e3%81%9f%e3%81%a0%e3%81%84%e3%81%a6%e3%81%84%e3%82%8b%e4%bc%81%e6%a5%ad%e3%83%bb%e5%9b%a3%e4%bd%93%e4%b8%80%e8%a6%a7': 28,  // ご支援
+};
+
+// Default content for pages that came back empty/thin from WP
+const PAGE_DEFAULT_BODY = {
+  'yp-2': `
+<p>ユースプレイス県南は、若者のための「第三の居場所」を提供する場所です。学校でも家庭でもない、安心して過ごせるサードプレイスとして、白河・西郷地域の若者を支えます。</p>
+<h3>大切にしていること</h3>
+<ul>
+  <li>「生きる力」を育む第三の居場所づくり</li>
+  <li>若者の声に寄り添う運営</li>
+  <li>地域とのつながりを通じた成長支援</li>
+</ul>
+<p>ご利用・ご相談は、あんだんて事務局までお問い合わせください。</p>
+`,
+  '%e5%ad%90%e8%82%b2%e3%81%a6%e7%9b%b8%e8%ab%87%e5%ae%a4': `
+<p>子育てに関する不安・悩み・疑問に、子育て経験者と地域の支援者が寄り添ってお答えする相談室です。</p>
+<h3>こんなときにご利用ください</h3>
+<ul>
+  <li>子どもとの関わり方に悩んでいる</li>
+  <li>地域での子育て支援を知りたい</li>
+  <li>誰かに話を聞いてもらいたい</li>
+  <li>同じ世代の保護者と交流したい</li>
+</ul>
+<p>お気軽にお電話・ご来訪ください。<br>
+TEL: 090-3759-4109（山本）</p>
+`,
+  'ibasyo': `
+<p>「第三の居場所」とは、学校でも家庭でもない、誰もが安心して過ごせる場所です。<br>
+あんだんてでは、子どもから若者、保護者、高齢者まで、それぞれの世代に応じた居場所を地域に育ててきました。</p>
+<h3>居場所の3つの形</h3>
+<ul>
+  <li><strong>こども食堂</strong> — 食卓を囲む、子どもの居場所</li>
+  <li><strong>きららかサロン</strong> — お茶を飲みながら集う、地域住民の居場所</li>
+  <li><strong>ユースプレイス県南</strong> — 若者のための、第三の居場所</li>
+</ul>
+<p>居場所づくりは、一朝一夕にはできません。<br>
+日々の運営、関わる人々の手間と心、そしてご支援をいただきながら、少しずつ育てています。</p>
+`,
+  'blog': `
+<p>あんだんての最新ニュース・お知らせは、<a href="${BASE}/news/">ニュース一覧</a>からご覧いただけます。</p>
+<p><a href="${BASE}/news/" style="display:inline-block;margin-top:16px;padding:10px 24px;background:var(--accent);color:#fff;text-decoration:none;border-radius:4px;">ニュース一覧へ →</a></p>
+`,
+};
+
+function relatedPostsBlock(catId, pageSlug) {
+  if (!catId) return '';
+  const inCat = DATA.posts.filter(p => (p.categories||[]).includes(catId)).slice(0, 12);
+  if (inCat.length === 0) return '';
+  return `
+<section class="related-news">
+  <div class="wrap">
+    <div class="section-label">RELATED NEWS</div>
+    <h2 class="section-title">関連ニュース</h2>
+    <ul class="news-list">
+      ${inCat.map(p => {
+        const d = (p.date||'').substring(0,10);
+        return `<li>
+          <span class="date">${d}</span>
+          <a class="ttl" href="${postUrl(p)}">${decode(p.title?.rendered||'')}</a>
+        </li>`;
+      }).join('')}
+    </ul>
+    <div class="news-more"><a href="${catUrl(catId)}">${catNames[catId]}カテゴリの全${DATA.posts.filter(p=>(p.categories||[]).includes(catId)).length}件を見る →</a></div>
+  </div>
+</section>`;
+}
+
 function buildPages() {
   let count = 0;
   DATA.pages.forEach(p => {
     if (p.slug === 'login-customizer') return; // skip admin page
-    const content = rewriteUrls(p.content?.rendered || '');
+
+    let content = rewriteUrls(p.content?.rendered || '');
+    const textOnly = content.replace(/<[^>]+>/g,'').trim();
+    // If page text is thin (under 200 chars actual prose) and we have a default, use default.
+    // This catches Elementor-wrapped empty pages.
+    if (textOnly.length < 200 && PAGE_DEFAULT_BODY[p.slug]) {
+      content = PAGE_DEFAULT_BODY[p.slug];
+    }
     const title = decode(p.title?.rendered || '');
+    const relatedCat = PAGE_CATEGORY_MAP[p.slug];
+    const related = relatedPostsBlock(relatedCat, p.slug);
+
     const body = `
 <section class="page-hero">
   <div class="wrap">
@@ -299,6 +386,7 @@ function buildPages() {
     <div class="article-body">${content}</div>
   </div>
 </article>
+${related}
 `;
     const url = pageUrl(p);
     const filePath = urlToFilePath(url);
@@ -306,8 +394,8 @@ function buildPages() {
       title,
       description: (content.replace(/<[^>]+>/g,'').substring(0,160)),
       body,
-      depth: url.split('/').filter(Boolean).length,
-      canonical: SITE.url + url.replace(/^\//,''),
+      depth: url.replace(BASE,'').split('/').filter(Boolean).length,
+      canonical: SITE.url + url.replace(BASE,'').replace(/^\//,''),
     }));
     count++;
   });
@@ -449,6 +537,88 @@ function buildNewsArchive() {
   console.log(`  News archive pages: ${totalPages}`);
 }
 
+// === RESOURCES (PDFs) ===
+function buildResources() {
+  // Get all PDFs from media library
+  const mediaLib = JSON.parse(fs.readFileSync(path.join(ROOT, '..', 'andante_scrape', 'media_all.json'), 'utf8'));
+  const pdfs = mediaLib.filter(m => (m.source_url||'').toLowerCase().endsWith('.pdf'));
+  // Sort by date desc
+  pdfs.sort((a,b) => (b.date||'').localeCompare(a.date||''));
+
+  const items = pdfs.map(m => {
+    const url = m.source_url || '';
+    const title = decode((m.title?.rendered || path.basename(url)).replace(/\.pdf$/i,''));
+    const date = (m.date||'').substring(0,10);
+    const localPath = url.replace(/^https?:\/\/s-andante\.org\//,'');
+    let local = `${BASE}/${localPath}`;
+    try {
+      const decoded = decodeURIComponent(localPath.replace('wp-content/uploads/',''));
+      local = `${BASE}/media/${decoded}`;
+    } catch(e) {}
+    return { title, date, href: local };
+  });
+
+  const body = `
+<section class="page-hero">
+  <div class="wrap">
+    <div class="crumb"><a href="${BASE}/">ホーム</a> &raquo; ダウンロード資料</div>
+    <h1>ダウンロード資料・お知らせPDF</h1>
+    <div class="meta">${items.length}件のPDF資料</div>
+  </div>
+</section>
+<section class="news-section">
+  <div class="wrap">
+    <p class="sub" style="text-align:center;color:var(--mute);font-size:14px;margin-bottom:32px">
+      あんだんての過去のチラシ・お知らせ・配布物をPDFで公開しています。<br>
+      ファイル名をクリックでダウンロードできます。
+    </p>
+    <ul class="news-list">
+      ${items.map(it => `<li>
+        <span class="date">${it.date}</span>
+        <span class="cat" style="background:#f4ddc8;color:#a55519">PDF</span>
+        <a class="ttl" href="${it.href}" target="_blank" rel="noopener">${it.title} ↓</a>
+      </li>`).join('')}
+    </ul>
+  </div>
+</section>
+`;
+  writeFile('resources/index.html', pageShell({
+    title: 'ダウンロード資料・PDF',
+    description: 'あんだんての過去のチラシ・お知らせ・配布物のPDFアーカイブ',
+    body,
+    depth: 1,
+    canonical: SITE.url + 'resources/',
+  }));
+  console.log(`  Resources page (PDFs): ${items.length} entries`);
+}
+
+// === SITEMAP.XML ===
+function buildSitemap() {
+  const urls = [];
+  urls.push(SITE.url);
+  DATA.pages.forEach(p => {
+    if (p.slug === 'login-customizer') return;
+    urls.push(SITE.url + p.slug + '/');
+  });
+  DATA.posts.forEach(p => {
+    const d = (p.date||'').substring(0,10).split('-');
+    if (d.length === 3) urls.push(`${SITE.url}${d[0]}/${d[1]}/${d[2]}/${p.slug}/`);
+  });
+  DATA.cats.forEach(c => {
+    if (c.count > 0) urls.push(`${SITE.url}category/${c.slug}/`);
+  });
+  urls.push(SITE.url + 'news/');
+  urls.push(SITE.url + 'resources/');
+
+  const xml = `<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+${urls.map(u => `  <url><loc>${u}</loc></url>`).join('\n')}
+</urlset>
+`;
+  fs.writeFileSync(path.join(ROOT, 'sitemap.xml'), xml, 'utf8');
+  console.log(`  Sitemap: ${urls.length} URLs`);
+}
+
 // === EXECUTE ===
 console.log('=== Generating site ===');
 buildHome();
@@ -457,6 +627,8 @@ buildPages();
 buildPosts();
 buildCategoryArchives();
 buildNewsArchive();
+buildResources();
+buildSitemap();
 
 // Count generated HTML files
 function countFiles(dir, ext) {
