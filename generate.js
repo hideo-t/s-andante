@@ -63,8 +63,14 @@ const NAV = [
   {label:'きららかサロン', href:'/kiraraka/'},
   {label:'ユースプレイス', href:'/yp-2/'},
   {label:'子育て相談', href:'/%e5%ad%90%e8%82%b2%e3%81%a6%e7%9b%b8%e8%ab%87%e5%ae%a4/'},
+  {label:'らふみーる新白河', href:'https://hideo-t.github.io/rafmiir/', external:true},
   {label:'ニュース', href:'/news/'},
   {label:'ご支援企業', href:'/%e3%81%94%e6%94%af%e6%8f%b4%e3%81%84%e3%81%9f%e3%81%a0%e3%81%84%e3%81%a6%e3%81%84%e3%82%8b%e4%bc%81%e6%a5%ad%e3%83%bb%e5%9b%a3%e4%bd%93%e4%b8%80%e8%a6%a7/'},
+];
+
+const RELATED_SHOPS = [
+  {label:'大進ごはん家', href:'https://r.goope.jp/taishingohanya/'},
+  {label:'カフェるぽん', href:'https://tabelog.com/fukushima/A0703/A070301/7020106/'},
 ];
 
 function pageShell(opts) {
@@ -111,7 +117,7 @@ ${canonical ? `<link rel="canonical" href="${canonical}">` : ''}
     </a>
     <button class="nav-toggle" id="navToggle" aria-label="メニュー"><span></span><span></span><span></span></button>
     <nav class="site-nav" id="nav">
-      ${NAV.map(n => `<a href="${n.href}">${n.label}</a>`).join('\n      ')}
+      ${NAV.map(n => `<a href="${n.href}"${n.external ? ' target="_blank" rel="noopener"' : ''}>${n.label}${n.external ? ' ↗' : ''}</a>`).join('\n      ')}
     </nav>
   </div>
 </header>
@@ -125,8 +131,17 @@ ${body}
     <a href="/">ホーム</a>
     <a href="/news/">ニュース</a>
     <a href="/shisetsu/">活動実績</a>
-    <a href="https://www.facebook.com/mitsuko.yamamot" target="_blank" rel="noopener">Facebook</a>
+    <a href="https://hideo-t.github.io/rafmiir/" target="_blank" rel="noopener">らふみーる新白河 ↗</a>
+    <a href="https://www.facebook.com/mitsuko.yamamot" target="_blank" rel="noopener">Facebook ↗</a>
   </div>
+
+  <div class="related-shops">
+    <div class="rs-label">関連店舗・グループ</div>
+    <div class="rs-grid">
+      ${RELATED_SHOPS.map(s => `<a href="${s.href}" target="_blank" rel="noopener">${s.label} ↗</a>`).join('\n      ')}
+    </div>
+  </div>
+
   <div class="copy">&copy; ${new Date().getFullYear()} ${SITE.name}</div>
 </footer>
 <script>
