@@ -1,0 +1,362 @@
+[
+  {
+    "id": 22,
+    "count": 70,
+    "description": "",
+    "link": "https://s-andante.org/category/%e3%81%82%e3%82%93%e3%81%a0%e3%82%93%e3%81%a6/",
+    "name": "あんだんて",
+    "slug": "%e3%81%82%e3%82%93%e3%81%a0%e3%82%93%e3%81%a6",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://s-andante.org/wp-json/wp/v2/categories/22",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://s-andante.org/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://s-andante.org/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://s-andante.org/wp-json/wp/v2/posts?categories=22"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 26,
+    "count": 3,
+    "description": "",
+    "link": "https://s-andante.org/category/%e3%81%82%e3%82%93%e3%81%a0%e3%82%93%e3%81%a6%e6%b4%bb%e5%8b%95%e5%ae%9f%e7%b8%be/",
+    "name": "あんだんて活動実績",
+    "slug": "%e3%81%82%e3%82%93%e3%81%a0%e3%82%93%e3%81%a6%e6%b4%bb%e5%8b%95%e5%ae%9f%e7%b8%be",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://s-andante.org/wp-json/wp/v2/categories/26",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://s-andante.org/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://s-andante.org/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://s-andante.org/wp-json/wp/v2/posts?categories=26"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 23,
+    "count": 21,
+    "description": "",
+    "link": "https://s-andante.org/category/%e3%81%8d%e3%82%89%e3%82%89%e3%81%8b%e3%82%b5%e3%83%ad%e3%83%b3/",
+    "name": "きららかサロン",
+    "slug": "%e3%81%8d%e3%82%89%e3%82%89%e3%81%8b%e3%82%b5%e3%83%ad%e3%83%b3",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://s-andante.org/wp-json/wp/v2/categories/23",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://s-andante.org/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://s-andante.org/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://s-andante.org/wp-json/wp/v2/posts?categories=23"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 21,
+    "count": 277,
+    "description": "",
+    "link": "https://s-andante.org/category/%e3%81%93%e3%81%a9%e3%82%82%e9%a3%9f%e5%a0%82/",
+    "name": "こども食堂",
+    "slug": "%e3%81%93%e3%81%a9%e3%82%82%e9%a3%9f%e5%a0%82",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://s-andante.org/wp-json/wp/v2/categories/21",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://s-andante.org/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://s-andante.org/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://s-andante.org/wp-json/wp/v2/posts?categories=21"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 28,
+    "count": 18,
+    "description": "",
+    "link": "https://s-andante.org/category/%e3%81%94%e6%94%af%e6%8f%b4/",
+    "name": "ご支援",
+    "slug": "%e3%81%94%e6%94%af%e6%8f%b4",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://s-andante.org/wp-json/wp/v2/categories/28",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://s-andante.org/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://s-andante.org/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://s-andante.org/wp-json/wp/v2/posts?categories=28"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 24,
+    "count": 0,
+    "description": "",
+    "link": "https://s-andante.org/category/%e4%bc%9a%e5%93%a1%e5%88%b6%e6%b0%91%e6%b3%8a/",
+    "name": "会員制民泊",
+    "slug": "%e4%bc%9a%e5%93%a1%e5%88%b6%e6%b0%91%e6%b3%8a",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://s-andante.org/wp-json/wp/v2/categories/24",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://s-andante.org/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://s-andante.org/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://s-andante.org/wp-json/wp/v2/posts?categories=24"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 29,
+    "count": 2,
+    "description": "",
+    "link": "https://s-andante.org/category/%e6%b4%bb%e5%8b%95%e5%86%85%e5%ae%b9/",
+    "name": "活動内容",
+    "slug": "%e6%b4%bb%e5%8b%95%e5%86%85%e5%ae%b9",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://s-andante.org/wp-json/wp/v2/categories/29",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://s-andante.org/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://s-andante.org/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://s-andante.org/wp-json/wp/v2/posts?categories=29"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 25,
+    "count": 11,
+    "description": "",
+    "link": "https://s-andante.org/category/%e9%99%b6%e8%8a%b8%e6%95%99%e5%ae%a4/",
+    "name": "陶芸教室",
+    "slug": "%e9%99%b6%e8%8a%b8%e6%95%99%e5%ae%a4",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://s-andante.org/wp-json/wp/v2/categories/25",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://s-andante.org/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://s-andante.org/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://s-andante.org/wp-json/wp/v2/posts?categories=25"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+]

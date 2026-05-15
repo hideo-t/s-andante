@@ -1,0 +1,66 @@
+
+---Downloaded files---
+The import files for: デモコンテンツ were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://s-andante.org
+Data file = /home/users/1/kikirara.jp-andante/web/s-andante/wp-content/plugins/sydney-toolbox/demo-content/demo-content.xml
+Widget file = /home/users/1/kikirara.jp-andante/web/s-andante/wp-content/plugins/sydney-toolbox/demo-content/demo-widgets.wie
+Customizer file = /home/users/1/kikirara.jp-andante/web/s-andante/wp-content/plugins/sydney-toolbox/demo-content/demo-customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[WARNING] Failed to import "Sidebar form": Invalid post type mc4wp-form
+
+
+---Importing widgets---
+sidebar-1 : Sidebar does not exist in theme (moving widget to Inactive)
+
+最近の投稿 - Recent News - Imported to Inactive
+カテゴリー - Categories - Imported to Inactive
+アーカイブ - Archives - Imported to Inactive
+タグクラウド - Popular Tags - Imported to Inactive
+mc4wp_form_widget - Sign up for Newsletter - Site does not support widget
+
+footer-1 : Sidebar does not exist in theme (moving widget to Inactive)
+
+画像 - No Title - Imported to Inactive
+テキスト - No Title - Imported to Inactive
+
+footer-2 : Sidebar does not exist in theme (moving widget to Inactive)
+
+ナビゲーションメニュー - About Us - Imported to Inactive
+
+footer-3 : Sidebar does not exist in theme (moving widget to Inactive)
+
+ナビゲーションメニュー - Services - Imported to Inactive
+
+footer-4 : Sidebar does not exist in theme (moving widget to Inactive)
+
+テキスト - Contact - Widget already exists
+
+
+
+---Importing customizer settings---
+Error: The customizer import file is not suitable for current theme. You can only import customizer settings for the same theme or a child theme.
+
+---pt-ocdi/after_import---
+

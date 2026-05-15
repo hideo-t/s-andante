@@ -1,0 +1,996 @@
+[
+  {
+    "id": 2903,
+    "date": "2023-08-21T11:49:58",
+    "date_gmt": "2023-08-21T02:49:58",
+    "guid": {
+      "rendered": "https://s-andante.org/?page_id=2903"
+    },
+    "modified": "2023-08-21T11:50:30",
+    "modified_gmt": "2023-08-21T02:50:30",
+    "slug": "ibasyo",
+    "status": "publish",
+    "type": "page",
+    "link": "https://s-andante.org/ibasyo/",
+    "title": {
+      "rendered": "第三の居場所"
+    },
+    "content": {
+      "rendered": "\t\t<div data-elementor-type=\"wp-page\" data-elementor-id=\"2903\" class=\"elementor elementor-2903\" data-elementor-settings=\"[]\">\n\t\t\t<div class=\"elementor-inner\">\n\t\t\t\t<div class=\"elementor-section-wrap\">\n\t\t\t\t\t\t\t<section class=\"elementor-element elementor-element-1ad096b9 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section\" data-id=\"1ad096b9\" data-element_type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t<div class=\"elementor-row\">\n\t\t\t\t<div class=\"elementor-element elementor-element-236f167f elementor-column elementor-col-100 elementor-top-column\" data-id=\"236f167f\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-column-wrap  elementor-element-populated\">\n\t\t\t\t\t<div class=\"elementor-widget-wrap\">\n\t\t\t\t<div class=\"elementor-element elementor-element-606d9812 elementor-widget elementor-widget-text-editor\" data-id=\"606d9812\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<div class=\"elementor-text-editor elementor-clearfix\"><img loading=\"lazy\" decoding=\"async\" src=\"http://s-andante.org/wp-content/uploads/2023/05/案内表-scaled.jpg\" alt=\"\" width=\"1810\" height=\"2560\" class=\"alignnone size-full wp-image-2839\" srcset=\"https://s-andante.org/wp-content/uploads/2023/05/案内表-scaled.jpg 1810w, https://s-andante.org/wp-content/uploads/2023/05/案内表-212x300.jpg 212w, https://s-andante.org/wp-content/uploads/2023/05/案内表-724x1024.jpg 724w, https://s-andante.org/wp-content/uploads/2023/05/案内表-768x1086.jpg 768w, https://s-andante.org/wp-content/uploads/2023/05/案内表-1086x1536.jpg 1086w, https://s-andante.org/wp-content/uploads/2023/05/案内表-1448x2048.jpg 1448w\" sizes=\"auto, (max-width: 1810px) 100vw, 1810px\" />\r\n<img loading=\"lazy\" decoding=\"async\" src=\"http://s-andante.org/wp-content/uploads/2023/05/案内裏-scaled.jpg\" alt=\"\" width=\"1810\" height=\"2560\" class=\"alignnone size-full wp-image-2838\" srcset=\"https://s-andante.org/wp-content/uploads/2023/05/案内裏-scaled.jpg 1810w, https://s-andante.org/wp-content/uploads/2023/05/案内裏-212x300.jpg 212w, https://s-andante.org/wp-content/uploads/2023/05/案内裏-724x1024.jpg 724w, https://s-andante.org/wp-content/uploads/2023/05/案内裏-768x1086.jpg 768w, https://s-andante.org/wp-content/uploads/2023/05/案内裏-1086x1536.jpg 1086w, https://s-andante.org/wp-content/uploads/2023/05/案内裏-1448x2048.jpg 1448w\" sizes=\"auto, (max-width: 1810px) 100vw, 1810px\" /></div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t\t",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "footnotes": ""
+    },
+    "class_list": [
+      "post-2903",
+      "page",
+      "type-page",
+      "status-publish",
+      "hentry"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://s-andante.org/wp-json/wp/v2/pages/2903",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://s-andante.org/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://s-andante.org/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://s-andante.org/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://s-andante.org/wp-json/wp/v2/comments?post=2903"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 2,
+          "href": "https://s-andante.org/wp-json/wp/v2/pages/2903/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 2905,
+          "href": "https://s-andante.org/wp-json/wp/v2/pages/2903/revisions/2905"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://s-andante.org/wp-json/wp/v2/media?parent=2903"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 2745,
+    "date": "2022-10-12T09:35:15",
+    "date_gmt": "2022-10-12T00:35:15",
+    "guid": {
+      "rendered": "https://s-andante.org/?page_id=2745"
+    },
+    "modified": "2023-05-02T17:54:14",
+    "modified_gmt": "2023-05-02T08:54:14",
+    "slug": "%e5%ad%90%e8%82%b2%e3%81%a6%e7%9b%b8%e8%ab%87%e5%ae%a4",
+    "status": "publish",
+    "type": "page",
+    "link": "https://s-andante.org/%e5%ad%90%e8%82%b2%e3%81%a6%e7%9b%b8%e8%ab%87%e5%ae%a4/",
+    "title": {
+      "rendered": "子育て相談室"
+    },
+    "content": {
+      "rendered": "<p><img loading=\"lazy\" decoding=\"async\" src=\"http://s-andante.org/wp-content/uploads/2023/05/案内表-scaled.jpg\" alt=\"\" width=\"1810\" height=\"2560\" class=\"alignnone size-full wp-image-2839\" srcset=\"https://s-andante.org/wp-content/uploads/2023/05/案内表-scaled.jpg 1810w, https://s-andante.org/wp-content/uploads/2023/05/案内表-212x300.jpg 212w, https://s-andante.org/wp-content/uploads/2023/05/案内表-724x1024.jpg 724w, https://s-andante.org/wp-content/uploads/2023/05/案内表-768x1086.jpg 768w, https://s-andante.org/wp-content/uploads/2023/05/案内表-1086x1536.jpg 1086w, https://s-andante.org/wp-content/uploads/2023/05/案内表-1448x2048.jpg 1448w\" sizes=\"auto, (max-width: 1810px) 100vw, 1810px\" /><br />\n<img loading=\"lazy\" decoding=\"async\" src=\"http://s-andante.org/wp-content/uploads/2023/05/案内裏-scaled.jpg\" alt=\"\" width=\"1810\" height=\"2560\" class=\"alignnone size-full wp-image-2838\" srcset=\"https://s-andante.org/wp-content/uploads/2023/05/案内裏-scaled.jpg 1810w, https://s-andante.org/wp-content/uploads/2023/05/案内裏-212x300.jpg 212w, https://s-andante.org/wp-content/uploads/2023/05/案内裏-724x1024.jpg 724w, https://s-andante.org/wp-content/uploads/2023/05/案内裏-768x1086.jpg 768w, https://s-andante.org/wp-content/uploads/2023/05/案内裏-1086x1536.jpg 1086w, https://s-andante.org/wp-content/uploads/2023/05/案内裏-1448x2048.jpg 1448w\" sizes=\"auto, (max-width: 1810px) 100vw, 1810px\" /></p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "footnotes": ""
+    },
+    "class_list": [
+      "post-2745",
+      "page",
+      "type-page",
+      "status-publish",
+      "hentry"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://s-andante.org/wp-json/wp/v2/pages/2745",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://s-andante.org/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://s-andante.org/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://s-andante.org/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://s-andante.org/wp-json/wp/v2/comments?post=2745"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 4,
+          "href": "https://s-andante.org/wp-json/wp/v2/pages/2745/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 2851,
+          "href": "https://s-andante.org/wp-json/wp/v2/pages/2745/revisions/2851"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://s-andante.org/wp-json/wp/v2/media?parent=2745"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1565,
+    "date": "2020-04-09T15:44:22",
+    "date_gmt": "2020-04-09T06:44:22",
+    "guid": {
+      "rendered": "http://s-andante.org/login-customizer/"
+    },
+    "modified": "2020-04-09T15:44:22",
+    "modified_gmt": "2020-04-09T06:44:22",
+    "slug": "login-customizer",
+    "status": "publish",
+    "type": "page",
+    "link": "https://s-andante.org/login-customizer/",
+    "title": {
+      "rendered": "Login Customizer"
+    },
+    "content": {
+      "rendered": "<p>This page is used for Login Customizer plugin. It will not be visible to your readers. Do not delete it.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>This page is used for Login Customizer p &hellip; </p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "template-login-customizer.php",
+    "meta": {
+      "footnotes": ""
+    },
+    "class_list": [
+      "post-1565",
+      "page",
+      "type-page",
+      "status-publish",
+      "hentry"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://s-andante.org/wp-json/wp/v2/pages/1565",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://s-andante.org/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://s-andante.org/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://s-andante.org/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://s-andante.org/wp-json/wp/v2/comments?post=1565"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 0,
+          "href": "https://s-andante.org/wp-json/wp/v2/pages/1565/revisions"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://s-andante.org/wp-json/wp/v2/media?parent=1565"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1474,
+    "date": "2020-03-13T12:04:42",
+    "date_gmt": "2020-03-13T03:04:42",
+    "guid": {
+      "rendered": "http://s-andante.org/?page_id=1474"
+    },
+    "modified": "2020-08-19T11:04:02",
+    "modified_gmt": "2020-08-19T02:04:02",
+    "slug": "%e3%81%94%e6%94%af%e6%8f%b4%e3%81%84%e3%81%9f%e3%81%a0%e3%81%84%e3%81%a6%e3%81%84%e3%82%8b%e4%bc%81%e6%a5%ad%e3%83%bb%e5%9b%a3%e4%bd%93%e4%b8%80%e8%a6%a7",
+    "status": "publish",
+    "type": "page",
+    "link": "https://s-andante.org/%e3%81%94%e6%94%af%e6%8f%b4%e3%81%84%e3%81%9f%e3%81%a0%e3%81%84%e3%81%a6%e3%81%84%e3%82%8b%e4%bc%81%e6%a5%ad%e3%83%bb%e5%9b%a3%e4%bd%93%e4%b8%80%e8%a6%a7/",
+    "title": {
+      "rendered": "ご支援を頂いている企業・団体一覧"
+    },
+    "content": {
+      "rendered": "\t\t<div data-elementor-type=\"wp-page\" data-elementor-id=\"1474\" class=\"elementor elementor-1474\" data-elementor-settings=\"[]\">\n\t\t\t<div class=\"elementor-inner\">\n\t\t\t\t<div class=\"elementor-section-wrap\">\n\t\t\t\t\t\t\t<section class=\"elementor-element elementor-element-945faed elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section\" data-id=\"945faed\" data-element_type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t<div class=\"elementor-row\">\n\t\t\t\t<div class=\"elementor-element elementor-element-c79d56a elementor-column elementor-col-100 elementor-top-column\" data-id=\"c79d56a\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-column-wrap  elementor-element-populated\">\n\t\t\t\t\t<div class=\"elementor-widget-wrap\">\n\t\t\t\t<div class=\"elementor-element elementor-element-560b280 elementor-widget elementor-widget-text-editor\" data-id=\"560b280\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<div class=\"elementor-text-editor elementor-clearfix\"><p>「一般社団法人あんだんて」は、家庭と学校以外の「第３の居場所づくり」を目的に運営されている団体です。<br />団体の運営はこれまで培ってきたネットワークを通じて知り合った団体、法人、個人の皆様のご協力によって支えられています。<br /><br /></p></div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\t\t\t\t<section class=\"elementor-element elementor-element-d4fdea5 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section\" data-id=\"d4fdea5\" data-element_type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t<div class=\"elementor-row\">\n\t\t\t\t<div class=\"elementor-element elementor-element-b72ecee elementor-column elementor-col-100 elementor-top-column\" data-id=\"b72ecee\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-column-wrap  elementor-element-populated\">\n\t\t\t\t\t<div class=\"elementor-widget-wrap\">\n\t\t\t\t<div class=\"elementor-element elementor-element-b4e2e9a elementor-widget elementor-widget-shortcode\" data-id=\"b4e2e9a\" data-element_type=\"widget\" data-widget_type=\"shortcode.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<div class=\"elementor-shortcode\"><ul class=\"lcp_catlist\" id=\"lcp_instance_0\"><li >  2026-03-31&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"https://s-andante.org/2026/03/31/%e4%bb%a4%e5%92%8c7%e5%b9%b4%e5%ba%a6%e5%85%a8%e5%9b%bd%e9%a3%9f%e6%94%af%e6%8f%b4%e6%b4%bb%e5%8b%95%e5%8d%94%e5%8a%9b%e4%bc%9a%e6%a7%98/\" title=\"令和7年度全国食支援活動協力会様\">令和7年度全国食支援活動協力会様</a></li><li >  2026-03-31&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"https://s-andante.org/2026/03/31/%e4%bb%a4%e5%92%8c7%e5%b9%b4%e5%ba%a6%e3%82%82%e3%81%8f%e3%81%9f%e3%82%93%e5%b7%a5%e6%88%bf%e6%a7%98/\" title=\"令和7年度もくたん工房様\">令和7年度もくたん工房様</a></li><li >  2026-03-31&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"https://s-andante.org/2026/03/31/3800/\" title=\"令和7年度白河市様\">令和7年度白河市様</a></li><li >  2026-03-31&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"https://s-andante.org/2026/03/31/%e4%bb%a4%e5%92%8c7%e5%b9%b4%e5%ba%a6%e3%82%a2%e3%82%a4%e3%83%aa%e3%82%b9%e3%82%aa%e3%83%bc%e3%83%a4%e3%83%9e%e6%a7%98/\" title=\"令和7年度アイリスオーヤマ様\">令和7年度アイリスオーヤマ様</a></li><li >  2026-03-31&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"https://s-andante.org/2026/03/31/%e4%bb%a4%e5%92%8c7%e5%b9%b4%e5%ba%a6%e4%b8%80%e8%88%ac%e8%b2%a1%e5%9b%a3%e6%b3%95%e4%ba%ba%e3%81%b5%e3%81%8f%e3%81%97%e3%81%be%e6%9c%aa%e6%9d%a5%e7%a0%94%e7%a9%b6%e4%bc%9a%e6%a7%98/\" title=\"令和7年度一般財団法人ふくしま未来研究会様\">令和7年度一般財団法人ふくしま未来研究会様</a></li><li >  2025-12-31&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"https://s-andante.org/2025/12/31/%e3%81%94%e6%94%af%e6%8f%b4%e3%81%ab%e6%84%9f%e8%ac%9d-3/\" title=\"2025年度ご支援に感謝\">2025年度ご支援に感謝</a></li><li >  2025-03-11&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"https://s-andante.org/2025/03/11/%e4%bb%a4%e5%92%8c%ef%bc%96%e5%b9%b4%e5%ba%a6%e3%81%94%e6%94%af%e6%8f%b4%e3%81%ab%e6%84%9f%e8%ac%9d/\" title=\"ふくしま未来研究会様\">ふくしま未来研究会様</a></li><li >  2025-03-11&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"https://s-andante.org/2025/03/11/%e3%81%94%e6%94%af%e6%8f%b4%e3%81%ab%e6%84%9f%e8%ac%9d%e3%81%a8%e3%81%8a%e9%a1%98%e3%81%84/\" title=\"ご支援に感謝とお願い\">ご支援に感謝とお願い</a></li><li >  2022-07-06&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"https://s-andante.org/2022/07/06/%e3%81%94%e6%94%af%e6%8f%b4%e3%81%ab%e6%84%9f%e8%ac%9d-2/\" title=\"ご支援に感謝申し上げます\">ご支援に感謝申し上げます</a></li><li >  2022-07-02&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"https://s-andante.org/2022/07/02/%e3%81%94%e6%94%af%e6%8f%b4%e3%81%ab%e6%84%9f%e8%ac%9d%e7%94%b3%e3%81%97%e4%b8%8a%e3%81%92%e3%81%be%e3%81%99/\" title=\"ご支援に感謝申し上げます\">ご支援に感謝申し上げます</a></li><li >  2021-10-28&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"https://s-andante.org/2021/10/28/%e7%8e%89%e5%b7%9d%e3%83%a9%e3%82%a4%e3%82%aa%e3%83%b3%e3%82%ba%e3%82%af%e3%83%a9%e3%83%96%e6%a7%98%e5%be%a1%e6%94%af%e6%8f%b4%e3%81%82%e3%82%8a%e3%81%8c%e3%81%a8%e3%81%86%e3%81%94%e3%81%96%e3%81%84/\" title=\"玉川ライオンズクラブ様御支援ありがとうございます\">玉川ライオンズクラブ様御支援ありがとうございます</a></li><li >  2021-09-29&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"https://s-andante.org/2021/09/29/%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%be%e3%81%82%e3%81%a5%e3%81%be%e3%82%84%e6%a7%98%e3%81%8a%e8%82%89%e4%bb%a3%e5%8d%8a%e9%a1%8d%e3%81%94%e6%94%af%e6%8f%b4%e3%81%84%e3%81%9f%e3%81%a0%e3%81%8d%e6%84%9f/\" title=\"株式会社あづまや様お肉代半額ご支援いただき感謝申し上げます\">株式会社あづまや様お肉代半額ご支援いただき感謝申し上げます</a></li><li >  2021-09-10&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"https://s-andante.org/2021/09/10/%e7%99%bd%e6%b2%b3%e5%b0%8f%e5%b3%b0%e3%83%a9%e3%82%a4%e3%82%aa%e3%83%b3%e3%82%ba%e3%82%af%e3%83%a9%e3%83%96%e6%a7%98%e5%be%a1%e6%94%af%e6%8f%b4%e3%81%82%e3%82%8a%e3%81%8c%e3%81%a8%e3%81%86%e3%81%94/\" title=\"白河小峰ライオンズクラブ様御支援ありがとうございます\">白河小峰ライオンズクラブ様御支援ありがとうございます</a></li><li >  2021-08-23&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"https://s-andante.org/2021/08/23/%e7%89%9b%e8%a7%92%e7%99%bd%e6%b2%b3%e5%ba%97%e3%80%81%e8%b5%a4%e3%81%8b%e3%82%89%e7%99%bd%e6%b2%b3%e5%ba%97%e6%a7%98%e3%82%88%e3%82%8a%e3%81%94%e5%af%84%e4%bb%98%e9%a0%82%e3%81%8d%e3%81%be%e3%81%97/\" title=\"牛角白河店、赤から白河店（移パーツ有限会社）様よりご寄付頂きました\">牛角白河店、赤から白河店（移パーツ有限会社）様よりご寄付頂きました</a></li><li >  2021-08-11&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"https://s-andante.org/2021/08/11/ja%e5%a4%a2%e3%81%bf%e3%81%aa%e3%81%bf%e7%99%bd%e6%b2%b3%e3%81%9d%e3%81%95%e3%81%84%e9%83%a8%e4%bc%9a%e6%a7%98%e3%82%88%e3%82%8a%e6%af%8e%e9%80%b1%e6%b0%b4%e6%9b%9c%e6%97%a5%e3%81%8a%e9%87%8e%e8%8f%9c/\" title=\"JA夢みなみ白河そさい部会様より毎週水曜日お野菜の御支援\">JA夢みなみ白河そさい部会様より毎週水曜日お野菜の御支援</a></li><li >  2021-03-10&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"https://s-andante.org/2021/03/10/%e8%b5%a4%e3%81%84%e7%be%bd%e6%a0%b9%e5%ad%90%e3%81%a9%e3%82%82%e3%81%a8%e5%ae%b6%e6%97%8f%e3%81%ae%e7%b7%8a%e6%80%a5%e6%94%af%e6%8f%b4%e5%85%a8%e5%9b%bd%e3%82%ad%e3%83%a3%e3%83%b3%e3%83%9a%e3%83%bc/\" title=\"赤い羽根子どもと家族の緊急支援全国キャンペーン助成決定いただきました\">赤い羽根子どもと家族の緊急支援全国キャンペーン助成決定いただきました</a></li><li >  2020-08-26&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"https://s-andante.org/2020/08/26/%e3%81%94%e6%94%af%e6%8f%b4%e3%81%ab%e6%84%9f%e8%ac%9d/\" title=\"ご支援に感謝\">ご支援に感謝</a></li><li >  2020-08-18&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"https://s-andante.org/2020/08/18/%e3%81%94%e6%94%af%e6%8f%b4%e3%81%82%e3%82%8a%e3%81%8c%e3%81%a8%e3%81%86%e3%81%94%e3%81%96%e3%81%84%e3%81%be%e3%81%99%e3%80%82/\" title=\"ご支援ありがとうございます。(白河ライオンズクラブ様)\">ご支援ありがとうございます。(白河ライオンズクラブ様)</a></li></ul></div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t\t",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>「一般社団法人あんだんて」は、家庭と学校以外の「第３の居場所づくり」を目的に運営 &hellip; </p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "elementor_header_footer",
+    "meta": {
+      "footnotes": ""
+    },
+    "class_list": [
+      "post-1474",
+      "page",
+      "type-page",
+      "status-publish",
+      "hentry"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://s-andante.org/wp-json/wp/v2/pages/1474",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://s-andante.org/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://s-andante.org/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://s-andante.org/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://s-andante.org/wp-json/wp/v2/comments?post=1474"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 21,
+          "href": "https://s-andante.org/wp-json/wp/v2/pages/1474/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 1655,
+          "href": "https://s-andante.org/wp-json/wp/v2/pages/1474/revisions/1655"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://s-andante.org/wp-json/wp/v2/media?parent=1474"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 927,
+    "date": "2020-02-27T20:24:36",
+    "date_gmt": "2020-02-27T11:24:36",
+    "guid": {
+      "rendered": "http://s-andante.org/?page_id=927"
+    },
+    "modified": "2021-10-03T15:56:00",
+    "modified_gmt": "2021-10-03T06:56:00",
+    "slug": "yp-2",
+    "status": "publish",
+    "type": "page",
+    "link": "https://s-andante.org/yp-2/",
+    "title": {
+      "rendered": "ユースプレイス県南"
+    },
+    "content": {
+      "rendered": "\t\t<div data-elementor-type=\"wp-page\" data-elementor-id=\"927\" class=\"elementor elementor-927\" data-elementor-settings=\"[]\">\n\t\t\t<div class=\"elementor-inner\">\n\t\t\t\t<div class=\"elementor-section-wrap\">\n\t\t\t\t\t\t\t<section class=\"elementor-element elementor-element-44cb900 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section\" data-id=\"44cb900\" data-element_type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t<div class=\"elementor-row\">\n\t\t\t\t<div class=\"elementor-element elementor-element-e543c6b elementor-column elementor-col-100 elementor-top-column\" data-id=\"e543c6b\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-column-wrap  elementor-element-populated\">\n\t\t\t\t\t<div class=\"elementor-widget-wrap\">\n\t\t\t\t<div class=\"elementor-element elementor-element-ab28c23 elementor-widget elementor-widget-image\" data-id=\"ab28c23\" data-element_type=\"widget\" data-widget_type=\"image.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<div class=\"elementor-image\">\n\t\t\t\t\t\t\t\t\t\t<img loading=\"lazy\" decoding=\"async\" width=\"1140\" height=\"500\" src=\"https://s-andante.org/wp-content/uploads/2020/03/slider3-2.jpg\" class=\"attachment-full size-full\" alt=\"\" srcset=\"https://s-andante.org/wp-content/uploads/2020/03/slider3-2.jpg 1140w, https://s-andante.org/wp-content/uploads/2020/03/slider3-2-300x132.jpg 300w, https://s-andante.org/wp-content/uploads/2020/03/slider3-2-1024x449.jpg 1024w, https://s-andante.org/wp-content/uploads/2020/03/slider3-2-768x337.jpg 768w\" sizes=\"auto, (max-width: 1140px) 100vw, 1140px\" />\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\t\t\t\t<section class=\"elementor-element elementor-element-2e1cc2b elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section\" data-id=\"2e1cc2b\" data-element_type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t<div class=\"elementor-row\">\n\t\t\t\t<div class=\"elementor-element elementor-element-c1610f9 elementor-column elementor-col-100 elementor-top-column\" data-id=\"c1610f9\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-column-wrap  elementor-element-populated\">\n\t\t\t\t\t<div class=\"elementor-widget-wrap\">\n\t\t\t\t<div class=\"elementor-element elementor-element-ec94c80 elementor-widget elementor-widget-text-editor\" data-id=\"ec94c80\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<div class=\"elementor-text-editor elementor-clearfix\"><h3>ユースプレイスとは</h3>\n安心して何にでも挑戦できる新しい居場所（活動スペース）様々な体験機会を提供しています。<br>\n基本的に自由に過ごすことができますが、定期的に企画も実施しています。<br>\n学校でも家でもない、若者の居場所。<br>ロールモデルとなる様々な人と出会い、いろいろなことにチャレンジしながら学ぶことができる場所です。</div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\t\t\t\t<section class=\"elementor-element elementor-element-3f6b705 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section\" data-id=\"3f6b705\" data-element_type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t<div class=\"elementor-row\">\n\t\t\t\t<div class=\"elementor-element elementor-element-a58d2bf elementor-column elementor-col-50 elementor-top-column\" data-id=\"a58d2bf\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-column-wrap  elementor-element-populated\">\n\t\t\t\t\t<div class=\"elementor-widget-wrap\">\n\t\t\t\t<div class=\"elementor-element elementor-element-fe4d42d elementor-widget elementor-widget-image\" data-id=\"fe4d42d\" data-element_type=\"widget\" data-widget_type=\"image.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<div class=\"elementor-image\">\n\t\t\t\t\t\t\t\t\t\t<img loading=\"lazy\" decoding=\"async\" width=\"724\" height=\"1024\" src=\"https://s-andante.org/wp-content/uploads/2021/10/us1-724x1024.jpg\" class=\"attachment-large size-large\" alt=\"\" srcset=\"https://s-andante.org/wp-content/uploads/2021/10/us1-724x1024.jpg 724w, https://s-andante.org/wp-content/uploads/2021/10/us1-212x300.jpg 212w, https://s-andante.org/wp-content/uploads/2021/10/us1-768x1086.jpg 768w, https://s-andante.org/wp-content/uploads/2021/10/us1.jpg 794w\" sizes=\"auto, (max-width: 724px) 100vw, 724px\" />\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-dc98de8 elementor-column elementor-col-50 elementor-top-column\" data-id=\"dc98de8\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-column-wrap  elementor-element-populated\">\n\t\t\t\t\t<div class=\"elementor-widget-wrap\">\n\t\t\t\t<div class=\"elementor-element elementor-element-7173ac8 elementor-widget elementor-widget-image\" data-id=\"7173ac8\" data-element_type=\"widget\" data-widget_type=\"image.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<div class=\"elementor-image\">\n\t\t\t\t\t\t\t\t\t\t<img loading=\"lazy\" decoding=\"async\" width=\"724\" height=\"1024\" src=\"https://s-andante.org/wp-content/uploads/2021/10/us2-724x1024.jpg\" class=\"attachment-large size-large\" alt=\"\" srcset=\"https://s-andante.org/wp-content/uploads/2021/10/us2-724x1024.jpg 724w, https://s-andante.org/wp-content/uploads/2021/10/us2-212x300.jpg 212w, https://s-andante.org/wp-content/uploads/2021/10/us2-768x1086.jpg 768w, https://s-andante.org/wp-content/uploads/2021/10/us2.jpg 794w\" sizes=\"auto, (max-width: 724px) 100vw, 724px\" />\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t\t",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>ユースプレイスとは 安心して何にでも挑戦できる新しい居場所（活動スペース）様々な &hellip; </p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "elementor_header_footer",
+    "meta": {
+      "footnotes": ""
+    },
+    "class_list": [
+      "post-927",
+      "page",
+      "type-page",
+      "status-publish",
+      "hentry"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://s-andante.org/wp-json/wp/v2/pages/927",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://s-andante.org/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://s-andante.org/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://s-andante.org/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://s-andante.org/wp-json/wp/v2/comments?post=927"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 21,
+          "href": "https://s-andante.org/wp-json/wp/v2/pages/927/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 2114,
+          "href": "https://s-andante.org/wp-json/wp/v2/pages/927/revisions/2114"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://s-andante.org/wp-json/wp/v2/media?parent=927"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 907,
+    "date": "2020-02-24T14:27:37",
+    "date_gmt": "2020-02-24T05:27:37",
+    "guid": {
+      "rendered": "http://s-andante.org/?page_id=907"
+    },
+    "modified": "2023-05-02T18:02:39",
+    "modified_gmt": "2023-05-02T09:02:39",
+    "slug": "kodomos",
+    "status": "publish",
+    "type": "page",
+    "link": "https://s-andante.org/kodomos/",
+    "title": {
+      "rendered": "らふみーる（笑顔&#038;食）こども&#038;みんなの食堂"
+    },
+    "content": {
+      "rendered": "\t\t<div data-elementor-type=\"wp-page\" data-elementor-id=\"907\" class=\"elementor elementor-907\" data-elementor-settings=\"[]\">\n\t\t\t<div class=\"elementor-inner\">\n\t\t\t\t<div class=\"elementor-section-wrap\">\n\t\t\t\t\t\t\t<section class=\"elementor-element elementor-element-e2e110c elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section\" data-id=\"e2e110c\" data-element_type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t<div class=\"elementor-row\">\n\t\t\t\t<div class=\"elementor-element elementor-element-b1dc329 elementor-column elementor-col-100 elementor-top-column\" data-id=\"b1dc329\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-column-wrap  elementor-element-populated\">\n\t\t\t\t\t<div class=\"elementor-widget-wrap\">\n\t\t\t\t<div class=\"elementor-element elementor-element-b3715fc elementor-widget elementor-widget-text-editor\" data-id=\"b3715fc\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<div class=\"elementor-text-editor elementor-clearfix\">こども食堂は、温かい食事を提供するだけでなく、地域住民の目が届く所で安全にご飯を食べることができます。\nまた、たくさんの人々が集まる場所であることから、アットホームな雰囲気の中で食事をとることで、その時間を楽しみながら過ごすことができます。\n</div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\t\t\t\t<section class=\"elementor-element elementor-element-bb3d6e9 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section\" data-id=\"bb3d6e9\" data-element_type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t<div class=\"elementor-row\">\n\t\t\t\t<div class=\"elementor-element elementor-element-97b8dfc elementor-column elementor-col-100 elementor-top-column\" data-id=\"97b8dfc\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-column-wrap  elementor-element-populated\">\n\t\t\t\t\t<div class=\"elementor-widget-wrap\">\n\t\t\t\t<div class=\"elementor-element elementor-element-08bbc44 elementor-widget elementor-widget-image\" data-id=\"08bbc44\" data-element_type=\"widget\" data-widget_type=\"image.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<div class=\"elementor-image\">\n\t\t\t\t\t\t\t\t\t\t<img loading=\"lazy\" decoding=\"async\" width=\"1140\" height=\"500\" src=\"https://s-andante.org/wp-content/uploads/2020/03/slider2.jpg\" class=\"attachment-full size-full\" alt=\"\" srcset=\"https://s-andante.org/wp-content/uploads/2020/03/slider2.jpg 1140w, https://s-andante.org/wp-content/uploads/2020/03/slider2-300x132.jpg 300w, https://s-andante.org/wp-content/uploads/2020/03/slider2-768x337.jpg 768w, https://s-andante.org/wp-content/uploads/2020/03/slider2-1024x449.jpg 1024w\" sizes=\"auto, (max-width: 1140px) 100vw, 1140px\" />\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\t\t\t\t<section class=\"elementor-element elementor-element-6a79d2a elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section\" data-id=\"6a79d2a\" data-element_type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t<div class=\"elementor-row\">\n\t\t\t\t<div class=\"elementor-element elementor-element-a109114 elementor-column elementor-col-100 elementor-top-column\" data-id=\"a109114\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-column-wrap  elementor-element-populated\">\n\t\t\t\t\t<div class=\"elementor-widget-wrap\">\n\t\t\t\t<div class=\"elementor-element elementor-element-a6a2aed elementor-widget elementor-widget-text-editor\" data-id=\"a6a2aed\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<div class=\"elementor-text-editor elementor-clearfix\"><h1>幼児・小・中学生無料</h1><p>※要予約：一家庭利用協力金５００円</p></div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\t\t\t\t<section class=\"elementor-element elementor-element-6030fc0 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section\" data-id=\"6030fc0\" data-element_type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t<div class=\"elementor-row\">\n\t\t\t\t<div class=\"elementor-element elementor-element-0ebfc28 elementor-column elementor-col-100 elementor-top-column\" data-id=\"0ebfc28\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-column-wrap  elementor-element-populated\">\n\t\t\t\t\t<div class=\"elementor-widget-wrap\">\n\t\t\t\t<div class=\"elementor-element elementor-element-982d75e elementor-widget elementor-widget-text-editor\" data-id=\"982d75e\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<div class=\"elementor-text-editor elementor-clearfix\"><h3 class=\"mida2\">らふみーるこども＆みんなの食堂新着情報</h3><p>表示されている日付は掲載日です。<br />内容を閲覧する場合は日付の横のタイトルをクリックして下さい。</p></div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\t\t\t\t<section class=\"elementor-element elementor-element-89643fb elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section\" data-id=\"89643fb\" data-element_type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t<div class=\"elementor-row\">\n\t\t\t\t<div class=\"elementor-element elementor-element-b8363b7 elementor-column elementor-col-100 elementor-top-column\" data-id=\"b8363b7\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-column-wrap  elementor-element-populated\">\n\t\t\t\t\t<div class=\"elementor-widget-wrap\">\n\t\t\t\t<div class=\"elementor-element elementor-element-7530448 elementor-widget elementor-widget-shortcode\" data-id=\"7530448\" data-element_type=\"widget\" data-widget_type=\"shortcode.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<div class=\"elementor-shortcode\"><ul class=\"lcp_catlist\" id=\"lcp_instance_0\"><li >  2026-05-07&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"https://s-andante.org/2026/05/07/%e4%bb%a4%e5%92%8c%ef%bc%98%e5%b9%b45%e6%9c%8824%e6%97%a5%e6%97%a5%e3%81%93%e3%81%a9%e3%82%82%e9%a3%9f%e5%a0%82%e9%96%8b%e5%82%ac/\" title=\"令和８年5月24日(日)こども食堂開催\">令和８年5月24日(日)こども食堂開催</a></li><li >  2026-05-07&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"https://s-andante.org/2026/05/07/%e4%bb%a4%e5%92%8c%ef%bc%98%e5%b9%b45%e6%9c%8810%e6%97%a5%e6%97%a5%e3%81%93%e3%81%a9%e3%82%82%e9%a3%9f%e5%a0%82%e9%96%8b%e5%82%ac/\" title=\"令和８年5月10日(日)こども食堂開催\">令和８年5月10日(日)こども食堂開催</a></li><li >  2026-04-15&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"https://s-andante.org/2026/04/15/%e4%bb%a4%e5%92%8c%ef%bc%98%e5%b9%b4%ef%bc%94%e6%9c%8826%e6%97%a5%e6%97%a5%e3%81%93%e3%81%a9%e3%82%82%e9%a3%9f%e5%a0%82%e9%96%8b%e5%82%ac/\" title=\"令和８年４月26日(日)こども食堂開催\">令和８年４月26日(日)こども食堂開催</a></li><li >  2026-04-07&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"https://s-andante.org/2026/04/07/%e4%bb%a4%e5%92%8c%ef%bc%98%e5%b9%b4%ef%bc%94%e6%9c%8812%e6%97%a5%e3%81%93%e3%81%a9%e3%82%82%e9%a3%9f%e5%a0%82%e9%96%8b%e5%82%ac/\" title=\"令和８年４月12日(日)こども食堂開催\">令和８年４月12日(日)こども食堂開催</a></li><li >  2026-03-03&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"https://s-andante.org/2026/03/03/3%e6%9c%8827%e6%97%a5%e9%87%91%e3%82%89%e3%81%b5%e3%81%bf%e3%83%bc%e3%82%8b%e7%99%bd%e6%b2%b3%e3%81%93%e3%81%a9%e3%82%82%e9%a3%9f%e5%a0%82%e9%96%8b%e5%82%ac/\" title=\"3月27日(金)らふみーる白河こども食堂開催\">3月27日(金)らふみーる白河こども食堂開催</a></li><li >  2026-03-02&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"https://s-andante.org/2026/03/02/3%e6%9c%8822%e6%97%a5%e6%97%a5%e3%82%89%e3%81%b5%e3%81%bf%e3%83%bc%e3%82%8b%e3%81%93%e3%81%a9%e3%82%82%ef%bc%86%e3%81%bf%e3%82%93%e3%81%aa%e3%81%ae%e9%a3%9f%e5%a0%82%e9%96%8b%e5%82%ac-2/\" title=\"3月22日(日)らふみーるこども＆みんなの食堂開催\">3月22日(日)らふみーるこども＆みんなの食堂開催</a></li><li >  2026-03-02&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"https://s-andante.org/2026/03/02/3%e6%9c%888%e6%97%a5%e6%97%a5%e3%82%89%e3%81%b5%e3%81%bf%e3%83%bc%e3%82%8b%e3%81%93%e3%81%a9%e3%82%82%ef%bc%86%e3%81%bf%e3%82%93%e3%81%aa%e3%81%ae%e9%a3%9f%e5%a0%82%e9%96%8b%e5%82%ac/\" title=\"3月8日(日)らふみーるこども＆みんなの食堂開催\">3月8日(日)らふみーるこども＆みんなの食堂開催</a></li><li >  2026-02-18&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"https://s-andante.org/2026/02/18/2%e6%9c%8827%e6%97%a5%e3%88%ae%e3%82%89%e3%81%b5%e3%81%bf%e3%83%bc%e3%82%8b%e7%99%bd%e6%b2%b3%e3%81%93%e3%81%a9%e3%82%82%e9%a3%9f%e5%a0%82%e9%96%8b%e5%82%ac/\" title=\"2月27日(金)らふみーる白河こども食堂開催\">2月27日(金)らふみーる白河こども食堂開催</a></li><li >  2026-02-17&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"https://s-andante.org/2026/02/17/2%e6%9c%8822%e6%97%a5%e6%97%a5%e3%82%89%e3%81%b5%e3%81%bf%e3%83%bc%e3%82%8b%e3%81%93%e3%81%a9%e3%82%82%ef%bc%86%e3%81%bf%e3%82%93%e3%81%aa%e3%81%ae%e9%a3%9f%e5%a0%82%e9%96%8b%e5%82%ac/\" title=\"2月22日(日)らふみーるこども＆みんなの食堂開催\">2月22日(日)らふみーるこども＆みんなの食堂開催</a></li><li >  2026-02-01&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"https://s-andante.org/2026/02/01/2%e6%9c%888%e6%97%a5%e6%97%a5%e3%82%89%e3%81%b5%e3%81%bf%e3%83%bc%e3%82%8b%e3%81%93%e3%81%a9%e3%82%82%ef%bc%86%e3%81%bf%e3%82%93%e3%81%aa%e3%81%ae%e9%a3%9f%e5%a0%82%e9%96%8b%e5%82%ac/\" title=\"2月8日(日)らふみーるこども＆みんなの食堂開催\">2月8日(日)らふみーるこども＆みんなの食堂開催</a></li><li >  2026-01-25&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"https://s-andante.org/2026/01/25/1%e6%9c%8830%e6%97%a5%e9%87%91%e3%82%89%e3%81%b5%e3%81%bf%e3%83%bc%e3%82%8b%e7%99%bd%e6%b2%b3%e3%81%93%e3%81%a9%e3%82%82%e9%a3%9f%e5%a0%82%e9%96%8b%e5%82%ac/\" title=\"1月30日(金)らふみーる白河こども食堂開催\">1月30日(金)らふみーる白河こども食堂開催</a></li><li >  2026-01-13&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"https://s-andante.org/2026/01/13/1%e6%9c%8825%e6%97%a5%e6%97%a5%e3%82%89%e3%81%b5%e3%81%bf%e3%83%bc%e3%82%8b%e3%81%93%e3%81%a9%e3%82%82%ef%bc%86%e3%81%bf%e3%82%93%e3%81%aa%e3%81%ae%e9%a3%9f%e5%a0%82%e9%96%8b%e5%82%ac/\" title=\"1月25日(日)らふみーるこども＆みんなの食堂開催\">1月25日(日)らふみーるこども＆みんなの食堂開催</a></li><li >  2026-01-08&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"https://s-andante.org/2026/01/08/1%e6%9c%8811%e6%97%a5%e6%97%a5%e3%82%89%e3%81%b5%e3%81%bf%e3%83%bc%e3%82%8b%e3%81%93%e3%81%a9%e3%82%82%ef%bc%86%e3%81%bf%e3%82%93%e3%81%aa%e3%81%ae%e9%a3%9f%e5%a0%82%e9%96%8b%e5%82%ac/\" title=\"1月11日(日)らふみーるこども＆みんなの食堂開催\">1月11日(日)らふみーるこども＆みんなの食堂開催</a></li><li >  2026-01-07&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"https://s-andante.org/2026/01/07/%e4%bb%a4%e5%92%8c%ef%bc%98%e5%b9%b41%e6%9c%88%e3%82%89%e3%81%b5%e3%81%bf%e3%83%bc%e3%82%8b%e3%81%93%e3%81%a9%e3%82%82%ef%bc%86%e3%81%bf%e3%82%93%e3%81%aa%e3%81%ae%e9%a3%9f%e5%a0%82%e9%96%8b%e5%82%ac/\" title=\"令和８年1月らふみーるこども＆みんなの食堂開催\">令和８年1月らふみーるこども＆みんなの食堂開催</a></li><li >  2025-12-23&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"https://s-andante.org/2025/12/23/12%e6%9c%8823%e6%97%a5%e7%81%ab%e3%82%89%e3%81%b5%e3%81%bf%e3%83%bc%e3%82%8b%e3%81%93%e3%81%a9%e3%82%82%ef%bc%86%e3%81%bf%e3%82%93%e3%81%aa%e3%81%ae%e9%a3%9f%e5%a0%82%e9%96%8b%e5%82%ac/\" title=\"12月23日(火)らふみーるこども＆みんなの食堂開催\">12月23日(火)らふみーるこども＆みんなの食堂開催</a></li><li >  2025-12-05&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"https://s-andante.org/2025/12/05/12%e6%9c%8814%e6%97%a5%e6%97%a5%e3%82%89%e3%81%b5%e3%81%bf%e3%83%bc%e3%82%8b%e3%81%93%e3%81%a9%e3%82%82%ef%bc%86%e3%81%bf%e3%82%93%e3%81%aa%e3%81%ae%e9%a3%9f%e5%a0%82%e9%96%8b%e5%82%ac/\" title=\"12月14日(日)らふみーるこども＆みんなの食堂開催\">12月14日(日)らふみーるこども＆みんなの食堂開催</a></li><li >  2025-11-05&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"https://s-andante.org/2025/11/05/1%e6%9c%8830%e6%97%a5%e9%87%91%e3%82%89%e3%81%b5%e3%81%bf%e3%83%bc%e3%82%8b%e7%99%bd%e6%b2%b3%e3%81%93%e3%81%a9%e3%82%82%e9%a3%9f%e5%a0%82%e9%96%8b%e5%82%ac-2/\" title=\"11月14日(金)らふみーる白河こども食堂開催\">11月14日(金)らふみーる白河こども食堂開催</a></li><li >  2025-11-04&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"https://s-andante.org/2025/11/04/10%e6%9c%889%e6%97%a5%e6%97%a5%e3%82%89%e3%81%b5%e3%81%bf%e3%83%bc%e3%82%8b%e3%81%93%e3%81%a9%e3%82%82%ef%bc%86%e3%81%bf%e3%82%93%e3%81%aa%e3%81%ae%e9%a3%9f%e5%a0%82%e9%96%8b%e5%82%ac/\" title=\"11月9日(日)らふみーるこども＆みんなの食堂開催\">11月9日(日)らふみーるこども＆みんなの食堂開催</a></li><li >  2025-10-10&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"https://s-andante.org/2025/10/10/11%e6%9c%8823%e6%97%a5%e6%97%a5%e3%82%89%e3%81%b5%e3%81%bf%e3%83%bc%e3%82%8b%e7%99%bd%e6%b2%b3%e3%81%93%e3%81%a9%e3%82%82%e9%a3%9f%e5%a0%82%e9%96%8b%e5%82%ac/\" title=\"10月26日(日)らふみーる白河こども食堂開催\">10月26日(日)らふみーる白河こども食堂開催</a></li><li >  2025-10-06&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"https://s-andante.org/2025/10/06/10%e6%9c%8812%e6%97%a5%e6%97%a5%e3%82%89%e3%81%b5%e3%81%bf%e3%83%bc%e3%82%8b%e3%81%93%e3%81%a9%e3%82%82%ef%bc%86%e3%81%bf%e3%82%93%e3%81%aa%e3%81%ae%e9%a3%9f%e5%a0%82%e9%96%8b%e5%82%ac/\" title=\"10月12日(日)らふみーるこども＆みんなの食堂開催\">10月12日(日)らふみーるこども＆みんなの食堂開催</a></li></ul><ul class='lcp_paginator'><li class='lcp_currentpage'>1</li><li><a href='https://s-andante.org/wp-json/wp/v2/pages?per_page=100&page=1&lcp_page0=2#lcp_instance_0' title='2'>2</a></li><li><a href='https://s-andante.org/wp-json/wp/v2/pages?per_page=100&page=1&lcp_page0=3#lcp_instance_0' title='3'>3</a></li><li><a href='https://s-andante.org/wp-json/wp/v2/pages?per_page=100&page=1&lcp_page0=4#lcp_instance_0' title='4'>4</a></li><li><a href='https://s-andante.org/wp-json/wp/v2/pages?per_page=100&page=1&lcp_page0=5#lcp_instance_0' title='5'>5</a></li><li><a href='https://s-andante.org/wp-json/wp/v2/pages?per_page=100&page=1&lcp_page0=6#lcp_instance_0' title='6'>6</a></li><span class='lcp_elipsis'>...</span><li><a href='https://s-andante.org/wp-json/wp/v2/pages?per_page=100&page=1&lcp_page0=14#lcp_instance_0' title='14'>14</a></li><li><a href='https://s-andante.org/wp-json/wp/v2/pages?per_page=100&page=1&lcp_page0=2#lcp_instance_0' title='2' class='lcp_nextlink'>>></a></li></ul></div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\t\t\t\t<section class=\"elementor-element elementor-element-ee98d55 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section\" data-id=\"ee98d55\" data-element_type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t<div class=\"elementor-row\">\n\t\t\t\t<div class=\"elementor-element elementor-element-7625d2b elementor-column elementor-col-100 elementor-top-column\" data-id=\"7625d2b\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-column-wrap  elementor-element-populated\">\n\t\t\t\t\t<div class=\"elementor-widget-wrap\">\n\t\t\t\t<div class=\"elementor-element elementor-element-116d5f1 elementor-widget elementor-widget-text-editor\" data-id=\"116d5f1\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<div class=\"elementor-text-editor elementor-clearfix\"><h3 class=\"mida1\">らふみーるこども＆みんなの食堂合言葉</h3>\n・自然の味を大切にしながら、一緒に調理を楽しみましょう！\n・食事をしながら楽しい時間を過ごし、友達を増やしましょう！</div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\t\t\t\t<section class=\"elementor-element elementor-element-ad8057e elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section\" data-id=\"ad8057e\" data-element_type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t<div class=\"elementor-row\">\n\t\t\t\t<div class=\"elementor-element elementor-element-3161e84 elementor-column elementor-col-100 elementor-top-column\" data-id=\"3161e84\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-column-wrap  elementor-element-populated\">\n\t\t\t\t\t<div class=\"elementor-widget-wrap\">\n\t\t\t\t<div class=\"elementor-element elementor-element-a9c1a66 elementor-widget elementor-widget-text-editor\" data-id=\"a9c1a66\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<div class=\"elementor-text-editor elementor-clearfix\"></div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\t\t\t\t<section class=\"elementor-element elementor-element-8c8fea4 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section\" data-id=\"8c8fea4\" data-element_type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t<div class=\"elementor-row\">\n\t\t\t\t<div class=\"elementor-element elementor-element-ad97cab elementor-column elementor-col-100 elementor-top-column\" data-id=\"ad97cab\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-column-wrap  elementor-element-populated\">\n\t\t\t\t\t<div class=\"elementor-widget-wrap\">\n\t\t\t\t<div class=\"elementor-element elementor-element-0ec0805 elementor-widget elementor-widget-text-editor\" data-id=\"0ec0805\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<div class=\"elementor-text-editor elementor-clearfix\"><h3 class=\"mida1\">どんな人が食べにきていますか？</h3>\n・両親が共働きのおうちで、一人でお留守番をしている子<br>\n・みんなといっしょににぎやかにごはんを食べたい子とその家族<br>\n・ごはんを食べながら、お友達作りをしたい人<br>\n・少しだけでも、ごはんの支度のお手伝いをしたい人<br>\n・地域で一人暮らしのおじいちゃんやおばあちゃん　等々<br>\n<h3>だからだれでも食べに来てよいのです！</h3>\n</div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\t\t\t\t<section class=\"elementor-element elementor-element-ff68158 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section\" data-id=\"ff68158\" data-element_type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t<div class=\"elementor-row\">\n\t\t\t\t<div class=\"elementor-element elementor-element-4b70a00 elementor-column elementor-col-50 elementor-top-column\" data-id=\"4b70a00\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-column-wrap  elementor-element-populated\">\n\t\t\t\t\t<div class=\"elementor-widget-wrap\">\n\t\t\t\t<div class=\"elementor-element elementor-element-5e7c570 elementor-widget elementor-widget-text-editor\" data-id=\"5e7c570\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<div class=\"elementor-text-editor elementor-clearfix\"><h3 class=\"mida2\" style=\"text-align: center;\">こども食堂開催日のお知らせ</h3><h3 style=\"text-align: center;\">こども無料（幼児～中学生）<br />１家庭利用協力金500円</h3><p><img loading=\"lazy\" decoding=\"async\" class=\"size-medium wp-image-975 aligncenter\" src=\"http://s-andante.org/wp-content/uploads/2020/03/kodomosyokudou_syokuji_kids-300x229.png\" alt=\"\" width=\"300\" height=\"229\" srcset=\"https://s-andante.org/wp-content/uploads/2020/03/kodomosyokudou_syokuji_kids-300x229.png 300w, https://s-andante.org/wp-content/uploads/2020/03/kodomosyokudou_syokuji_kids.png 550w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" /></p><p class=\"mida5\" style=\"text-align: center;\">昼食の部　場所：らふみーる</p><p>毎月　第２、第４日曜日　時間：11：30～14：00<br />※調理お手伝いボランティア募集中　（<span style=\"font-size: 1.6rem;\">９：00集合）</span></p><p>予約申込先<br /><span style=\"font-size: 24px;\">090-3759-4109</span><br />担当：山本</p></div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-1d3dcc8 elementor-column elementor-col-50 elementor-top-column\" data-id=\"1d3dcc8\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-column-wrap  elementor-element-populated\">\n\t\t\t\t\t<div class=\"elementor-widget-wrap\">\n\t\t\t\t<section class=\"elementor-element elementor-element-1bc9fb0 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section\" data-id=\"1bc9fb0\" data-element_type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t<div class=\"elementor-row\">\n\t\t\t\t<div class=\"elementor-element elementor-element-48d4571 elementor-column elementor-col-100 elementor-inner-column\" data-id=\"48d4571\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-column-wrap  elementor-element-populated\">\n\t\t\t\t\t<div class=\"elementor-widget-wrap\">\n\t\t\t\t<div class=\"elementor-element elementor-element-21172c8 elementor-widget elementor-widget-image\" data-id=\"21172c8\" data-element_type=\"widget\" data-widget_type=\"image.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<div class=\"elementor-image\">\n\t\t\t\t\t\t\t\t\t\t<img loading=\"lazy\" decoding=\"async\" width=\"500\" height=\"320\" src=\"https://s-andante.org/wp-content/uploads/2020/03/kodomokanban.jpg\" class=\"attachment-large size-large\" alt=\"\" srcset=\"https://s-andante.org/wp-content/uploads/2020/03/kodomokanban.jpg 500w, https://s-andante.org/wp-content/uploads/2020/03/kodomokanban-300x192.jpg 300w\" sizes=\"auto, (max-width: 500px) 100vw, 500px\" />\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\t\t\t\t<section class=\"elementor-element elementor-element-ea58eef elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section\" data-id=\"ea58eef\" data-element_type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t<div class=\"elementor-row\">\n\t\t\t\t<div class=\"elementor-element elementor-element-d7bfaee elementor-column elementor-col-100 elementor-inner-column\" data-id=\"d7bfaee\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-column-wrap  elementor-element-populated\">\n\t\t\t\t\t<div class=\"elementor-widget-wrap\">\n\t\t\t\t<div class=\"elementor-element elementor-element-0033d9c elementor-widget elementor-widget-text-editor\" data-id=\"0033d9c\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<div class=\"elementor-text-editor elementor-clearfix\"><div class=\"ggmap\"><iframe loading=\"lazy\" style=\"border: 0;\" src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3181.4486498759575!2d140.18325451529893!3d37.11823987988422!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60203acc88cca56b%3A0x881feea55b87291!2z44CSOTYxLTA4NTUg56aP5bO255yM55m95rKz5biC6auY5bGx6KW_77yR77yW77yS4oiS77yT77yU!5e0!3m2!1sja!2sjp!4v1581830597228!5m2!1sja!2sjp\" width=\"600\" height=\"450\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></div></div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t\t",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>こども食堂は、温かい食事を提供するだけでなく、地域住民の目が届く所で安全にご飯を &hellip; </p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "elementor_header_footer",
+    "meta": {
+      "footnotes": ""
+    },
+    "class_list": [
+      "post-907",
+      "page",
+      "type-page",
+      "status-publish",
+      "hentry"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://s-andante.org/wp-json/wp/v2/pages/907",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://s-andante.org/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://s-andante.org/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://s-andante.org/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://s-andante.org/wp-json/wp/v2/comments?post=907"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 50,
+          "href": "https://s-andante.org/wp-json/wp/v2/pages/907/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 2853,
+          "href": "https://s-andante.org/wp-json/wp/v2/pages/907/revisions/2853"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://s-andante.org/wp-json/wp/v2/media?parent=907"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 899,
+    "date": "2020-02-21T09:47:32",
+    "date_gmt": "2020-02-21T00:47:32",
+    "guid": {
+      "rendered": "http://s-andante.org/?page_id=899"
+    },
+    "modified": "2025-03-11T16:05:54",
+    "modified_gmt": "2025-03-11T07:05:54",
+    "slug": "shisetsu",
+    "status": "publish",
+    "type": "page",
+    "link": "https://s-andante.org/shisetsu/",
+    "title": {
+      "rendered": "活動実績"
+    },
+    "content": {
+      "rendered": "\t\t<div data-elementor-type=\"wp-page\" data-elementor-id=\"899\" class=\"elementor elementor-899\" data-elementor-settings=\"[]\">\n\t\t\t<div class=\"elementor-inner\">\n\t\t\t\t<div class=\"elementor-section-wrap\">\n\t\t\t\t\t\t\t<section class=\"elementor-element elementor-element-215f96e elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section\" data-id=\"215f96e\" data-element_type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t<div class=\"elementor-row\">\n\t\t\t\t<div class=\"elementor-element elementor-element-80db77c elementor-column elementor-col-100 elementor-top-column\" data-id=\"80db77c\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-column-wrap  elementor-element-populated\">\n\t\t\t\t\t<div class=\"elementor-widget-wrap\">\n\t\t\t\t<div class=\"elementor-element elementor-element-8ddf085 elementor-widget elementor-widget-text-editor\" data-id=\"8ddf085\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<div class=\"elementor-text-editor elementor-clearfix\"><h3 class=\"mida1\">あんだんて活動実績</h3><p><br />・2012年・平成24年1月　障がい者の就労支援実施 <br />・2012年・平成24年4月　一般社団法人　あんだんて設立<br />・2013年・平成25年4月　福島県地域づくり総合支援事業（サポート事業）「風評被害をぶっとばせ」実施<br />・2014年・平成26年4月　福島県地域づくり総合支援事業（サポート事業）「来て・見て・食べて・そして知ろう、ふくしま…!!」実施<br />・2015年・平成27年4月　福島県地域づくり総合支援事業（サポート事業）「来て・見て・食べて・そして知ろう、ふくしま…!!」実施<br />・2017年・平成29年4月　福島県地域創生総合支援事業　（サポート事業）「らふみーる（笑顔＆食）コミュニティサロン」実施<br />・2018年・平成30年4月　一般財団法人ふくしま未来研究会 広告協賛事業<br />・2018年・平成30年4月　福島県地域創生総合支援事業　（サポート事業）「きららかサロン」実施<br />・2018年・平成30年6月　福島県スタートアップ事業　　らふみーる（笑顔＆食）コミュニティサロン<br />・2019年・平成31年2月　白河市こども食堂応援補助金<br />・2019年・平成31年4月　福島県地域創生総合支援事業　（サポート事業）「健康地域交流体験教室」実施<br />・2019年・平成31年4月　一般財団法人ふくしま未来研究会 広告協賛事業<br />・2019年・平成31年4月　福島県地域で支える子育て推進事業　みんなで『らふみーる』（笑顔＆食）～今こそ食育、心と体の健康づくり～<br />・2019年・令和元年5月　白河市こども食堂応援補助金<br />・2019年・令和元年5月　福島県スタートアップ事業　　らふみーる（笑顔＆食）西郷上野原コミュニティサロン<br />・2019年・令和元年6月　社会福祉法人福島県共同募金会　「赤い羽根チャリティホワイトプロジェクト」2019年度<br />・2020年・令和2年3月 　公益財団法人福島民友愛の事業団　社会福祉推進事業助成<br />・2020年・令和2年4月 一般財団法人ふくしま未来研究会 広告協賛事業<br />・2020年・令和2年6月 　真如苑　子ども食堂活動支援助成<br />・2020年・令和2年4月 　白河市こども食堂応援補助金<br />・2020年・令和2年6月 　福島県地域で支える子育て推進事業 みんなで『らふみーる』（笑顔＆食）～今こそ食育、心と体の健康づくり～<br />・2020年・令和2年4月 　 社会福祉法人福島県共同募金会 「赤い羽根チャリティホワイトプロジェクト」2020年度<br />・2021年・令和2年4月 　 一般財団法人ふくしま未来研究会 広告協賛事業</p><p>・令和2年4月23日(2020年)  白河市こども食堂応援補助金(らふみーる)・令和2年6月  1日(2020年)  真如苑　子ども食堂活動支援助成</p><p>・令和2年6月  1日(2020年)  福島県地域で支える子育て推進事業</p><p>・令和3年2月15日(2021年)  一般財団法人全国食支援活動協会<span style=\"font-size: 1.6rem;\">　 毎日新聞東京社会事業団寄付助成</span></p><p><span style=\"font-size: 1.6rem;\">・令和3年4月12日(2021年)  一般財団法人ふくしま未来研究会 広告協賛事業</span></p><p>・令和3年4月16日(2021年)  白河市こども食堂応援補助金（らふみーる）</p><p>・令和3年5月25日(2021年)  一般財団法人全国食支援活動協会<span style=\"font-size: 1.6rem;\">     王将フードサービス「食を通して子どもの笑顔をつなごう」</span></p><p>・令和3年６月 １日(2021年)  福島県地域で支える子育て推進事業<span style=\"font-size: 1.6rem;\">  「子ども居場所づくり＆相談事業」</span></p><p>・令和3年6月  1日(2021年)  福島県地域で支える子育て推進事業　「<span style=\"font-size: 1.6rem;\">白河市表郷地区・大信地区こども食堂開設事業」</span></p><p>・令和3年8月10日(2021年)  東日本大震災復興支援<span style=\"font-size: 1.6rem;\">     サントリー東北サンさんプロジェクト「みらいチャレンジプログラム」</span></p><p>・令和3年11月25日(2021年) 白河市こども食堂<span style=\"font-size: 1.6rem;\">     新型コロナウイルス感染症対策支援事業（らふみーる）</span></p><p>・令和3年11月25日(2021年)  白河市こども食堂<span style=\"font-size: 1.6rem;\">      新型コロナウイルス感染症対策支援事業（しらかわ大信）</span></p><p>・令和3年11月25日(2021年)  白河市こども食堂<span style=\"font-size: 1.6rem;\">      新型コロナウイルス感染症対策支援事業（しらかわ表郷）</span></p><p>・令和4年3月2日（2022年）ひとり親家庭等の子どもの食事等支援事業</p><p>・令和4年4月25日（2022年）一般財団法人ふくしま未来研究会 広告協賛事業</p><p>・令和4年4月27日（2022年）キユーピーみらいたまご財団　</p><p>・令和4年5月2日（2022年）白河市こども食堂応補助金（らふみーる）</p><p>・令和4年5月2日（2022年）白河市こども食堂応補助金（しらかわ大信）</p><p>・令和4年6月1日（2022年）ファミリーマート助成金</p><p>・令和4年6月1日（2022年）ふくしまのこども応援助成金</p><p>・令和4年6月 1日 (2022年)  福島県地域で支える子育て推進事業「子ども居場所づくり＆相談事業」</p><p>・令和4年6月 1日 (2022年)  福島県地域で支える子育て推進事業「子ども居場所づくり＆相談事業」</p><p>・令和5年2月24日 (2023年）ひとり親家庭等の子どもの食事等支援事業</p><p>・令和5年4月7日（2023年）白河市こども食堂応補助金（らふみーる）</p><p>・令和5年4月7日（2023年）白河市こども食堂応補助金（しらかわ大信）</p><p>・令和5年4月9日（2023年）一般財団法人ふくしま未来研究会 広告協賛事業</p><p>・令和5年7月13日(2023年）「むすび・こども基金」2023年度陽募集</p><p>・令和5年8月25日(2023年）ひとり親家庭等の子どもの食事等支援事業</p><p> </p></div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-07b9245 elementor-widget elementor-widget-image\" data-id=\"07b9245\" data-element_type=\"widget\" data-widget_type=\"image.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<div class=\"elementor-image\">\n\t\t\t\t\t\t\t\t\t\t<img loading=\"lazy\" decoding=\"async\" width=\"724\" height=\"1024\" src=\"https://s-andante.org/wp-content/uploads/2023/05/案内表-724x1024.jpg\" class=\"attachment-large size-large\" alt=\"\" srcset=\"https://s-andante.org/wp-content/uploads/2023/05/案内表-724x1024.jpg 724w, https://s-andante.org/wp-content/uploads/2023/05/案内表-212x300.jpg 212w, https://s-andante.org/wp-content/uploads/2023/05/案内表-768x1086.jpg 768w, https://s-andante.org/wp-content/uploads/2023/05/案内表-1086x1536.jpg 1086w, https://s-andante.org/wp-content/uploads/2023/05/案内表-1448x2048.jpg 1448w, https://s-andante.org/wp-content/uploads/2023/05/案内表-scaled.jpg 1810w\" sizes=\"auto, (max-width: 724px) 100vw, 724px\" />\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\t\t\t\t<section class=\"elementor-element elementor-element-344657e elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section\" data-id=\"344657e\" data-element_type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t<div class=\"elementor-row\">\n\t\t\t\t<div class=\"elementor-element elementor-element-500db46 elementor-column elementor-col-100 elementor-top-column\" data-id=\"500db46\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-column-wrap  elementor-element-populated\">\n\t\t\t\t\t<div class=\"elementor-widget-wrap\">\n\t\t\t\t<div class=\"elementor-element elementor-element-c3c7534 elementor-widget elementor-widget-text-editor\" data-id=\"c3c7534\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<div class=\"elementor-text-editor elementor-clearfix\"><h3 class=\"mida1\">地域住民の憩いの場づくり</h3>\n陶芸や体操、書道教室、カラオケ、ぬりえ、カラーセラピー\nなどで、楽しみながらトレーニングやリラックス効果を得られ\nるよう様々なイベントを企画し、気軽に来ることの場所づくり\nをしています。また、手芸や工作品を販売し、若者達の就労の\nきっかけづくり。地域のみんなが健康で笑顔あふれるお手伝いを行っております。\n\n</div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t\t",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>あんだんて活動実績 ・2012年・平成24年1月　障がい者の就労支援実施 ・20 &hellip; </p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "elementor_header_footer",
+    "meta": {
+      "footnotes": ""
+    },
+    "class_list": [
+      "post-899",
+      "page",
+      "type-page",
+      "status-publish",
+      "hentry"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://s-andante.org/wp-json/wp/v2/pages/899",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://s-andante.org/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://s-andante.org/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://s-andante.org/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://s-andante.org/wp-json/wp/v2/comments?post=899"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 29,
+          "href": "https://s-andante.org/wp-json/wp/v2/pages/899/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 3705,
+          "href": "https://s-andante.org/wp-json/wp/v2/pages/899/revisions/3705"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://s-andante.org/wp-json/wp/v2/media?parent=899"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 847,
+    "date": "2020-02-20T09:41:22",
+    "date_gmt": "2020-02-20T00:41:22",
+    "guid": {
+      "rendered": "http://s-andante.org/?page_id=847"
+    },
+    "modified": "2023-08-21T11:39:44",
+    "modified_gmt": "2023-08-21T02:39:44",
+    "slug": "kiraraka",
+    "status": "publish",
+    "type": "page",
+    "link": "https://s-andante.org/kiraraka/",
+    "title": {
+      "rendered": "きららかサロン"
+    },
+    "content": {
+      "rendered": "\t\t<div data-elementor-type=\"wp-page\" data-elementor-id=\"847\" class=\"elementor elementor-847\" data-elementor-settings=\"[]\">\n\t\t\t<div class=\"elementor-inner\">\n\t\t\t\t<div class=\"elementor-section-wrap\">\n\t\t\t\t\t\t\t<section class=\"elementor-element elementor-element-7523fab elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section\" data-id=\"7523fab\" data-element_type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t<div class=\"elementor-row\">\n\t\t\t\t<div class=\"elementor-element elementor-element-85d64c3 elementor-column elementor-col-25 elementor-top-column\" data-id=\"85d64c3\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-column-wrap  elementor-element-populated\">\n\t\t\t\t\t<div class=\"elementor-widget-wrap\">\n\t\t\t\t<div class=\"elementor-element elementor-element-14198bd elementor-widget elementor-widget-image\" data-id=\"14198bd\" data-element_type=\"widget\" data-widget_type=\"image.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<div class=\"elementor-image\">\n\t\t\t\t\t\t\t\t\t\t<img loading=\"lazy\" decoding=\"async\" width=\"300\" height=\"165\" src=\"https://s-andante.org/wp-content/uploads/2020/02/karaoke.jpg\" class=\"attachment-large size-large\" alt=\"\" srcset=\"https://s-andante.org/wp-content/uploads/2020/02/karaoke.jpg 300w, https://s-andante.org/wp-content/uploads/2020/02/karaoke-230x127.jpg 230w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" />\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-85c17e2 elementor-column elementor-col-25 elementor-top-column\" data-id=\"85c17e2\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-column-wrap  elementor-element-populated\">\n\t\t\t\t\t<div class=\"elementor-widget-wrap\">\n\t\t\t\t<div class=\"elementor-element elementor-element-659587a elementor-widget elementor-widget-text-editor\" data-id=\"659587a\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<div class=\"elementor-text-editor elementor-clearfix\"><p><span style=\"color: #ff6600;\">カラオケコミュニケーション教室</span><br />音楽を楽しみたい、自由に歌って<br />脳を活性化したい<br />参加費500円（火・木曜日）<br />10:00～11:30<br />申込担当：芳賀（070-2014-9882)</p></div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-809e0e5 elementor-column elementor-col-25 elementor-top-column\" data-id=\"809e0e5\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-column-wrap  elementor-element-populated\">\n\t\t\t\t\t<div class=\"elementor-widget-wrap\">\n\t\t\t\t<div class=\"elementor-element elementor-element-35ba82a elementor-widget elementor-widget-image\" data-id=\"35ba82a\" data-element_type=\"widget\" data-widget_type=\"image.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<div class=\"elementor-image\">\n\t\t\t\t\t\t\t\t\t\t<img loading=\"lazy\" decoding=\"async\" width=\"300\" height=\"165\" src=\"https://s-andante.org/wp-content/uploads/2020/02/nurie.jpg\" class=\"attachment-large size-large\" alt=\"\" srcset=\"https://s-andante.org/wp-content/uploads/2020/02/nurie.jpg 300w, https://s-andante.org/wp-content/uploads/2020/02/nurie-230x127.jpg 230w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" />\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-d1bb67c elementor-column elementor-col-25 elementor-top-column\" data-id=\"d1bb67c\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-column-wrap  elementor-element-populated\">\n\t\t\t\t\t<div class=\"elementor-widget-wrap\">\n\t\t\t\t<div class=\"elementor-element elementor-element-8207821 elementor-widget elementor-widget-text-editor\" data-id=\"8207821\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<div class=\"elementor-text-editor elementor-clearfix\"><p><span style=\"color: #ff6600;\">パステルアート教室(大人のぬりえ)</span><br />指で簡単に誰でも絵が書ける<br />参加費500円（火・木曜日）<br />13：30～15:00 <br />申込担当：芳賀（070-2014-9882）</p></div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\t\t\t\t<section class=\"elementor-element elementor-element-d550428 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section\" data-id=\"d550428\" data-element_type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t<div class=\"elementor-row\">\n\t\t\t\t<div class=\"elementor-element elementor-element-9471e3c elementor-column elementor-col-25 elementor-top-column\" data-id=\"9471e3c\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-column-wrap  elementor-element-populated\">\n\t\t\t\t\t<div class=\"elementor-widget-wrap\">\n\t\t\t\t<div class=\"elementor-element elementor-element-b008b5b elementor-widget elementor-widget-image\" data-id=\"b008b5b\" data-element_type=\"widget\" data-widget_type=\"image.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<div class=\"elementor-image\">\n\t\t\t\t\t\t\t\t\t\t<img loading=\"lazy\" decoding=\"async\" width=\"300\" height=\"165\" src=\"https://s-andante.org/wp-content/uploads/2020/03/tumami.jpg\" class=\"attachment-large size-large\" alt=\"\" />\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-4b5933b elementor-column elementor-col-25 elementor-top-column\" data-id=\"4b5933b\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-column-wrap  elementor-element-populated\">\n\t\t\t\t\t<div class=\"elementor-widget-wrap\">\n\t\t\t\t<div class=\"elementor-element elementor-element-cdcd11c elementor-widget elementor-widget-text-editor\" data-id=\"cdcd11c\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<div class=\"elementor-text-editor elementor-clearfix\"><p><span style=\"color: #ff6600;\">折り紙・つまみ細工教室</span><br />季節の花等をモチーフにした<br />ブローチや壁飾りを作成します。<br />参加費500円<br />毎月　第2水曜日　10：00～11:30　<br />　　　第4木曜日　13：30～15:00<br /><span style=\"color: #ff0000;\">開催日要確認</span><br />申込担当：高坂（090-8927-1443）</p></div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-b4a3cf0 elementor-column elementor-col-25 elementor-top-column\" data-id=\"b4a3cf0\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-column-wrap  elementor-element-populated\">\n\t\t\t\t\t<div class=\"elementor-widget-wrap\">\n\t\t\t\t<div class=\"elementor-element elementor-element-85e49ef elementor-widget elementor-widget-image\" data-id=\"85e49ef\" data-element_type=\"widget\" data-widget_type=\"image.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<div class=\"elementor-image\">\n\t\t\t\t\t\t\t\t\t\t<img loading=\"lazy\" decoding=\"async\" width=\"724\" height=\"1024\" src=\"https://s-andante.org/wp-content/uploads/2023/05/案内表-724x1024.jpg\" class=\"attachment-large size-large\" alt=\"\" srcset=\"https://s-andante.org/wp-content/uploads/2023/05/案内表-724x1024.jpg 724w, https://s-andante.org/wp-content/uploads/2023/05/案内表-212x300.jpg 212w, https://s-andante.org/wp-content/uploads/2023/05/案内表-768x1086.jpg 768w, https://s-andante.org/wp-content/uploads/2023/05/案内表-1086x1536.jpg 1086w, https://s-andante.org/wp-content/uploads/2023/05/案内表-1448x2048.jpg 1448w, https://s-andante.org/wp-content/uploads/2023/05/案内表-scaled.jpg 1810w\" sizes=\"auto, (max-width: 724px) 100vw, 724px\" />\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-f0c0261 elementor-column elementor-col-25 elementor-top-column\" data-id=\"f0c0261\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-column-wrap  elementor-element-populated\">\n\t\t\t\t\t<div class=\"elementor-widget-wrap\">\n\t\t\t\t<div class=\"elementor-element elementor-element-43e14ef elementor-widget elementor-widget-image\" data-id=\"43e14ef\" data-element_type=\"widget\" data-widget_type=\"image.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<div class=\"elementor-image\">\n\t\t\t\t\t\t\t\t\t\t<img loading=\"lazy\" decoding=\"async\" width=\"724\" height=\"1024\" src=\"https://s-andante.org/wp-content/uploads/2023/05/案内裏-724x1024.jpg\" class=\"attachment-large size-large\" alt=\"\" srcset=\"https://s-andante.org/wp-content/uploads/2023/05/案内裏-724x1024.jpg 724w, https://s-andante.org/wp-content/uploads/2023/05/案内裏-212x300.jpg 212w, https://s-andante.org/wp-content/uploads/2023/05/案内裏-768x1086.jpg 768w, https://s-andante.org/wp-content/uploads/2023/05/案内裏-1086x1536.jpg 1086w, https://s-andante.org/wp-content/uploads/2023/05/案内裏-1448x2048.jpg 1448w, https://s-andante.org/wp-content/uploads/2023/05/案内裏-scaled.jpg 1810w\" sizes=\"auto, (max-width: 724px) 100vw, 724px\" />\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\t\t\t\t<section class=\"elementor-element elementor-element-2c5789b elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section\" data-id=\"2c5789b\" data-element_type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t<div class=\"elementor-row\">\n\t\t\t\t<div class=\"elementor-element elementor-element-d85c27e elementor-column elementor-col-100 elementor-top-column\" data-id=\"d85c27e\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-column-wrap  elementor-element-populated\">\n\t\t\t\t\t<div class=\"elementor-widget-wrap\">\n\t\t\t\t<div class=\"elementor-element elementor-element-1166f10 elementor-widget elementor-widget-heading\" data-id=\"1166f10\" data-element_type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t<p class=\"elementor-heading-title elementor-size-medium\"><h1 style=\"font-family:fantasy ;color:#fff\">何かやりたいと思う人<br>「きららかサロン」で楽しもう<h1>\n\n</p>\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\t\t\t\t<section class=\"elementor-element elementor-element-98950eb elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section\" data-id=\"98950eb\" data-element_type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t<div class=\"elementor-row\">\n\t\t\t\t<div class=\"elementor-element elementor-element-ab4b2d8 elementor-column elementor-col-25 elementor-top-column\" data-id=\"ab4b2d8\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-column-wrap  elementor-element-populated\">\n\t\t\t\t\t<div class=\"elementor-widget-wrap\">\n\t\t\t\t<div class=\"elementor-element elementor-element-821f7a1 elementor-widget elementor-widget-image\" data-id=\"821f7a1\" data-element_type=\"widget\" data-widget_type=\"image.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<div class=\"elementor-image\">\n\t\t\t\t\t\t\t\t\t\t<img loading=\"lazy\" decoding=\"async\" width=\"300\" height=\"165\" src=\"https://s-andante.org/wp-content/uploads/2020/03/ryouri.jpg\" class=\"attachment-large size-large\" alt=\"\" />\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-5960ff7 elementor-column elementor-col-25 elementor-top-column\" data-id=\"5960ff7\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-column-wrap  elementor-element-populated\">\n\t\t\t\t\t<div class=\"elementor-widget-wrap\">\n\t\t\t\t<div class=\"elementor-element elementor-element-f26649c elementor-widget elementor-widget-text-editor\" data-id=\"f26649c\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<div class=\"elementor-text-editor elementor-clearfix\"><p><span style=\"color: #ff6600;\">お料理教室</span><br />素材を活かした、誰にでも簡単に<br />作れる食育料理<br />参加費500円　<br /><span style=\"color: #ff0000;\">開催日要確認</span><br />申込担当：山本(090-3759-4109)</p></div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-fb65044 elementor-column elementor-col-25 elementor-top-column\" data-id=\"fb65044\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-column-wrap  elementor-element-populated\">\n\t\t\t\t\t<div class=\"elementor-widget-wrap\">\n\t\t\t\t<div class=\"elementor-element elementor-element-c68abd9 elementor-widget elementor-widget-image\" data-id=\"c68abd9\" data-element_type=\"widget\" data-widget_type=\"image.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<div class=\"elementor-image\">\n\t\t\t\t\t\t\t\t\t\t<img loading=\"lazy\" decoding=\"async\" width=\"300\" height=\"165\" src=\"https://s-andante.org/wp-content/uploads/2020/03/yoga.jpg\" class=\"attachment-large size-large\" alt=\"\" />\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-1e53efe elementor-column elementor-col-25 elementor-top-column\" data-id=\"1e53efe\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-column-wrap  elementor-element-populated\">\n\t\t\t\t\t<div class=\"elementor-widget-wrap\">\n\t\t\t\t<div class=\"elementor-element elementor-element-863ee1a elementor-widget elementor-widget-text-editor\" data-id=\"863ee1a\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<div class=\"elementor-text-editor elementor-clearfix\"><p><span style=\"color: #ff6600;\">笑いヨガ教室　</span><br />笑いのエクササイズとヨガの呼吸法<br />を取り入れた健康体操です。<br />参加費500円　<br />毎月第2月曜日　10：00～11:30<br /><span style=\"color: #ff0000;\">開催日要確認</span><br />申込担当：大沼（090-3126-5752）</p></div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\t\t\t\t<section class=\"elementor-element elementor-element-4bca389 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section\" data-id=\"4bca389\" data-element_type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t<div class=\"elementor-row\">\n\t\t\t\t<div class=\"elementor-element elementor-element-36e2c1a elementor-column elementor-col-25 elementor-top-column\" data-id=\"36e2c1a\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-column-wrap  elementor-element-populated\">\n\t\t\t\t\t<div class=\"elementor-widget-wrap\">\n\t\t\t\t<div class=\"elementor-element elementor-element-6508401 elementor-widget elementor-widget-image\" data-id=\"6508401\" data-element_type=\"widget\" data-widget_type=\"image.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<div class=\"elementor-image\">\n\t\t\t\t\t\t\t\t\t\t<img loading=\"lazy\" decoding=\"async\" width=\"300\" height=\"165\" src=\"https://s-andante.org/wp-content/uploads/2020/02/pc-1.jpg\" class=\"attachment-large size-large\" alt=\"\" srcset=\"https://s-andante.org/wp-content/uploads/2020/02/pc-1.jpg 300w, https://s-andante.org/wp-content/uploads/2020/02/pc-1-230x127.jpg 230w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" />\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-da8b386 elementor-column elementor-col-25 elementor-top-column\" data-id=\"da8b386\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-column-wrap  elementor-element-populated\">\n\t\t\t\t\t<div class=\"elementor-widget-wrap\">\n\t\t\t\t<div class=\"elementor-element elementor-element-cb45325 elementor-widget elementor-widget-text-editor\" data-id=\"cb45325\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<div class=\"elementor-text-editor elementor-clearfix\"><p><span style=\"color: #ff6600;\">パーソナルカラー教室 </span><br />自分に合う洋服の色が30色が<br />わかります。<br />参加費1,000円<br /><span style=\"color: #ff0000;\">予約制</span><br />申込担当：芳賀(070-2014-9882)</p></div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-1a541d1 elementor-column elementor-col-25 elementor-top-column\" data-id=\"1a541d1\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-column-wrap\">\n\t\t\t\t\t<div class=\"elementor-widget-wrap\">\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-e45b728 elementor-column elementor-col-25 elementor-top-column\" data-id=\"e45b728\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-column-wrap\">\n\t\t\t\t\t<div class=\"elementor-widget-wrap\">\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\t\t\t\t<section class=\"elementor-element elementor-element-af21c0e elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section\" data-id=\"af21c0e\" data-element_type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t<div class=\"elementor-row\">\n\t\t\t\t<div class=\"elementor-element elementor-element-c7bb2d1 elementor-column elementor-col-50 elementor-top-column\" data-id=\"c7bb2d1\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-column-wrap  elementor-element-populated\">\n\t\t\t\t\t<div class=\"elementor-widget-wrap\">\n\t\t\t\t<div class=\"elementor-element elementor-element-12d84ef elementor-widget elementor-widget-text-editor\" data-id=\"12d84ef\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<div class=\"elementor-text-editor elementor-clearfix\"><p><span style=\"color: #ff6600;\">陶芸教室　 </span><br />陶芸家・太田由美子氏（白河市出身）による陶芸教室です。<br />自由な発想でいろいろなものを<br />自由気ままに作れる教室です。</p><p><div class=\"pt-cv-wrapper\"><div class=\"pt-cv-view pt-cv-collapsible\" id=\"pt-cv-view-df445148uf\"><div data-id=\"pt-cv-page-1\" class=\"pt-cv-page\" data-cvc=\"1\"><div class=\"panel-group\" id=\"5021557sh7\"><div class=\"panel panel-default pt-cv-content-item pt-cv-1-col\" >\r\n<div class=\"panel-heading\">\r\n    <a class=\"panel-title\" data-toggle=\"cvcollapse\" data-parent=\"#5021557sh7\" data-target=\"#917fd88g3o\" href='https://s-andante.org/2022/09/09/10%e6%9c%881%e6%97%a5%e5%9c%9f%e3%80%812%e6%97%a5%e6%97%a5%e9%99%b6%e8%8a%b8%e6%95%99%e5%ae%a4%e9%96%8b%e5%82%ac%e3%81%84%e3%81%9f%e3%81%97%e3%81%be%e3%81%99/' onclick='event.preventDefault()'>\r\n\t\t10月1日(土)、2日(日)陶芸教室開催いたします\t</a>\r\n\t</div>\r\n<div id=\"917fd88g3o\" class=\"panel-collapse collapse in\">\r\n\t<div class=\"panel-body\">\r\n\t\t<a href=\"https://s-andante.org/2022/09/09/10%e6%9c%881%e6%97%a5%e5%9c%9f%e3%80%812%e6%97%a5%e6%97%a5%e9%99%b6%e8%8a%b8%e6%95%99%e5%ae%a4%e9%96%8b%e5%82%ac%e3%81%84%e3%81%9f%e3%81%97%e3%81%be%e3%81%99/\" class=\"_self pt-cv-href-thumbnail pt-cv-thumb-default\" target=\"_self\" ></a>\n<div class=\"pt-cv-content\"><p>10月1日(土)午後 １時３０分～ ３時<br />\n10月2日(日)午前１０時～１２時　午後１時３０分～ ３時<br />\n陶芸教室開催致します。参加費１０００円（焼成料込み）<br />\n参加希望の方は<br />\n予約０８０‐５７３０‐５５４６（太田由美子）にお申込みください<br />\n<figure id=\"attachment_2255\" aria-describedby=\"caption-attachment-2255\" style=\"width: 2560px\" class=\"wp-caption alignnone\"><img loading=\"lazy\" decoding=\"async\" src=\"http://s-andante.org/wp-content/uploads/2021/10/DSC_3055-scaled.jpg\" alt=\"\" width=\"2560\" height=\"1280\" class=\"size-full wp-image-2255\" srcset=\"https://s-andante.org/wp-content/uploads/2021/10/DSC_3055-scaled.jpg 2560w, https://s-andante.org/wp-content/uploads/2021/10/DSC_3055-300x150.jpg 300w, https://s-andante.org/wp-content/uploads/2021/10/DSC_3055-1024x512.jpg 1024w, https://s-andante.org/wp-content/uploads/2021/10/DSC_3055-768x384.jpg 768w, https://s-andante.org/wp-content/uploads/2021/10/DSC_3055-1536x768.jpg 1536w, https://s-andante.org/wp-content/uploads/2021/10/DSC_3055-2048x1024.jpg 2048w\" sizes=\"auto, (max-width: 2560px) 100vw, 2560px\" /><figcaption id=\"caption-attachment-2255\" class=\"wp-caption-text\">DSC_3055</figcaption></figure></p>\n</div>\t</div>\r\n</div></div>\n<div class=\"panel panel-default pt-cv-content-item pt-cv-1-col\" >\r\n<div class=\"panel-heading\">\r\n    <a class=\"panel-title\" data-toggle=\"cvcollapse\" data-parent=\"#5021557sh7\" data-target=\"#6055c46xry\" href='https://s-andante.org/2022/08/22/8%e6%9c%8827%e6%97%a5%e5%9c%9f%e3%80%8128%e6%97%a5%e6%97%a5%e9%99%b6%e8%8a%b8%e6%95%99%e5%ae%a4%e9%96%8b%e5%82%ac%e3%81%84%e3%81%9f%e3%81%97%e3%81%be%e3%81%99/' onclick='event.preventDefault()'>\r\n\t\t8月27日(土)、28日(日)陶芸教室開催いたします\t</a>\r\n\t</div>\r\n<div id=\"6055c46xry\" class=\"panel-collapse collapse \">\r\n\t<div class=\"panel-body\">\r\n\t\t<a href=\"https://s-andante.org/2022/08/22/8%e6%9c%8827%e6%97%a5%e5%9c%9f%e3%80%8128%e6%97%a5%e6%97%a5%e9%99%b6%e8%8a%b8%e6%95%99%e5%ae%a4%e9%96%8b%e5%82%ac%e3%81%84%e3%81%9f%e3%81%97%e3%81%be%e3%81%99/\" class=\"_self pt-cv-href-thumbnail pt-cv-thumb-default\" target=\"_self\" ></a>\n<div class=\"pt-cv-content\"><p>8月27日(土)午後 １時３０分～ ３時<br />\n8月28日(日)午前１０時～１２時　午後１時３０分～ ３時<br />\n陶芸教室開催致します。参加費１０００円（焼成料込み）<br />\n参加希望の方は<br />\n予約０８０‐５７３０‐５５４６（太田由美子）にお申込みください<br />\n<figure id=\"attachment_2255\" aria-describedby=\"caption-attachment-2255\" style=\"width: 2560px\" class=\"wp-caption alignnone\"><img loading=\"lazy\" decoding=\"async\" src=\"http://s-andante.org/wp-content/uploads/2021/10/DSC_3055-scaled.jpg\" alt=\"\" width=\"2560\" height=\"1280\" class=\"size-full wp-image-2255\" srcset=\"https://s-andante.org/wp-content/uploads/2021/10/DSC_3055-scaled.jpg 2560w, https://s-andante.org/wp-content/uploads/2021/10/DSC_3055-300x150.jpg 300w, https://s-andante.org/wp-content/uploads/2021/10/DSC_3055-1024x512.jpg 1024w, https://s-andante.org/wp-content/uploads/2021/10/DSC_3055-768x384.jpg 768w, https://s-andante.org/wp-content/uploads/2021/10/DSC_3055-1536x768.jpg 1536w, https://s-andante.org/wp-content/uploads/2021/10/DSC_3055-2048x1024.jpg 2048w\" sizes=\"auto, (max-width: 2560px) 100vw, 2560px\" /><figcaption id=\"caption-attachment-2255\" class=\"wp-caption-text\">DSC_3055</figcaption></figure></p>\n</div>\t</div>\r\n</div></div>\n<div class=\"panel panel-default pt-cv-content-item pt-cv-1-col\" >\r\n<div class=\"panel-heading\">\r\n    <a class=\"panel-title\" data-toggle=\"cvcollapse\" data-parent=\"#5021557sh7\" data-target=\"#c9819f5kx6\" href='https://s-andante.org/2022/07/02/7%e6%9c%889%e6%97%a5%e5%9c%9f%e3%80%8110%e6%97%a5%e6%97%a5%e9%99%b6%e8%8a%b8%e6%95%99%e5%ae%a4%e9%96%8b%e5%82%ac%e3%81%84%e3%81%9f%e3%81%97%e3%81%be%e3%81%99/' onclick='event.preventDefault()'>\r\n\t\t7月9日(土)、10日(日)陶芸教室開催いたします\t</a>\r\n\t</div>\r\n<div id=\"c9819f5kx6\" class=\"panel-collapse collapse \">\r\n\t<div class=\"panel-body\">\r\n\t\t<a href=\"https://s-andante.org/2022/07/02/7%e6%9c%889%e6%97%a5%e5%9c%9f%e3%80%8110%e6%97%a5%e6%97%a5%e9%99%b6%e8%8a%b8%e6%95%99%e5%ae%a4%e9%96%8b%e5%82%ac%e3%81%84%e3%81%9f%e3%81%97%e3%81%be%e3%81%99/\" class=\"_self pt-cv-href-thumbnail pt-cv-thumb-default\" target=\"_self\" ></a>\n<div class=\"pt-cv-content\"><p>7月9日(土)午後 １時３０分～ ３時<br />\n7月10日(日)午前１０時～１２時　午後１時３０分～ ３時<br />\n陶芸教室開催致します。参加費１０００円（焼成料込み）<br />\n参加希望の方は<br />\n予約０８０‐５７３０‐５５４６（太田由美子）にお申込みください<br />\n<figure id=\"attachment_2255\" aria-describedby=\"caption-attachment-2255\" style=\"width: 2560px\" class=\"wp-caption alignnone\"><img loading=\"lazy\" decoding=\"async\" src=\"http://s-andante.org/wp-content/uploads/2021/10/DSC_3055-scaled.jpg\" alt=\"\" width=\"2560\" height=\"1280\" class=\"size-full wp-image-2255\" srcset=\"https://s-andante.org/wp-content/uploads/2021/10/DSC_3055-scaled.jpg 2560w, https://s-andante.org/wp-content/uploads/2021/10/DSC_3055-300x150.jpg 300w, https://s-andante.org/wp-content/uploads/2021/10/DSC_3055-1024x512.jpg 1024w, https://s-andante.org/wp-content/uploads/2021/10/DSC_3055-768x384.jpg 768w, https://s-andante.org/wp-content/uploads/2021/10/DSC_3055-1536x768.jpg 1536w, https://s-andante.org/wp-content/uploads/2021/10/DSC_3055-2048x1024.jpg 2048w\" sizes=\"auto, (max-width: 2560px) 100vw, 2560px\" /><figcaption id=\"caption-attachment-2255\" class=\"wp-caption-text\">DSC_3055</figcaption></figure></p>\n</div>\t</div>\r\n</div></div>\n<div class=\"panel panel-default pt-cv-content-item pt-cv-1-col\" >\r\n<div class=\"panel-heading\">\r\n    <a class=\"panel-title\" data-toggle=\"cvcollapse\" data-parent=\"#5021557sh7\" data-target=\"#9cdc5deg4x\" href='https://s-andante.org/2022/06/10/6%e6%9c%8811%e6%97%a5%e5%9c%9f%e3%80%8112%e6%97%a5%e6%97%a5%e9%99%b6%e8%8a%b8%e6%95%99%e5%ae%a4%e9%96%8b%e5%82%ac%e3%81%84%e3%81%9f%e3%81%97%e3%81%be%e3%81%99/' onclick='event.preventDefault()'>\r\n\t\t6月11日(土)、12日(日)陶芸教室開催いたします\t</a>\r\n\t</div>\r\n<div id=\"9cdc5deg4x\" class=\"panel-collapse collapse \">\r\n\t<div class=\"panel-body\">\r\n\t\t<a href=\"https://s-andante.org/2022/06/10/6%e6%9c%8811%e6%97%a5%e5%9c%9f%e3%80%8112%e6%97%a5%e6%97%a5%e9%99%b6%e8%8a%b8%e6%95%99%e5%ae%a4%e9%96%8b%e5%82%ac%e3%81%84%e3%81%9f%e3%81%97%e3%81%be%e3%81%99/\" class=\"_self pt-cv-href-thumbnail pt-cv-thumb-default\" target=\"_self\" ></a>\n<div class=\"pt-cv-content\"><p>6月11日(土)午後 １時３０分～ ３時<br />\n6月12日(日)午前１０時～１２時　午後１時３０分～ ３時<br />\n陶芸教室開催致します。参加費１０００円（焼成料込み）<br />\n参加希望の方は<br />\n予約０８０‐５７３０‐５５４６（太田由美子）にお申込みください<br />\n<figure id=\"attachment_2255\" aria-describedby=\"caption-attachment-2255\" style=\"width: 2560px\" class=\"wp-caption alignnone\"><img loading=\"lazy\" decoding=\"async\" src=\"http://s-andante.org/wp-content/uploads/2021/10/DSC_3055-scaled.jpg\" alt=\"\" width=\"2560\" height=\"1280\" class=\"size-full wp-image-2255\" srcset=\"https://s-andante.org/wp-content/uploads/2021/10/DSC_3055-scaled.jpg 2560w, https://s-andante.org/wp-content/uploads/2021/10/DSC_3055-300x150.jpg 300w, https://s-andante.org/wp-content/uploads/2021/10/DSC_3055-1024x512.jpg 1024w, https://s-andante.org/wp-content/uploads/2021/10/DSC_3055-768x384.jpg 768w, https://s-andante.org/wp-content/uploads/2021/10/DSC_3055-1536x768.jpg 1536w, https://s-andante.org/wp-content/uploads/2021/10/DSC_3055-2048x1024.jpg 2048w\" sizes=\"auto, (max-width: 2560px) 100vw, 2560px\" /><figcaption id=\"caption-attachment-2255\" class=\"wp-caption-text\">DSC_3055</figcaption></figure></p>\n</div>\t</div>\r\n</div></div>\n<div class=\"panel panel-default pt-cv-content-item pt-cv-1-col\" >\r\n<div class=\"panel-heading\">\r\n    <a class=\"panel-title\" data-toggle=\"cvcollapse\" data-parent=\"#5021557sh7\" data-target=\"#92dd223m1y\" href='https://s-andante.org/2022/03/15/4%e6%9c%8823%e6%97%a5%e5%9c%9f%e3%80%8124%e6%97%a5%e6%97%a5%e9%99%b6%e8%8a%b8%e6%95%99%e5%ae%a4%e9%96%8b%e5%82%ac%e3%81%84%e3%81%9f%e3%81%97%e3%81%be%e3%81%99/' onclick='event.preventDefault()'>\r\n\t\t4月23日(土)、24日(日)陶芸教室開催いたします\t</a>\r\n\t</div>\r\n<div id=\"92dd223m1y\" class=\"panel-collapse collapse \">\r\n\t<div class=\"panel-body\">\r\n\t\t<a href=\"https://s-andante.org/2022/03/15/4%e6%9c%8823%e6%97%a5%e5%9c%9f%e3%80%8124%e6%97%a5%e6%97%a5%e9%99%b6%e8%8a%b8%e6%95%99%e5%ae%a4%e9%96%8b%e5%82%ac%e3%81%84%e3%81%9f%e3%81%97%e3%81%be%e3%81%99/\" class=\"_self pt-cv-href-thumbnail pt-cv-thumb-default\" target=\"_self\" ></a>\n<div class=\"pt-cv-content\"><p>4月23日(土)午後 １時３０分～ ３時<br />\n4月24日(日)午前１０時～１２時　午後１時３０分～ ３時<br />\n陶芸教室開催致します。参加費１０００円（焼成料込み）<br />\n参加希望の方は<br />\n予約０８０‐５７３０‐５５４６（太田由美子）にお申込みください<br />\n<figure id=\"attachment_2255\" aria-describedby=\"caption-attachment-2255\" style=\"width: 2560px\" class=\"wp-caption alignnone\"><img loading=\"lazy\" decoding=\"async\" src=\"http://s-andante.org/wp-content/uploads/2021/10/DSC_3055-scaled.jpg\" alt=\"\" width=\"2560\" height=\"1280\" class=\"size-full wp-image-2255\" srcset=\"https://s-andante.org/wp-content/uploads/2021/10/DSC_3055-scaled.jpg 2560w, https://s-andante.org/wp-content/uploads/2021/10/DSC_3055-300x150.jpg 300w, https://s-andante.org/wp-content/uploads/2021/10/DSC_3055-1024x512.jpg 1024w, https://s-andante.org/wp-content/uploads/2021/10/DSC_3055-768x384.jpg 768w, https://s-andante.org/wp-content/uploads/2021/10/DSC_3055-1536x768.jpg 1536w, https://s-andante.org/wp-content/uploads/2021/10/DSC_3055-2048x1024.jpg 2048w\" sizes=\"auto, (max-width: 2560px) 100vw, 2560px\" /><figcaption id=\"caption-attachment-2255\" class=\"wp-caption-text\">DSC_3055</figcaption></figure></p>\n</div>\t</div>\r\n</div></div>\n<div class=\"panel panel-default pt-cv-content-item pt-cv-1-col\" >\r\n<div class=\"panel-heading\">\r\n    <a class=\"panel-title\" data-toggle=\"cvcollapse\" data-parent=\"#5021557sh7\" data-target=\"#195c7c4jim\" href='https://s-andante.org/2022/03/01/3%e6%9c%885%e6%97%a5%e5%9c%9f%e3%80%816%e6%97%a5%e6%97%a5%e9%99%b6%e8%8a%b8%e6%95%99%e5%ae%a4%e9%96%8b%e5%82%ac%e3%81%84%e3%81%9f%e3%81%97%e3%81%be%e3%81%99/' onclick='event.preventDefault()'>\r\n\t\t3月5日(土)、6日(日)陶芸教室開催いたします\t</a>\r\n\t</div>\r\n<div id=\"195c7c4jim\" class=\"panel-collapse collapse \">\r\n\t<div class=\"panel-body\">\r\n\t\t<a href=\"https://s-andante.org/2022/03/01/3%e6%9c%885%e6%97%a5%e5%9c%9f%e3%80%816%e6%97%a5%e6%97%a5%e9%99%b6%e8%8a%b8%e6%95%99%e5%ae%a4%e9%96%8b%e5%82%ac%e3%81%84%e3%81%9f%e3%81%97%e3%81%be%e3%81%99/\" class=\"_self pt-cv-href-thumbnail pt-cv-thumb-default\" target=\"_self\" ></a>\n<div class=\"pt-cv-content\"><p>3月5日(土)午後 １時３０分～ ３時<br />\n3月6日(日)午前１０時～１２時　午後１時３０分～ ３時<br />\n陶芸教室開催致します。参加費１０００円（焼成料込み）<br />\n参加希望の方は<br />\n予約０８０‐５７３０‐５５４６（太田由美子）にお申込みください<br />\n<figure id=\"attachment_2255\" aria-describedby=\"caption-attachment-2255\" style=\"width: 2560px\" class=\"wp-caption alignnone\"><img loading=\"lazy\" decoding=\"async\" src=\"http://s-andante.org/wp-content/uploads/2021/10/DSC_3055-scaled.jpg\" alt=\"\" width=\"2560\" height=\"1280\" class=\"size-full wp-image-2255\" srcset=\"https://s-andante.org/wp-content/uploads/2021/10/DSC_3055-scaled.jpg 2560w, https://s-andante.org/wp-content/uploads/2021/10/DSC_3055-300x150.jpg 300w, https://s-andante.org/wp-content/uploads/2021/10/DSC_3055-1024x512.jpg 1024w, https://s-andante.org/wp-content/uploads/2021/10/DSC_3055-768x384.jpg 768w, https://s-andante.org/wp-content/uploads/2021/10/DSC_3055-1536x768.jpg 1536w, https://s-andante.org/wp-content/uploads/2021/10/DSC_3055-2048x1024.jpg 2048w\" sizes=\"auto, (max-width: 2560px) 100vw, 2560px\" /><figcaption id=\"caption-attachment-2255\" class=\"wp-caption-text\">DSC_3055</figcaption></figure></p>\n</div>\t</div>\r\n</div></div>\n<div class=\"panel panel-default pt-cv-content-item pt-cv-1-col\" >\r\n<div class=\"panel-heading\">\r\n    <a class=\"panel-title\" data-toggle=\"cvcollapse\" data-parent=\"#5021557sh7\" data-target=\"#27ceba9b3o\" href='https://s-andante.org/2022/01/20/%ef%bc%92%e6%9c%88%ef%bc%95%e6%97%a5%e5%9c%9f%e3%80%81%ef%bc%96%e6%97%a5%e6%97%a5%e9%99%b6%e8%8a%b8%e6%95%99%e5%ae%a4%e9%96%8b%e5%82%ac%e3%81%84%e3%81%9f%e3%81%97%e3%81%be%e3%81%99/' onclick='event.preventDefault()'>\r\n\t\t２月５日(土)、６日(日)陶芸教室開催いたします\t</a>\r\n\t</div>\r\n<div id=\"27ceba9b3o\" class=\"panel-collapse collapse \">\r\n\t<div class=\"panel-body\">\r\n\t\t<a href=\"https://s-andante.org/2022/01/20/%ef%bc%92%e6%9c%88%ef%bc%95%e6%97%a5%e5%9c%9f%e3%80%81%ef%bc%96%e6%97%a5%e6%97%a5%e9%99%b6%e8%8a%b8%e6%95%99%e5%ae%a4%e9%96%8b%e5%82%ac%e3%81%84%e3%81%9f%e3%81%97%e3%81%be%e3%81%99/\" class=\"_self pt-cv-href-thumbnail pt-cv-thumb-default\" target=\"_self\" ></a>\n<div class=\"pt-cv-content\"><p>２月５日(土)午後 １時３０分～ ３時<br />\n２月6日(日)午前１０時～１２時　午後１時３０分～ ３時<br />\n陶芸教室開催致します。参加費１０００円（焼成料込み）<br />\n参加希望の方は<br />\n予約０８０‐５７３０‐５５４６（太田由美子）にお申込みください<br />\n<figure id=\"attachment_2255\" aria-describedby=\"caption-attachment-2255\" style=\"width: 2560px\" class=\"wp-caption alignnone\"><img loading=\"lazy\" decoding=\"async\" src=\"http://s-andante.org/wp-content/uploads/2021/10/DSC_3055-scaled.jpg\" alt=\"\" width=\"2560\" height=\"1280\" class=\"size-full wp-image-2255\" srcset=\"https://s-andante.org/wp-content/uploads/2021/10/DSC_3055-scaled.jpg 2560w, https://s-andante.org/wp-content/uploads/2021/10/DSC_3055-300x150.jpg 300w, https://s-andante.org/wp-content/uploads/2021/10/DSC_3055-1024x512.jpg 1024w, https://s-andante.org/wp-content/uploads/2021/10/DSC_3055-768x384.jpg 768w, https://s-andante.org/wp-content/uploads/2021/10/DSC_3055-1536x768.jpg 1536w, https://s-andante.org/wp-content/uploads/2021/10/DSC_3055-2048x1024.jpg 2048w\" sizes=\"auto, (max-width: 2560px) 100vw, 2560px\" /><figcaption id=\"caption-attachment-2255\" class=\"wp-caption-text\">DSC_3055</figcaption></figure></p>\n</div>\t</div>\r\n</div></div>\n<div class=\"panel panel-default pt-cv-content-item pt-cv-1-col\" >\r\n<div class=\"panel-heading\">\r\n    <a class=\"panel-title\" data-toggle=\"cvcollapse\" data-parent=\"#5021557sh7\" data-target=\"#7affae48zk\" href='https://s-andante.org/2021/12/09/%ef%bc%91%ef%bc%92%e6%9c%88%ef%bc%91%ef%bc%98%e6%97%a5%e5%9c%9f%e3%80%81%ef%bc%91%ef%bc%99%e6%97%a5%e6%97%a5%e9%99%b6%e8%8a%b8%e6%95%99%e5%ae%a4%e9%96%8b%e5%82%ac%e3%81%84%e3%81%9f%e3%81%97/' onclick='event.preventDefault()'>\r\n\t\t12月18日(土)、19日(日)陶芸教室開催いたします\t</a>\r\n\t</div>\r\n<div id=\"7affae48zk\" class=\"panel-collapse collapse \">\r\n\t<div class=\"panel-body\">\r\n\t\t<a href=\"https://s-andante.org/2021/12/09/%ef%bc%91%ef%bc%92%e6%9c%88%ef%bc%91%ef%bc%98%e6%97%a5%e5%9c%9f%e3%80%81%ef%bc%91%ef%bc%99%e6%97%a5%e6%97%a5%e9%99%b6%e8%8a%b8%e6%95%99%e5%ae%a4%e9%96%8b%e5%82%ac%e3%81%84%e3%81%9f%e3%81%97/\" class=\"_self pt-cv-href-thumbnail pt-cv-thumb-default\" target=\"_self\" ></a>\n<div class=\"pt-cv-content\"><p>１２月１８日(土)午後 １時３０分～ ３時<br />\n１２月１９日(日)午前１０時～１２時　午後１時３０分～ ３時<br />\n陶芸教室開催致します<br />\n参加希望の方は<br />\n予約０８０‐５７３０‐５５４６（太田由美子）にお申込みください<br />\n<figure id=\"attachment_2255\" aria-describedby=\"caption-attachment-2255\" style=\"width: 2560px\" class=\"wp-caption alignnone\"><img loading=\"lazy\" decoding=\"async\" src=\"http://s-andante.org/wp-content/uploads/2021/10/DSC_3055-scaled.jpg\" alt=\"\" width=\"2560\" height=\"1280\" class=\"size-full wp-image-2255\" srcset=\"https://s-andante.org/wp-content/uploads/2021/10/DSC_3055-scaled.jpg 2560w, https://s-andante.org/wp-content/uploads/2021/10/DSC_3055-300x150.jpg 300w, https://s-andante.org/wp-content/uploads/2021/10/DSC_3055-1024x512.jpg 1024w, https://s-andante.org/wp-content/uploads/2021/10/DSC_3055-768x384.jpg 768w, https://s-andante.org/wp-content/uploads/2021/10/DSC_3055-1536x768.jpg 1536w, https://s-andante.org/wp-content/uploads/2021/10/DSC_3055-2048x1024.jpg 2048w\" sizes=\"auto, (max-width: 2560px) 100vw, 2560px\" /><figcaption id=\"caption-attachment-2255\" class=\"wp-caption-text\">DSC_3055</figcaption></figure></p>\n</div>\t</div>\r\n</div></div>\n<div class=\"panel panel-default pt-cv-content-item pt-cv-1-col\" >\r\n<div class=\"panel-heading\">\r\n    <a class=\"panel-title\" data-toggle=\"cvcollapse\" data-parent=\"#5021557sh7\" data-target=\"#2f573addra\" href='https://s-andante.org/2021/11/05/11%e6%9c%8813%e6%97%a5%e5%9c%9f%e3%83%bb14%e6%97%a5%e6%97%a5%e9%99%b6%e8%8a%b8%e6%95%99%e5%ae%a4%e9%96%8b%e5%82%ac%e8%87%b4%e3%81%97%e3%81%be%e3%81%99/' onclick='event.preventDefault()'>\r\n\t\t11月13日(土)・14日(日)陶芸教室開催致します\t</a>\r\n\t</div>\r\n<div id=\"2f573addra\" class=\"panel-collapse collapse \">\r\n\t<div class=\"panel-body\">\r\n\t\t<a href=\"https://s-andante.org/2021/11/05/11%e6%9c%8813%e6%97%a5%e5%9c%9f%e3%83%bb14%e6%97%a5%e6%97%a5%e9%99%b6%e8%8a%b8%e6%95%99%e5%ae%a4%e9%96%8b%e5%82%ac%e8%87%b4%e3%81%97%e3%81%be%e3%81%99/\" class=\"_self pt-cv-href-thumbnail pt-cv-thumb-default\" target=\"_self\" ></a>\n<div class=\"pt-cv-content\"><p>11月13日(土)午後１時３０分～３時<br />\n11月14日(日)午前10時～12時　午後１時３０分～３時<br />\n陶芸教室開催致します</p>\n</div>\t</div>\r\n</div></div>\n<div class=\"panel panel-default pt-cv-content-item pt-cv-1-col\" >\r\n<div class=\"panel-heading\">\r\n    <a class=\"panel-title\" data-toggle=\"cvcollapse\" data-parent=\"#5021557sh7\" data-target=\"#bf63976nuw\" href='https://s-andante.org/2021/09/07/10%e6%9c%882%e6%97%a5%e5%9c%9f%e5%8d%88%e5%be%8c1%e6%99%8230%e5%88%86%ef%bd%9e3%e6%99%8230%e5%88%86_-3%e6%97%a5%e6%97%a5%e5%8d%88%e5%89%8d10%e6%99%82%ef%bd%9e12%e6%99%82-%e5%8d%88%e5%be%8c1/' onclick='event.preventDefault()'>\r\n\t\t10月2日(土)・3日(日)陶芸教室開催致します\t</a>\r\n\t</div>\r\n<div id=\"bf63976nuw\" class=\"panel-collapse collapse \">\r\n\t<div class=\"panel-body\">\r\n\t\t<a href=\"https://s-andante.org/2021/09/07/10%e6%9c%882%e6%97%a5%e5%9c%9f%e5%8d%88%e5%be%8c1%e6%99%8230%e5%88%86%ef%bd%9e3%e6%99%8230%e5%88%86_-3%e6%97%a5%e6%97%a5%e5%8d%88%e5%89%8d10%e6%99%82%ef%bd%9e12%e6%99%82-%e5%8d%88%e5%be%8c1/\" class=\"_self pt-cv-href-thumbnail pt-cv-thumb-default\" target=\"_self\" ></a>\n<div class=\"pt-cv-content\"><p><img loading=\"lazy\" decoding=\"async\" src=\"http://s-andante.org/wp-content/uploads/2021/09/IMG_20210718_032354-scaled.jpg\" alt=\"\" width=\"2560\" height=\"1280\" class=\"alignnone size-full wp-image-2002\" srcset=\"https://s-andante.org/wp-content/uploads/2021/09/IMG_20210718_032354-scaled.jpg 2560w, https://s-andante.org/wp-content/uploads/2021/09/IMG_20210718_032354-300x150.jpg 300w, https://s-andante.org/wp-content/uploads/2021/09/IMG_20210718_032354-1024x512.jpg 1024w, https://s-andante.org/wp-content/uploads/2021/09/IMG_20210718_032354-768x384.jpg 768w, https://s-andante.org/wp-content/uploads/2021/09/IMG_20210718_032354-1536x768.jpg 1536w, https://s-andante.org/wp-content/uploads/2021/09/IMG_20210718_032354-2048x1024.jpg 2048w\" sizes=\"auto, (max-width: 2560px) 100vw, 2560px\" /></p>\n</div>\t</div>\r\n</div></div></div></div></div></div></p></div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-b2ed6d7 elementor-column elementor-col-50 elementor-top-column\" data-id=\"b2ed6d7\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-column-wrap  elementor-element-populated\">\n\t\t\t\t\t<div class=\"elementor-widget-wrap\">\n\t\t\t\t<div class=\"elementor-element elementor-element-d3e228f elementor-widget elementor-widget-text-editor\" data-id=\"d3e228f\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<div class=\"elementor-text-editor elementor-clearfix\"><p>陶芸教室所在地　<br />福島県西白河郡西郷村字前山東16（光葉ビル）</p><div class=\"ggmap\"><iframe loading=\"lazy\" style=\"border: 0;\" tabindex=\"0\" src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1590.6695011706875!2d140.1866172575335!3d37.120849068570166!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60203acdd2aad98b%3A0xdd99ae12dd2a29c!2z44CSOTYxLTgwNTMg56aP5bO255yM6KW_55m95rKz6YOh6KW_6YO35p2R5a2X5YmN5bGx5p2x77yR77yW!5e0!3m2!1sja!2sjp!4v1583917832325!5m2!1sja!2sjp\" width=\"300\" height=\"300\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" aria-hidden=\"false\"></iframe></div></div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\t\t\t\t<section class=\"elementor-element elementor-element-6edbfdf elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section\" data-id=\"6edbfdf\" data-element_type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t<div class=\"elementor-row\">\n\t\t\t\t<div class=\"elementor-element elementor-element-c4d2387 elementor-column elementor-col-100 elementor-top-column\" data-id=\"c4d2387\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-column-wrap  elementor-element-populated\">\n\t\t\t\t\t<div class=\"elementor-widget-wrap\">\n\t\t\t\t<div class=\"elementor-element elementor-element-692c4b0 elementor-widget elementor-widget-text-editor\" data-id=\"692c4b0\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<div class=\"elementor-text-editor elementor-clearfix\"><h3 class=\"mida1\">あんだんて活動実績</h3>\n<div class=\"pt-cv-wrapper\"><div class=\"pt-cv-view pt-cv-scrollable pt-cv-colsys\" id=\"pt-cv-view-ac97e17lt3\"><div data-id=\"pt-cv-page-1\" class=\"pt-cv-page\" data-cvc=\"1\"><div id=\"0a14cd4sd5\" class=\"pt-cv-carousel pt-cv-slide\" data-ride=\"cvcarousel\" data-interval=false><ol class=\"pt-cv-carousel-indicators\"><li data-target=\"#0a14cd4sd5\" data-cvslide-to=\"0\" class=\"active\"></li>\n<li data-target=\"#0a14cd4sd5\" data-cvslide-to=\"1\" class=\"\"></li>\n<li data-target=\"#0a14cd4sd5\" data-cvslide-to=\"2\" class=\"\"></li></ol>\n<div class=\"carousel-inner\"><div class=\"item active\"><div class=\"row\"><div class=\"col-md-12 pt-cv-content-item pt-cv-1-col\" ><div class=\"pt-cv-carousel-caption pt-cv-cap-wo-img\"><a href=\"https://s-andante.org/2025/06/30/%e4%bb%a4%e5%92%8c6%e5%b9%b4%e5%ba%a6%e4%ba%8b%e6%a5%ad%e5%a0%b1%e5%91%8a/\" class=\"_self pt-cv-href-thumbnail pt-cv-thumb-default\" target=\"_self\" ></a>\n<div class=\"pt-cv-content\"><a href=\"https://s-andante.org/wp-content/uploads/2025/08/令和6年事業報告.pdf\" class=\"pdfemb-viewer\" style=\"\" data-width=\"max\" data-height=\"max\"  data-toolbar=\"bottom\" data-toolbar-fixed=\"off\">令和6年事業報告<br /></a>\n</div></div></div></div></div>\n<div class=\"item\"><div class=\"row\"><div class=\"col-md-12 pt-cv-content-item pt-cv-1-col\" ><div class=\"pt-cv-carousel-caption pt-cv-cap-wo-img\"><a href=\"https://s-andante.org/2025/04/30/%e3%82%89%e3%81%b5%e3%81%bf%e3%83%bc%e3%82%8b%e6%96%b0%e7%99%bd%e6%b2%b3%e3%81%ae%e3%82%b9%e3%82%b3%e3%82%a2%e8%a1%a8%e3%82%92%e5%85%ac%e8%a1%a8%e3%81%97%e3%81%be%e3%81%97%e3%81%9f/\" class=\"_self pt-cv-href-thumbnail pt-cv-thumb-default\" target=\"_self\" ></a>\n<div class=\"pt-cv-content\"><a href=\"https://s-andante.org/wp-content/uploads/2025/05/R7らふみーるスコア表.pdf\" class=\"pdfemb-viewer\" style=\"\" data-width=\"max\" data-height=\"max\"  data-toolbar=\"bottom\" data-toolbar-fixed=\"off\">R7らふみーるスコア表<br /></a>\n</div></div></div></div></div>\n<div class=\"item\"><div class=\"row\"><div class=\"col-md-12 pt-cv-content-item pt-cv-1-col\" ><div class=\"pt-cv-carousel-caption pt-cv-cap-wo-img\"><a href=\"https://s-andante.org/2020/03/05/%e3%81%82%e3%82%93%e3%81%a0%e3%82%93%e3%81%a6%e6%b4%bb%e5%8b%95%e6%8e%b2%e7%a4%ba%e6%9d%bf/\" class=\"_self pt-cv-href-thumbnail pt-cv-thumb-default\" target=\"_self\" ></a>\n<div class=\"pt-cv-content\"><p><br />\n・2012年・平成24年1月　障がい者の就労支援実施<br />\n・2012年・平成24年4月　一般社団法人　あんだんて設立<br />\n・2013年・平成25年4月　福島県地域づくり総合支援事業（サポート事業）「風評被害をぶっとばせ」実施<br />\n・2014年・平成26年4月　福島県地域づくり総合支援事業（サポート事業）「来て・見て・食べて・そして知ろう、ふくしま…!!」実施<br />\n・2015年・平成27年4月　福島県地域づくり総合支援事業（サポート事業）「来て・見て・食べて・そして知ろう、ふくしま…!!」実施<br />\n・2017年・平成29年4月　福島県地域創生総合支援事業　（サポート事業）「らふみーる（笑顔＆食）コミュニティサロン」実施<br />\n・2018年・平成30年4月　一般財団法人ふくしま未来研究会 広告協賛事業<br />\n・2018年・平成30年4月　福島県地域創生総合支援事業　（サポート事業）「きららかサロン」実施<br />\n・2018年・平成30年6月　福島県スタートアップ事業　　らふみーる（笑顔＆食）コミュニティサロン<br />\n・2019年・平成31年2月　白河市こども食堂応援補助金<br />\n・2019年・平成31年4月　福島県地域創生総合支援事業　（サポート事業）「健康地域交流体験教室」実施<br />\n・2019年・平成31年4月　一般財団法人ふくしま未来研究会 広告協賛事業<br />\n・2019年・平成31年4月　福島県地域で支える子育て推進事業　みんなで『らふみーる』（笑顔＆食）～今こそ食育、心と体の健康づくり～<br />\n・2019年・令和元年5月　白河市こども食堂応援補助金<br />\n・2019年・令和元年5月　福島県スタートアップ事業　　らふみーる（笑顔＆食）西郷上野原コミュニティサロン<br />\n・2019年・令和元年6月　社会福祉法人福島県共同募金会　「赤い羽根チャリティホワイトプロジェクト」2019年度<br />\n・2020年・令和2年3月 　公益財団法人福島民友愛の事業団　社会福祉推進事業助成<br />\n・2020年・令和2年4月   一般財団法人ふくしま未来研究会 広告協賛事業<br />\n・2020年・令和2年6月   　真如苑　子ども食堂活動支援助成<br />\n・2020年・令和2年4月   　白河市こども食堂応援補助金<br />\n・2020年・令和2年6月   　福島県地域で支える子育て推進事業 みんなで『らふみーる』（笑顔＆食）～今こそ食育、心と体の健康づくり～<br />\n・2020年・令和2年4月  　 社会福祉法人福島県共同募金会 「赤い羽根チャリティホワイトプロジェクト」2020年度<br />\n・2021年・令和2年4月  　 一般財団法人ふくしま未来研究会 広告協賛事業</p>\n<p><br />\n<span style=\"font-size: 12px;\">・2012年・平成24年1月　障がい者の就労支援実施</span><br />\n<span style=\"font-size: 12px;\">・2012年・平成24年4月　一般社団法人　あんだんて設立</span><br />\n<span style=\"font-size: 12px;\">・2013年・平成25年4月　福島県地域づくり総合支援事業（サポート事業）</span><br />\n<span style=\"font-size: 12px;\">「風評被害をぶっとばせ」実施</span><br />\n<span style=\"font-size: 12px;\">・2014年・平成26年4月　福島県地域づくり総合支援事業（サポート事業）</span><br />\n<span style=\"font-size: 12px;\">「来て・見て・食べて・そして知ろう、ふくしま…!!」実施</span><br />\n<span style=\"font-size: 12px;\">・2015年・平成27年4月　福島県地域づくり総合支援事業（サポート事業）</span><br />\n<span style=\"font-size: 12px;\">「来て・見て・食べて・そして知ろう、ふくしま…!!」実施</span><br />\n<span style=\"font-size: 12px;\">・2017年・平成29年4月　福島県地域創生総合支援事業　（サポート事業）</span><br />\n<span style=\"font-size: 12px;\">「らふみーる（笑顔＆食）コミュニティサロン」実施</span><br />\n<span style=\"font-size: 12px;\">・2018年・平成30年4月　一般財団法人ふくしま未来研究会 広告協賛事業</span><br />\n<span style=\"font-size: 12px;\">・2018年・平成30年4月　福島県地域創生総合支援事業　（サポート事業）</span><br />\n<span style=\"font-size: 12px;\">「きららかサロン」実施</span><br />\n<span style=\"font-size: 12px;\">・2018年・平成30年6月　福島県スタートアップ事業</span><br />\n<span style=\"font-size: 12px;\">らふみーる（笑顔＆食）コミュニティサロン</span><br />\n<span style=\"font-size: 12px;\">・2019年・平成31年2月　白河市こども食堂応援補助金</span><br />\n<span style=\"font-size: 12px;\">・2019年・平成31年4月　福島県地域創生総合支援事業　（サポート事業）</span><br />\n<span style=\"font-size: 12px;\">「健康地域交流体験教室」実施</span><br />\n<span style=\"font-size: 12px;\">・2019年・平成31年4月　一般財団法人ふくしま未来研究会 広告協賛事業</span><br />\n<span style=\"font-size: 12px;\">・2019年・平成31年4月　福島県地域で支える子育て推進事業</span><br />\n<span style=\"font-size: 12px;\">みんなで『らふみーる』（笑顔＆食）～今こそ食育、心と体の健康づくり～</span><br />\n<span style=\"font-size: 12px;\">・2019年・令和元年5月　白河市こども食堂応援補助金</span><br />\n<span style=\"font-size: 12px;\">・2019年・令和元年5月　福島県スタートアップ事業</span><br />\n<span style=\"font-size: 12px;\">らふみーる（笑顔＆食）西郷上野原コミュニティサロン</span><br />\n<span style=\"font-size: 12px;\">・2019年・令和元年6月　社会福祉法人福島県共同募金会</span><br />\n<span style=\"font-size: 12px;\">「赤い羽根チャリティホワイトプロジェクト」2019年度</span><br />\n<span style=\"font-size: 12px;\">・2020年・令和2年3月 　公益財団法人福島民友愛の事業団　社会福祉推進事業助成</span><br />\n<span style=\"font-size: 12px;\">・2020年・令和2年4月   一般財団法人ふくしま未来研究会 広告協賛事業</span><br />\n<span style=\"font-size: 12px;\">・2020年・令和2年6月  　 真如苑　子ども食堂活動支援助成</span><br />\n<span style=\"font-size: 12px;\">・2020年・令和2年4月  　 白河市こども食堂応援補助金</span><br />\n<span style=\"font-size: 12px;\">・2020年・令和2年6月   　福島県地域で支える子育て推進事業</span><br />\n<span style=\"font-size: 12px;\">みんなで『らふみーる』（笑顔＆食）～今こそ食育、心と体の健康づくり～</span><br />\n<span style=\"font-size: 12px;\">・2020年・令和2年4月  　 社会福祉法人福島県共同募金会 </span><br />\n<span style=\"font-size: 12px;\">「赤い羽根チャリティホワイトプロジェクト」2020年度</span><br />\n<span style=\"font-size: 12px;\">・2021年・令和2年4月  　 一般財団法人ふくしま未来研究会 広告協賛事業</span><br />\n<span style=\"font-size: 12px;\"></span></p>\n</div></div></div></div></div></div>\n<a class=\"left carousel-control\" data-target=\"#0a14cd4sd5\" data-cvslide=\"prev\">\r\n\t\t\t\t\t\t<span class=\"glyphicon glyphicon-chevron-left\"></span>\r\n\t\t\t\t\t</a>\r\n\t\t\t\t\t<a class=\"right carousel-control\" data-target=\"#0a14cd4sd5\" data-cvslide=\"next\">\r\n\t\t\t\t\t\t<span class=\"glyphicon glyphicon-chevron-right\"></span>\r\n\t\t\t\t\t</a></div></div></div></div></div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t\t",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>カラオケコミュニケーション教室音楽を楽しみたい、自由に歌って脳を活性化したい参加 &hellip; </p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "elementor_header_footer",
+    "meta": {
+      "footnotes": ""
+    },
+    "class_list": [
+      "post-847",
+      "page",
+      "type-page",
+      "status-publish",
+      "hentry"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://s-andante.org/wp-json/wp/v2/pages/847",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://s-andante.org/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://s-andante.org/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://s-andante.org/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://s-andante.org/wp-json/wp/v2/comments?post=847"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 141,
+          "href": "https://s-andante.org/wp-json/wp/v2/pages/847/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 2902,
+          "href": "https://s-andante.org/wp-json/wp/v2/pages/847/revisions/2902"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://s-andante.org/wp-json/wp/v2/media?parent=847"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 385,
+    "date": "2019-10-30T20:06:45",
+    "date_gmt": "2019-10-30T20:06:45",
+    "guid": {
+      "rendered": "http://demo.athemes.com/sydney-redesign/?page_id=385"
+    },
+    "modified": "2020-03-11T13:21:56",
+    "modified_gmt": "2020-03-11T04:21:56",
+    "slug": "blog",
+    "status": "publish",
+    "type": "page",
+    "link": "https://s-andante.org/blog/",
+    "title": {
+      "rendered": "Blog"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "elementor_header_footer",
+    "meta": {
+      "footnotes": ""
+    },
+    "class_list": [
+      "post-385",
+      "page",
+      "type-page",
+      "status-publish",
+      "hentry"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://s-andante.org/wp-json/wp/v2/pages/385",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://s-andante.org/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://s-andante.org/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://s-andante.org/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://s-andante.org/wp-json/wp/v2/comments?post=385"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 1,
+          "href": "https://s-andante.org/wp-json/wp/v2/pages/385/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 689,
+          "href": "https://s-andante.org/wp-json/wp/v2/pages/385/revisions/689"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://s-andante.org/wp-json/wp/v2/media?parent=385"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 13,
+    "date": "2019-10-25T09:50:44",
+    "date_gmt": "2019-10-25T09:50:44",
+    "guid": {
+      "rendered": "http://demo.athemes.com/sydney-redesign/?page_id=13"
+    },
+    "modified": "2023-08-21T12:06:28",
+    "modified_gmt": "2023-08-21T03:06:28",
+    "slug": "home",
+    "status": "publish",
+    "type": "page",
+    "link": "https://s-andante.org/",
+    "title": {
+      "rendered": "Home"
+    },
+    "content": {
+      "rendered": "\t\t<div data-elementor-type=\"wp-page\" data-elementor-id=\"13\" class=\"elementor elementor-13\" data-elementor-settings=\"[]\">\n\t\t\t<div class=\"elementor-inner\">\n\t\t\t\t<div class=\"elementor-section-wrap\">\n\t\t\t\t\t\t\t<section class=\"elementor-element elementor-element-fc44f1e elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section\" data-id=\"fc44f1e\" data-element_type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t<div class=\"elementor-row\">\n\t\t\t\t<div class=\"elementor-element elementor-element-cc98b04 elementor-column elementor-col-100 elementor-top-column\" data-id=\"cc98b04\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-column-wrap  elementor-element-populated\">\n\t\t\t\t\t<div class=\"elementor-widget-wrap\">\n\t\t\t\t<div class=\"elementor-element elementor-element-48e642f elementor-widget elementor-widget-text-editor\" data-id=\"48e642f\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<div class=\"elementor-text-editor elementor-clearfix\"><h1>みんなが集まる場所<br><br>\n『あんだんて』で心地よく過ごす</h1></div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\t\t\t\t<section class=\"elementor-element elementor-element-689319a elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section\" data-id=\"689319a\" data-element_type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t<div class=\"elementor-row\">\n\t\t\t\t<div class=\"elementor-element elementor-element-97de5c4 elementor-column elementor-col-33 elementor-top-column\" data-id=\"97de5c4\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-column-wrap  elementor-element-populated\">\n\t\t\t\t\t<div class=\"elementor-widget-wrap\">\n\t\t\t\t<div class=\"elementor-element elementor-element-932f183 elementor-widget elementor-widget-image\" data-id=\"932f183\" data-element_type=\"widget\" data-widget_type=\"image.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<div class=\"elementor-image\">\n\t\t\t\t\t\t\t\t\t\t<img loading=\"lazy\" decoding=\"async\" width=\"512\" height=\"462\" src=\"https://s-andante.org/wp-content/uploads/2020/03/kiraraka.jpg\" class=\"attachment-large size-large\" alt=\"\" srcset=\"https://s-andante.org/wp-content/uploads/2020/03/kiraraka.jpg 512w, https://s-andante.org/wp-content/uploads/2020/03/kiraraka-300x271.jpg 300w\" sizes=\"auto, (max-width: 512px) 100vw, 512px\" />\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<section class=\"elementor-element elementor-element-7b2be86 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section\" data-id=\"7b2be86\" data-element_type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t<div class=\"elementor-row\">\n\t\t\t\t<div class=\"elementor-element elementor-element-805e96f elementor-column elementor-col-50 elementor-inner-column\" data-id=\"805e96f\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-column-wrap  elementor-element-populated\">\n\t\t\t\t\t<div class=\"elementor-widget-wrap\">\n\t\t\t\t<div class=\"elementor-element elementor-element-f3eb509 elementor-widget__width-inherit elementor-view-default elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box\" data-id=\"f3eb509\" data-element_type=\"widget\" data-widget_type=\"icon-box.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<div class=\"elementor-icon-box-wrapper\">\n\t\t\t\t\t\t<div class=\"elementor-icon-box-icon\">\n\t\t\t\t<a class=\"elementor-icon elementor-animation-\" href=\"http://s-andante.org/kiraraka/\">\n\t\t\t\t<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 48 48\"><defs><style>.a,.b{fill:none;}.b{stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-width:4px;}</style></defs><title>412_tr_f</title><rect class=\"a\" width=\"48\" height=\"48\"></rect><path class=\"b\" d=\"M12,18v6a12,12,0,0,0,24,0V18Z\"></path><line class=\"b\" x1=\"12\" y1=\"43\" x2=\"36\" y2=\"43\"></line><path class=\"b\" d=\"M36,18h3.35C42.46,18,44,19.11,44,23a4.31,4.31,0,0,1-3.29,4.55\"></path><line class=\"b\" x1=\"24\" y1=\"11\" x2=\"24\" y2=\"3\"></line><line class=\"b\" x1=\"16\" y1=\"9\" x2=\"16\" y2=\"5\"></line><line class=\"b\" x1=\"32\" y1=\"9\" x2=\"32\" y2=\"5\"></line></svg>\t\t\t\t</a>\n\t\t\t</div>\n\t\t\t\t\t\t<div class=\"elementor-icon-box-content\">\n\t\t\t\t<h3 class=\"elementor-icon-box-title\">\n\t\t\t\t\t<a href=\"http://s-andante.org/kiraraka/\">きららか<br>サロン</a>\n\t\t\t\t</h3>\n\t\t\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-7a53556 elementor-column elementor-col-50 elementor-inner-column\" data-id=\"7a53556\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-column-wrap  elementor-element-populated\">\n\t\t\t\t\t<div class=\"elementor-widget-wrap\">\n\t\t\t\t<div class=\"elementor-element elementor-element-726a2f7 elementor-view-default elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box\" data-id=\"726a2f7\" data-element_type=\"widget\" data-widget_type=\"icon-box.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<div class=\"elementor-icon-box-wrapper\">\n\t\t\t\t\t\t<div class=\"elementor-icon-box-icon\">\n\t\t\t\t<a class=\"elementor-icon elementor-animation-\" href=\"http://s-andante.org/yp-2/\">\n\t\t\t\t<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 48 48\"><defs><style>.a,.b,.c{fill:none;}.b,.c{stroke:#000;stroke-miterlimit:10;stroke-width:2px;}.c{stroke-linecap:round;}</style></defs><title>101_h_24</title><rect class=\"a\" width=\"48\" height=\"48\"></rect><circle class=\"b\" cx=\"24\" cy=\"9\" r=\"7\"></circle><path class=\"c\" d=\"M7,46V32A10,10,0,0,1,17,22H31A10,10,0,0,1,41,32V46\"></path><line class=\"c\" x1=\"16\" y1=\"34\" x2=\"16\" y2=\"46\"></line><line class=\"c\" x1=\"32\" y1=\"34\" x2=\"32\" y2=\"46\"></line></svg>\t\t\t\t</a>\n\t\t\t</div>\n\t\t\t\t\t\t<div class=\"elementor-icon-box-content\">\n\t\t\t\t<h3 class=\"elementor-icon-box-title\">\n\t\t\t\t\t<a href=\"http://s-andante.org/yp-2/\">若者の居場所<br>ユースプレイス</a>\n\t\t\t\t</h3>\n\t\t\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-507ccc3 elementor-column elementor-col-33 elementor-top-column\" data-id=\"507ccc3\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-column-wrap  elementor-element-populated\">\n\t\t\t\t\t<div class=\"elementor-widget-wrap\">\n\t\t\t\t<div class=\"elementor-element elementor-element-3f6cb70 elementor-widget elementor-widget-image\" data-id=\"3f6cb70\" data-element_type=\"widget\" data-widget_type=\"image.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<div class=\"elementor-image\">\n\t\t\t\t\t\t\t\t\t\t<img loading=\"lazy\" decoding=\"async\" width=\"512\" height=\"413\" src=\"https://s-andante.org/wp-content/uploads/2020/03/unnamed.jpg\" class=\"attachment-large size-large\" alt=\"\" srcset=\"https://s-andante.org/wp-content/uploads/2020/03/unnamed.jpg 512w, https://s-andante.org/wp-content/uploads/2020/03/unnamed-300x242.jpg 300w\" sizes=\"auto, (max-width: 512px) 100vw, 512px\" />\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<section class=\"elementor-element elementor-element-25d6e29 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section\" data-id=\"25d6e29\" data-element_type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t<div class=\"elementor-row\">\n\t\t\t\t<div class=\"elementor-element elementor-element-67318b9 elementor-column elementor-col-100 elementor-inner-column\" data-id=\"67318b9\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-column-wrap  elementor-element-populated\">\n\t\t\t\t\t<div class=\"elementor-widget-wrap\">\n\t\t\t\t<div class=\"elementor-element elementor-element-0f87294 elementor-widget elementor-widget-wp-widget-text\" data-id=\"0f87294\" data-element_type=\"widget\" data-widget_type=\"wp-widget-text.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t<div class=\"textwidget\"><p><a href=\"https://s-andante.org/ibasyo\" title=\"第三の居場所\"></p>\n<h2>「生きる力」を育む<br />\n第三の居場所づくり</h2>\n<p></a></p>\n</div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\t\t\t\t<div class=\"elementor-element elementor-element-d91fc6a elementor-widget elementor-widget-text-editor\" data-id=\"d91fc6a\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<div class=\"elementor-text-editor elementor-clearfix\">「<strong>一般社団法人あんだんて</strong>」の活動は\n<span style=\"font-size: 20px;\"><strong><a href=\"https://www.facebook.com/mitsuko.yamamot\" target=\"_blank\" rel=\"noopener\"><span style=\"color: #3366ff;\">FaceBook</span></a></strong></span>で発信しています。<br>ご覧ください。\n[<a href=\"https://www.facebook.com/mitsuko.yamamot\" target=\"_blank\" rel=\"noopener\">クリック</a>]</div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-1e0b57c elementor-column elementor-col-33 elementor-top-column\" data-id=\"1e0b57c\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-column-wrap  elementor-element-populated\">\n\t\t\t\t\t<div class=\"elementor-widget-wrap\">\n\t\t\t\t<div class=\"elementor-element elementor-element-fbfce36 elementor-widget elementor-widget-image\" data-id=\"fbfce36\" data-element_type=\"widget\" data-widget_type=\"image.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<div class=\"elementor-image\">\n\t\t\t\t\t\t\t\t\t\t<img loading=\"lazy\" decoding=\"async\" width=\"512\" height=\"470\" src=\"https://s-andante.org/wp-content/uploads/2020/03/rafumi.jpg\" class=\"attachment-large size-large\" alt=\"\" srcset=\"https://s-andante.org/wp-content/uploads/2020/03/rafumi.jpg 512w, https://s-andante.org/wp-content/uploads/2020/03/rafumi-300x275.jpg 300w\" sizes=\"auto, (max-width: 512px) 100vw, 512px\" />\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<section class=\"elementor-element elementor-element-2820b27 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section\" data-id=\"2820b27\" data-element_type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t<div class=\"elementor-row\">\n\t\t\t\t<div class=\"elementor-element elementor-element-e6dd93b elementor-column elementor-col-50 elementor-inner-column\" data-id=\"e6dd93b\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-column-wrap  elementor-element-populated\">\n\t\t\t\t\t<div class=\"elementor-widget-wrap\">\n\t\t\t\t<div class=\"elementor-element elementor-element-391d439 elementor-widget__width-inherit elementor-view-default elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box\" data-id=\"391d439\" data-element_type=\"widget\" data-widget_type=\"icon-box.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<div class=\"elementor-icon-box-wrapper\">\n\t\t\t\t\t\t<div class=\"elementor-icon-box-icon\">\n\t\t\t\t<a class=\"elementor-icon elementor-animation-\" href=\"http://s-andante.org/kodomos/\">\n\t\t\t\t<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 48 48\"><defs><style>.a,.b{fill:none;}.b{stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-width:4px;}</style></defs><title>gourmet2_24</title><rect class=\"a\" width=\"48\" height=\"48\"></rect><line class=\"b\" x1=\"12\" y1=\"43\" x2=\"12\" y2=\"5\"></line><line class=\"b\" x1=\"36\" y1=\"43\" x2=\"36\" y2=\"22\"></line><path class=\"b\" d=\"M20,5V16.68a1,1,0,0,1-.59.89L12,21.07l-7.41-3.5A1,1,0,0,1,4,16.68V5\"></path><ellipse class=\"b\" cx=\"36\" cy=\"13\" rx=\"8\" ry=\"9\"></ellipse></svg>\t\t\t\t</a>\n\t\t\t</div>\n\t\t\t\t\t\t<div class=\"elementor-icon-box-content\">\n\t\t\t\t<h3 class=\"elementor-icon-box-title\">\n\t\t\t\t\t<a href=\"http://s-andante.org/kodomos/\">らふみーる<br>こども＆みんなの食堂</a>\n\t\t\t\t</h3>\n\t\t\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-19968a9 elementor-column elementor-col-50 elementor-inner-column\" data-id=\"19968a9\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-column-wrap  elementor-element-populated\">\n\t\t\t\t\t<div class=\"elementor-widget-wrap\">\n\t\t\t\t<div class=\"elementor-element elementor-element-0bced90 elementor-widget__width-inherit elementor-view-default elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box\" data-id=\"0bced90\" data-element_type=\"widget\" data-widget_type=\"icon-box.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<div class=\"elementor-icon-box-wrapper\">\n\t\t\t\t\t\t<div class=\"elementor-icon-box-icon\">\n\t\t\t\t<a class=\"elementor-icon elementor-animation-\" href=\" https://s-andante.org/子育て相談室/\">\n\t\t\t\t<i aria-hidden=\"true\" class=\"fas fa-child\"></i>\t\t\t\t</a>\n\t\t\t</div>\n\t\t\t\t\t\t<div class=\"elementor-icon-box-content\">\n\t\t\t\t<h3 class=\"elementor-icon-box-title\">\n\t\t\t\t\t<a href=\" https://s-andante.org/子育て相談室/\">子育て相談室</a>\n\t\t\t\t</h3>\n\t\t\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\t\t\t\t<section class=\"elementor-element elementor-element-1a53b4f elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section\" data-id=\"1a53b4f\" data-element_type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t<div class=\"elementor-row\">\n\t\t\t\t<div class=\"elementor-element elementor-element-11ff1b2 elementor-column elementor-col-100 elementor-top-column\" data-id=\"11ff1b2\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-column-wrap  elementor-element-populated\">\n\t\t\t\t\t<div class=\"elementor-widget-wrap\">\n\t\t\t\t<div class=\"elementor-element elementor-element-67c842d elementor-widget elementor-widget-shortcode\" data-id=\"67c842d\" data-element_type=\"widget\" data-widget_type=\"shortcode.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<div class=\"elementor-shortcode\">\t\t<p>　新着情報</p>\t\t<hr/>\n\t\n<div class=\"clearfix box_wrap\">\n    <div class=\"box_left\">\n       2026-05-10    </div>\n    <div class=\"box_cat\">\n        <span style=\"background:#e03378;\"><a href=\"https://s-andante.org/category/%e3%81%82%e3%82%93%e3%81%a0%e3%82%93%e3%81%a6/\" title=\"あんだんて\">あんだんて</a></span>    </div>\n    <div class=\"box_left\">\n\t\t<a style =\"color: #0906d0;\" href=\"https://s-andante.org/2026/05/10/%ef%bc%95%e6%9c%88%ef%bc%916%e6%97%a5%e5%9c%9f%ef%bc%89%e3%82%a4%e3%83%99%e3%83%b3%e3%83%88%e6%a1%88%e5%86%85/\">５月１6日(土）イベント案内</a>\n    </div>\n </div>\n<hr>\n\n<div class=\"clearfix box_wrap\">\n    <div class=\"box_left\">\n       2026-05-07    </div>\n    <div class=\"box_cat\">\n        <span style=\"background:#1e73be;\"><a href=\"https://s-andante.org/category/%e3%81%93%e3%81%a9%e3%82%82%e9%a3%9f%e5%a0%82/\" title=\"こども食堂\">こども食堂</a></span>    </div>\n    <div class=\"box_left\">\n\t\t<a style =\"color: #0906d0;\" href=\"https://s-andante.org/2026/05/07/%e4%bb%a4%e5%92%8c%ef%bc%98%e5%b9%b45%e6%9c%8824%e6%97%a5%e6%97%a5%e3%81%93%e3%81%a9%e3%82%82%e9%a3%9f%e5%a0%82%e9%96%8b%e5%82%ac/\">令和８年5月24日(日)こども食堂開催</a>\n    </div>\n </div>\n<hr>\n\n<div class=\"clearfix box_wrap\">\n    <div class=\"box_left\">\n       2026-05-07    </div>\n    <div class=\"box_cat\">\n        <span style=\"background:#1e73be;\"><a href=\"https://s-andante.org/category/%e3%81%93%e3%81%a9%e3%82%82%e9%a3%9f%e5%a0%82/\" title=\"こども食堂\">こども食堂</a></span>    </div>\n    <div class=\"box_left\">\n\t\t<a style =\"color: #0906d0;\" href=\"https://s-andante.org/2026/05/07/%e4%bb%a4%e5%92%8c%ef%bc%98%e5%b9%b45%e6%9c%8810%e6%97%a5%e6%97%a5%e3%81%93%e3%81%a9%e3%82%82%e9%a3%9f%e5%a0%82%e9%96%8b%e5%82%ac/\">令和８年5月10日(日)こども食堂開催</a>\n    </div>\n </div>\n<hr>\n\n<div class=\"clearfix box_wrap\">\n    <div class=\"box_left\">\n       2026-04-15    </div>\n    <div class=\"box_cat\">\n        <span style=\"background:#1e73be;\"><a href=\"https://s-andante.org/category/%e3%81%93%e3%81%a9%e3%82%82%e9%a3%9f%e5%a0%82/\" title=\"こども食堂\">こども食堂</a></span>    </div>\n    <div class=\"box_left\">\n\t\t<a style =\"color: #0906d0;\" href=\"https://s-andante.org/2026/04/15/%e4%bb%a4%e5%92%8c%ef%bc%98%e5%b9%b4%ef%bc%94%e6%9c%8826%e6%97%a5%e6%97%a5%e3%81%93%e3%81%a9%e3%82%82%e9%a3%9f%e5%a0%82%e9%96%8b%e5%82%ac/\">令和８年４月26日(日)こども食堂開催</a>\n    </div>\n </div>\n<hr>\n\n<div class=\"clearfix box_wrap\">\n    <div class=\"box_left\">\n       2026-04-07    </div>\n    <div class=\"box_cat\">\n        <span style=\"background:#1e73be;\"><a href=\"https://s-andante.org/category/%e3%81%93%e3%81%a9%e3%82%82%e9%a3%9f%e5%a0%82/\" title=\"こども食堂\">こども食堂</a></span>    </div>\n    <div class=\"box_left\">\n\t\t<a style =\"color: #0906d0;\" href=\"https://s-andante.org/2026/04/07/%e4%bb%a4%e5%92%8c%ef%bc%98%e5%b9%b4%ef%bc%94%e6%9c%8812%e6%97%a5%e3%81%93%e3%81%a9%e3%82%82%e9%a3%9f%e5%a0%82%e9%96%8b%e5%82%ac/\">令和８年４月12日(日)こども食堂開催</a>\n    </div>\n </div>\n<hr>\n\n<div class=\"clearfix box_wrap\">\n    <div class=\"box_left\">\n       2026-03-31    </div>\n    <div class=\"box_cat\">\n        <span style=\"background:#f48200;\"><a href=\"https://s-andante.org/category/%e3%81%94%e6%94%af%e6%8f%b4/\" title=\"ご支援\">ご支援</a></span>    </div>\n    <div class=\"box_left\">\n\t\t<a style =\"color: #0906d0;\" href=\"https://s-andante.org/2026/03/31/%e4%bb%a4%e5%92%8c7%e5%b9%b4%e5%ba%a6%e5%85%a8%e5%9b%bd%e9%a3%9f%e6%94%af%e6%8f%b4%e6%b4%bb%e5%8b%95%e5%8d%94%e5%8a%9b%e4%bc%9a%e6%a7%98/\">令和7年度全国食支援活動協力会様</a>\n    </div>\n </div>\n<hr>\n\n<div class=\"clearfix box_wrap\">\n    <div class=\"box_left\">\n       2026-03-31    </div>\n    <div class=\"box_cat\">\n        <span style=\"background:#f48200;\"><a href=\"https://s-andante.org/category/%e3%81%94%e6%94%af%e6%8f%b4/\" title=\"ご支援\">ご支援</a></span>    </div>\n    <div class=\"box_left\">\n\t\t<a style =\"color: #0906d0;\" href=\"https://s-andante.org/2026/03/31/%e4%bb%a4%e5%92%8c7%e5%b9%b4%e5%ba%a6%e3%82%82%e3%81%8f%e3%81%9f%e3%82%93%e5%b7%a5%e6%88%bf%e6%a7%98/\">令和7年度もくたん工房様</a>\n    </div>\n </div>\n<hr>\n\n<div class=\"clearfix box_wrap\">\n    <div class=\"box_left\">\n       2026-03-31    </div>\n    <div class=\"box_cat\">\n        <span style=\"background:#f48200;\"><a href=\"https://s-andante.org/category/%e3%81%94%e6%94%af%e6%8f%b4/\" title=\"ご支援\">ご支援</a></span>    </div>\n    <div class=\"box_left\">\n\t\t<a style =\"color: #0906d0;\" href=\"https://s-andante.org/2026/03/31/3800/\">令和7年度白河市様</a>\n    </div>\n </div>\n<hr>\n\n<div class=\"clearfix box_wrap\">\n    <div class=\"box_left\">\n       2026-03-31    </div>\n    <div class=\"box_cat\">\n        <span style=\"background:#f48200;\"><a href=\"https://s-andante.org/category/%e3%81%94%e6%94%af%e6%8f%b4/\" title=\"ご支援\">ご支援</a></span>    </div>\n    <div class=\"box_left\">\n\t\t<a style =\"color: #0906d0;\" href=\"https://s-andante.org/2026/03/31/%e4%bb%a4%e5%92%8c7%e5%b9%b4%e5%ba%a6%e3%82%a2%e3%82%a4%e3%83%aa%e3%82%b9%e3%82%aa%e3%83%bc%e3%83%a4%e3%83%9e%e6%a7%98/\">令和7年度アイリスオーヤマ様</a>\n    </div>\n </div>\n<hr>\n\n<div class=\"clearfix box_wrap\">\n    <div class=\"box_left\">\n       2026-03-31    </div>\n    <div class=\"box_cat\">\n        <span style=\"background:#f48200;\"><a href=\"https://s-andante.org/category/%e3%81%94%e6%94%af%e6%8f%b4/\" title=\"ご支援\">ご支援</a></span>    </div>\n    <div class=\"box_left\">\n\t\t<a style =\"color: #0906d0;\" href=\"https://s-andante.org/2026/03/31/%e4%bb%a4%e5%92%8c7%e5%b9%b4%e5%ba%a6%e4%b8%80%e8%88%ac%e8%b2%a1%e5%9b%a3%e6%b3%95%e4%ba%ba%e3%81%b5%e3%81%8f%e3%81%97%e3%81%be%e6%9c%aa%e6%9d%a5%e7%a0%94%e7%a9%b6%e4%bc%9a%e6%a7%98/\">令和7年度一般財団法人ふくしま未来研究会様</a>\n    </div>\n </div>\n<hr>\n\n<div class=\"clearfix box_wrap\">\n    <div class=\"box_left\">\n       2026-03-03    </div>\n    <div class=\"box_cat\">\n        <span style=\"background:#1e73be;\"><a href=\"https://s-andante.org/category/%e3%81%93%e3%81%a9%e3%82%82%e9%a3%9f%e5%a0%82/\" title=\"こども食堂\">こども食堂</a></span>    </div>\n    <div class=\"box_left\">\n\t\t<a style =\"color: #0906d0;\" href=\"https://s-andante.org/2026/03/03/3%e6%9c%8827%e6%97%a5%e9%87%91%e3%82%89%e3%81%b5%e3%81%bf%e3%83%bc%e3%82%8b%e7%99%bd%e6%b2%b3%e3%81%93%e3%81%a9%e3%82%82%e9%a3%9f%e5%a0%82%e9%96%8b%e5%82%ac/\">3月27日(金)らふみーる白河こども食堂開催</a>\n    </div>\n </div>\n<hr>\n\n<div class=\"clearfix box_wrap\">\n    <div class=\"box_left\">\n       2026-03-02    </div>\n    <div class=\"box_cat\">\n        <span style=\"background:#1e73be;\"><a href=\"https://s-andante.org/category/%e3%81%93%e3%81%a9%e3%82%82%e9%a3%9f%e5%a0%82/\" title=\"こども食堂\">こども食堂</a></span>    </div>\n    <div class=\"box_left\">\n\t\t<a style =\"color: #0906d0;\" href=\"https://s-andante.org/2026/03/02/3%e6%9c%8822%e6%97%a5%e6%97%a5%e3%82%89%e3%81%b5%e3%81%bf%e3%83%bc%e3%82%8b%e3%81%93%e3%81%a9%e3%82%82%ef%bc%86%e3%81%bf%e3%82%93%e3%81%aa%e3%81%ae%e9%a3%9f%e5%a0%82%e9%96%8b%e5%82%ac-2/\">3月22日(日)らふみーるこども＆みんなの食堂開催</a>\n    </div>\n </div>\n<hr>\n\n<div class=\"clearfix box_wrap\">\n    <div class=\"box_left\">\n       2026-03-02    </div>\n    <div class=\"box_cat\">\n        <span style=\"background:#1e73be;\"><a href=\"https://s-andante.org/category/%e3%81%93%e3%81%a9%e3%82%82%e9%a3%9f%e5%a0%82/\" title=\"こども食堂\">こども食堂</a></span>    </div>\n    <div class=\"box_left\">\n\t\t<a style =\"color: #0906d0;\" href=\"https://s-andante.org/2026/03/02/3%e6%9c%888%e6%97%a5%e6%97%a5%e3%82%89%e3%81%b5%e3%81%bf%e3%83%bc%e3%82%8b%e3%81%93%e3%81%a9%e3%82%82%ef%bc%86%e3%81%bf%e3%82%93%e3%81%aa%e3%81%ae%e9%a3%9f%e5%a0%82%e9%96%8b%e5%82%ac/\">3月8日(日)らふみーるこども＆みんなの食堂開催</a>\n    </div>\n </div>\n<hr>\n\n<div class=\"clearfix box_wrap\">\n    <div class=\"box_left\">\n       2026-02-18    </div>\n    <div class=\"box_cat\">\n        <span style=\"background:#1e73be;\"><a href=\"https://s-andante.org/category/%e3%81%93%e3%81%a9%e3%82%82%e9%a3%9f%e5%a0%82/\" title=\"こども食堂\">こども食堂</a></span>    </div>\n    <div class=\"box_left\">\n\t\t<a style =\"color: #0906d0;\" href=\"https://s-andante.org/2026/02/18/2%e6%9c%8827%e6%97%a5%e3%88%ae%e3%82%89%e3%81%b5%e3%81%bf%e3%83%bc%e3%82%8b%e7%99%bd%e6%b2%b3%e3%81%93%e3%81%a9%e3%82%82%e9%a3%9f%e5%a0%82%e9%96%8b%e5%82%ac/\">2月27日(金)らふみーる白河こども食堂開催</a>\n    </div>\n </div>\n<hr>\n\n<div class=\"clearfix box_wrap\">\n    <div class=\"box_left\">\n       2026-02-17    </div>\n    <div class=\"box_cat\">\n        <span style=\"background:#1e73be;\"><a href=\"https://s-andante.org/category/%e3%81%93%e3%81%a9%e3%82%82%e9%a3%9f%e5%a0%82/\" title=\"こども食堂\">こども食堂</a></span>    </div>\n    <div class=\"box_left\">\n\t\t<a style =\"color: #0906d0;\" href=\"https://s-andante.org/2026/02/17/2%e6%9c%8822%e6%97%a5%e6%97%a5%e3%82%89%e3%81%b5%e3%81%bf%e3%83%bc%e3%82%8b%e3%81%93%e3%81%a9%e3%82%82%ef%bc%86%e3%81%bf%e3%82%93%e3%81%aa%e3%81%ae%e9%a3%9f%e5%a0%82%e9%96%8b%e5%82%ac/\">2月22日(日)らふみーるこども＆みんなの食堂開催</a>\n    </div>\n </div>\n<hr>\n\n<div class=\"clearfix box_wrap\">\n    <div class=\"box_left\">\n       2026-02-01    </div>\n    <div class=\"box_cat\">\n        <span style=\"background:#1e73be;\"><a href=\"https://s-andante.org/category/%e3%81%93%e3%81%a9%e3%82%82%e9%a3%9f%e5%a0%82/\" title=\"こども食堂\">こども食堂</a></span>    </div>\n    <div class=\"box_left\">\n\t\t<a style =\"color: #0906d0;\" href=\"https://s-andante.org/2026/02/01/2%e6%9c%888%e6%97%a5%e6%97%a5%e3%82%89%e3%81%b5%e3%81%bf%e3%83%bc%e3%82%8b%e3%81%93%e3%81%a9%e3%82%82%ef%bc%86%e3%81%bf%e3%82%93%e3%81%aa%e3%81%ae%e9%a3%9f%e5%a0%82%e9%96%8b%e5%82%ac/\">2月8日(日)らふみーるこども＆みんなの食堂開催</a>\n    </div>\n </div>\n<hr>\n\n<div class=\"clearfix box_wrap\">\n    <div class=\"box_left\">\n       2026-01-25    </div>\n    <div class=\"box_cat\">\n        <span style=\"background:#1e73be;\"><a href=\"https://s-andante.org/category/%e3%81%93%e3%81%a9%e3%82%82%e9%a3%9f%e5%a0%82/\" title=\"こども食堂\">こども食堂</a></span>    </div>\n    <div class=\"box_left\">\n\t\t<a style =\"color: #0906d0;\" href=\"https://s-andante.org/2026/01/25/1%e6%9c%8830%e6%97%a5%e9%87%91%e3%82%89%e3%81%b5%e3%81%bf%e3%83%bc%e3%82%8b%e7%99%bd%e6%b2%b3%e3%81%93%e3%81%a9%e3%82%82%e9%a3%9f%e5%a0%82%e9%96%8b%e5%82%ac/\">1月30日(金)らふみーる白河こども食堂開催</a>\n    </div>\n </div>\n<hr>\n\n<div class=\"clearfix box_wrap\">\n    <div class=\"box_left\">\n       2026-01-13    </div>\n    <div class=\"box_cat\">\n        <span style=\"background:#1e73be;\"><a href=\"https://s-andante.org/category/%e3%81%93%e3%81%a9%e3%82%82%e9%a3%9f%e5%a0%82/\" title=\"こども食堂\">こども食堂</a></span>    </div>\n    <div class=\"box_left\">\n\t\t<a style =\"color: #0906d0;\" href=\"https://s-andante.org/2026/01/13/1%e6%9c%8825%e6%97%a5%e6%97%a5%e3%82%89%e3%81%b5%e3%81%bf%e3%83%bc%e3%82%8b%e3%81%93%e3%81%a9%e3%82%82%ef%bc%86%e3%81%bf%e3%82%93%e3%81%aa%e3%81%ae%e9%a3%9f%e5%a0%82%e9%96%8b%e5%82%ac/\">1月25日(日)らふみーるこども＆みんなの食堂開催</a>\n    </div>\n </div>\n<hr>\n\n<div class=\"clearfix box_wrap\">\n    <div class=\"box_left\">\n       2026-01-08    </div>\n    <div class=\"box_cat\">\n        <span style=\"background:#1e73be;\"><a href=\"https://s-andante.org/category/%e3%81%93%e3%81%a9%e3%82%82%e9%a3%9f%e5%a0%82/\" title=\"こども食堂\">こども食堂</a></span>    </div>\n    <div class=\"box_left\">\n\t\t<a style =\"color: #0906d0;\" href=\"https://s-andante.org/2026/01/08/1%e6%9c%8811%e6%97%a5%e6%97%a5%e3%82%89%e3%81%b5%e3%81%bf%e3%83%bc%e3%82%8b%e3%81%93%e3%81%a9%e3%82%82%ef%bc%86%e3%81%bf%e3%82%93%e3%81%aa%e3%81%ae%e9%a3%9f%e5%a0%82%e9%96%8b%e5%82%ac/\">1月11日(日)らふみーるこども＆みんなの食堂開催</a>\n    </div>\n </div>\n<hr>\n\n<div class=\"clearfix box_wrap\">\n    <div class=\"box_left\">\n       2026-01-07    </div>\n    <div class=\"box_cat\">\n        <span style=\"background:#1e73be;\"><a href=\"https://s-andante.org/category/%e3%81%93%e3%81%a9%e3%82%82%e9%a3%9f%e5%a0%82/\" title=\"こども食堂\">こども食堂</a></span>    </div>\n    <div class=\"box_left\">\n\t\t<a style =\"color: #0906d0;\" href=\"https://s-andante.org/2026/01/07/%e4%bb%a4%e5%92%8c%ef%bc%98%e5%b9%b41%e6%9c%88%e3%82%89%e3%81%b5%e3%81%bf%e3%83%bc%e3%82%8b%e3%81%93%e3%81%a9%e3%82%82%ef%bc%86%e3%81%bf%e3%82%93%e3%81%aa%e3%81%ae%e9%a3%9f%e5%a0%82%e9%96%8b%e5%82%ac/\">令和８年1月らふみーるこども＆みんなの食堂開催</a>\n    </div>\n </div>\n<hr>\n</div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\t\t\t\t<section class=\"elementor-element elementor-element-da8a1f1 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section\" data-id=\"da8a1f1\" data-element_type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t<div class=\"elementor-row\">\n\t\t\t\t<div class=\"elementor-element elementor-element-511c388 elementor-column elementor-col-50 elementor-top-column\" data-id=\"511c388\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-column-wrap  elementor-element-populated\">\n\t\t\t\t\t<div class=\"elementor-widget-wrap\">\n\t\t\t\t<div class=\"elementor-element elementor-element-1684573 elementor-widget elementor-widget-image\" data-id=\"1684573\" data-element_type=\"widget\" data-widget_type=\"image.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<div class=\"elementor-image\">\n\t\t\t\t\t\t\t\t\t\t<img loading=\"lazy\" decoding=\"async\" width=\"832\" height=\"365\" src=\"https://s-andante.org/wp-content/uploads/2020/03/topgaikan-1024x449.jpg\" class=\"attachment-large size-large\" alt=\"\" srcset=\"https://s-andante.org/wp-content/uploads/2020/03/topgaikan-1024x449.jpg 1024w, https://s-andante.org/wp-content/uploads/2020/03/topgaikan-300x132.jpg 300w, https://s-andante.org/wp-content/uploads/2020/03/topgaikan-768x337.jpg 768w, https://s-andante.org/wp-content/uploads/2020/03/topgaikan.jpg 1140w\" sizes=\"auto, (max-width: 832px) 100vw, 832px\" />\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-6e9e90f elementor-column elementor-col-50 elementor-top-column\" data-id=\"6e9e90f\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-column-wrap  elementor-element-populated\">\n\t\t\t\t\t<div class=\"elementor-widget-wrap\">\n\t\t\t\t<div class=\"elementor-element elementor-element-74e87dd elementor-widget elementor-widget-image\" data-id=\"74e87dd\" data-element_type=\"widget\" data-widget_type=\"image.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<div class=\"elementor-image\">\n\t\t\t\t\t\t\t\t\t\t<img loading=\"lazy\" decoding=\"async\" width=\"832\" height=\"365\" src=\"https://s-andante.org/wp-content/uploads/2020/03/slider5-1024x449.jpg\" class=\"attachment-large size-large\" alt=\"\" srcset=\"https://s-andante.org/wp-content/uploads/2020/03/slider5-1024x449.jpg 1024w, https://s-andante.org/wp-content/uploads/2020/03/slider5-300x132.jpg 300w, https://s-andante.org/wp-content/uploads/2020/03/slider5-768x337.jpg 768w, https://s-andante.org/wp-content/uploads/2020/03/slider5.jpg 1140w\" sizes=\"auto, (max-width: 832px) 100vw, 832px\" />\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\t\t\t\t<section class=\"elementor-element elementor-element-1ea3eaa elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section\" data-id=\"1ea3eaa\" data-element_type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t<div class=\"elementor-row\">\n\t\t\t\t<div class=\"elementor-element elementor-element-32bed21 elementor-column elementor-col-100 elementor-top-column\" data-id=\"32bed21\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-column-wrap\">\n\t\t\t\t\t<div class=\"elementor-widget-wrap\">\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\t\t\t\t<section class=\"elementor-element elementor-element-af4fc46 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section\" data-id=\"af4fc46\" data-element_type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t<div class=\"elementor-row\">\n\t\t\t\t<div class=\"elementor-element elementor-element-d5df533 elementor-column elementor-col-100 elementor-top-column\" data-id=\"d5df533\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-column-wrap  elementor-element-populated\">\n\t\t\t\t\t<div class=\"elementor-widget-wrap\">\n\t\t\t\t<div class=\"elementor-element elementor-element-9c0a07c elementor-widget elementor-widget-text-editor\" data-id=\"9c0a07c\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<div class=\"elementor-text-editor elementor-clearfix\"><div class=\"ggmap\"><iframe loading=\"lazy\" style=\"border: 0;\" src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3181.4486498759575!2d140.18325451529893!3d37.11823987988422!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60203acc88cca56b%3A0x881feea55b87291!2z44CSOTYxLTA4NTUg56aP5bO255yM55m95rKz5biC6auY5bGx6KW_77yR77yW77yS4oiS77yT77yU!5e0!3m2!1sja!2sjp!4v1581830597228!5m2!1sja!2sjp\" width=\"600\" height=\"450\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></div></div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t\t",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>みんなが集まる場所 『あんだんて』で心地よく過ごす 412_tr_f きららかサ &hellip; </p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "elementor_header_footer",
+    "meta": {
+      "footnotes": ""
+    },
+    "class_list": [
+      "post-13",
+      "page",
+      "type-page",
+      "status-publish",
+      "hentry"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://s-andante.org/wp-json/wp/v2/pages/13",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://s-andante.org/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://s-andante.org/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://s-andante.org/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://s-andante.org/wp-json/wp/v2/comments?post=13"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 191,
+          "href": "https://s-andante.org/wp-json/wp/v2/pages/13/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 2911,
+          "href": "https://s-andante.org/wp-json/wp/v2/pages/13/revisions/2911"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://s-andante.org/wp-json/wp/v2/media?parent=13"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+]
