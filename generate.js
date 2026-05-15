@@ -56,21 +56,53 @@ const SITE = {
   addr: '〒961-0855 福島県白河市高山西162-34',
 };
 
+// Nav grouped by 系統 (system/family). Items with `children` render as dropdowns.
 const NAV = [
   {label:'ホーム', href:'/'},
+  {label:'きららか系', children:[
+    {label:'きららかサロン', href:'/kiraraka/'},
+    {label:'若者の居場所ユースプレイス', href:'/yp-2/'},
+    {label:'子育て相談室', href:'/%e5%ad%90%e8%82%b2%e3%81%a6%e7%9b%b8%e8%ab%87%e5%ae%a4/'},
+  ]},
+  {label:'らふみーる系', children:[
+    {label:'こども＆みんなの食堂', href:'/kodomos/'},
+    {label:'らふみーる新白河', href:'https://hideo-t.github.io/rafmiir/', external:true},
+  ]},
   {label:'活動実績', href:'/shisetsu/'},
-  {label:'こども食堂', href:'/kodomos/'},
-  {label:'きららかサロン', href:'/kiraraka/'},
-  {label:'ユースプレイス', href:'/yp-2/'},
-  {label:'子育て相談', href:'/%e5%ad%90%e8%82%b2%e3%81%a6%e7%9b%b8%e8%ab%87%e5%ae%a4/'},
-  {label:'らふみーる新白河', href:'https://hideo-t.github.io/rafmiir/', external:true},
   {label:'ニュース', href:'/news/'},
   {label:'ご支援企業', href:'/%e3%81%94%e6%94%af%e6%8f%b4%e3%81%84%e3%81%9f%e3%81%a0%e3%81%84%e3%81%a6%e3%81%84%e3%82%8b%e4%bc%81%e6%a5%ad%e3%83%bb%e5%9b%a3%e4%bd%93%e4%b8%80%e8%a6%a7/'},
 ];
 
 const RELATED_SHOPS = [
-  {label:'大進ごはん家', href:'https://r.goope.jp/taishingohanya/'},
+  {label:'大信のご飯屋さん', href:'https://r.goope.jp/taishingohanya/'},
   {label:'カフェるぽん', href:'https://tabelog.com/fukushima/A0703/A070301/7020106/'},
+];
+
+// Two-system hero on home page
+const SYSTEMS = [
+  {
+    key:'kiraraka',
+    label:'きららか系',
+    en:'KIRARAKA FAMILY',
+    image:'/assets/hero_kiraraka.jpg',
+    desc:'地域の憩い・若者の居場所・子育てを支える「集う」系統。',
+    items:[
+      {label:'きららかサロン', href:'/kiraraka/'},
+      {label:'若者の居場所ユースプレイス', href:'/yp-2/'},
+      {label:'子育て相談室', href:'/%e5%ad%90%e8%82%b2%e3%81%a6%e7%9b%b8%e8%ab%87%e5%ae%a4/'},
+    ]
+  },
+  {
+    key:'rafmiir',
+    label:'らふみーる系',
+    en:'RAFMIIR FAMILY',
+    image:'/assets/hero_rafmiir.jpg',
+    desc:'地域に温かい食を届ける「食」と「働く」の系統。',
+    items:[
+      {label:'こども＆みんなの食堂', href:'/kodomos/'},
+      {label:'らふみーる新白河', href:'https://hideo-t.github.io/rafmiir/', external:true},
+    ]
+  },
 ];
 
 function pageShell(opts) {
@@ -117,7 +149,17 @@ ${canonical ? `<link rel="canonical" href="${canonical}">` : ''}
     </a>
     <button class="nav-toggle" id="navToggle" aria-label="メニュー"><span></span><span></span><span></span></button>
     <nav class="site-nav" id="nav">
-      ${NAV.map(n => `<a href="${n.href}"${n.external ? ' target="_blank" rel="noopener"' : ''}>${n.label}${n.external ? ' ↗' : ''}</a>`).join('\n      ')}
+      ${NAV.map(n => {
+        if (n.children) {
+          return `<div class="nav-group">
+        <button class="nav-trigger" type="button">${n.label} <span class="caret">▾</span></button>
+        <div class="nav-drop">
+          ${n.children.map(c => `<a href="${c.href}"${c.external ? ' target="_blank" rel="noopener"' : ''}>${c.label}${c.external ? ' ↗' : ''}</a>`).join('\n          ')}
+        </div>
+      </div>`;
+        }
+        return `<a href="${n.href}"${n.external ? ' target="_blank" rel="noopener"' : ''}>${n.label}${n.external ? ' ↗' : ''}</a>`;
+      }).join('\n      ')}
     </nav>
   </div>
 </header>
@@ -164,37 +206,36 @@ function writeFile(rel, content) {
 // === HOME ===
 function buildHome() {
   const latestPosts = DATA.posts.slice(0, 12);
-  const programs = [
-    {slug:'kodomos', title:'らふみーる こども＆みんなの食堂', cat:'CHILDREN', desc:'毎月開催。地域の子どもたち・保護者・住民が集い、温かい食事を共にする場所。'},
-    {slug:'kiraraka', title:'きららかサロン', cat:'COMMUNITY', desc:'地域住民の憩いの場。お茶を飲みながら集まる、心地よい交流空間。'},
-    {slug:'yp-2', title:'ユースプレイス県南', cat:'YOUTH', desc:'若者の居場所、第三の居場所づくり。「生きる力」を育む。'},
-    {slug:'%e5%ad%90%e8%82%b2%e3%81%a6%e7%9b%b8%e8%ab%87%e5%ae%a4', title:'子育て相談室', cat:'PARENTING', desc:'子育てに関する不安や悩みに、寄り添ってお答えします。'},
-  ];
 
   const body = `
-<section class="hero-home">
+<section class="hero-intro">
   <div class="wrap">
     <span class="badge">SHIRAKAWA · FUKUSHIMA</span>
     <h1>地域住民の<span class="accent">憩いの場</span>づくり<br>を、ずっと。</h1>
     <p class="lead">
       福島県白河市・西郷村で、地域に住む子どもやお年寄りたちと一緒に、まちに元気を与える活動を行ってきました。<br>
-      こども食堂、地域交流サロン、若者の居場所、子育て相談——みなさんと一緒に、地域を元気にしていきます。
+      二つの系統「きららか」と「らふみーる」——みなさんと一緒に、地域を元気にしていきます。
     </p>
   </div>
 </section>
 
-<section class="programs">
+<section class="systems-hero">
   <div class="wrap">
-    <div class="section-label">OUR PROGRAMS</div>
-    <h2 class="section-title">4つの主要事業</h2>
-    <div class="programs-grid">
-      ${programs.map(p => `
-      <a class="program-card" href="/${p.slug}/">
-        <div class="pcat">${p.cat}</div>
-        <h3>${p.title}</h3>
-        <p class="desc">${p.desc}</p>
-        <div class="more">詳しく見る →</div>
-      </a>`).join('')}
+    <div class="section-label">TWO FAMILIES</div>
+    <h2 class="section-title">あんだんての二つの系統</h2>
+    <div class="systems-grid">
+      ${SYSTEMS.map(s => `
+      <div class="sys-card sys-${s.key}">
+        <div class="sys-img" style="background-image:url('${s.image}')"></div>
+        <div class="sys-body">
+          <div class="sys-en">${s.en}</div>
+          <h3 class="sys-label">${s.label}</h3>
+          <p class="sys-desc">${s.desc}</p>
+          <ul class="sys-items">
+            ${s.items.map(i => `<li><a href="${i.href}"${i.external ? ' target="_blank" rel="noopener"' : ''}>${i.label}${i.external ? ' ↗' : ' →'}</a></li>`).join('\n            ')}
+          </ul>
+        </div>
+      </div>`).join('')}
     </div>
   </div>
 </section>

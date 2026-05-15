@@ -37,12 +37,22 @@
     <button class="nav-toggle" id="navToggle" aria-label="メニュー"><span></span><span></span><span></span></button>
     <nav class="site-nav" id="nav">
       <a href="/">ホーム</a>
+      <div class="nav-group">
+        <button class="nav-trigger" type="button">きららか系 <span class="caret">▾</span></button>
+        <div class="nav-drop">
+          <a href="/kiraraka/">きららかサロン</a>
+          <a href="/yp-2/">若者の居場所ユースプレイス</a>
+          <a href="/%e5%ad%90%e8%82%b2%e3%81%a6%e7%9b%b8%e8%ab%87%e5%ae%a4/">子育て相談室</a>
+        </div>
+      </div>
+      <div class="nav-group">
+        <button class="nav-trigger" type="button">らふみーる系 <span class="caret">▾</span></button>
+        <div class="nav-drop">
+          <a href="/kodomos/">こども＆みんなの食堂</a>
+          <a href="https://hideo-t.github.io/rafmiir/" target="_blank" rel="noopener">らふみーる新白河 ↗</a>
+        </div>
+      </div>
       <a href="/shisetsu/">活動実績</a>
-      <a href="/kodomos/">こども食堂</a>
-      <a href="/kiraraka/">きららかサロン</a>
-      <a href="/yp-2/">ユースプレイス</a>
-      <a href="/%e5%ad%90%e8%82%b2%e3%81%a6%e7%9b%b8%e8%ab%87%e5%ae%a4/">子育て相談</a>
-      <a href="https://hideo-t.github.io/rafmiir/" target="_blank" rel="noopener">らふみーる新白河 ↗</a>
       <a href="/news/">ニュース</a>
       <a href="/%e3%81%94%e6%94%af%e6%8f%b4%e3%81%84%e3%81%9f%e3%81%a0%e3%81%84%e3%81%a6%e3%81%84%e3%82%8b%e4%bc%81%e6%a5%ad%e3%83%bb%e5%9b%a3%e4%bd%93%e4%b8%80%e8%a6%a7/">ご支援企業</a>
     </nav>
@@ -50,47 +60,48 @@
 </header>
 
 
-<section class="hero-home">
+<section class="hero-intro">
   <div class="wrap">
     <span class="badge">SHIRAKAWA · FUKUSHIMA</span>
     <h1>地域住民の<span class="accent">憩いの場</span>づくり<br>を、ずっと。</h1>
     <p class="lead">
       福島県白河市・西郷村で、地域に住む子どもやお年寄りたちと一緒に、まちに元気を与える活動を行ってきました。<br>
-      こども食堂、地域交流サロン、若者の居場所、子育て相談——みなさんと一緒に、地域を元気にしていきます。
+      二つの系統「きららか」と「らふみーる」——みなさんと一緒に、地域を元気にしていきます。
     </p>
   </div>
 </section>
 
-<section class="programs">
+<section class="systems-hero">
   <div class="wrap">
-    <div class="section-label">OUR PROGRAMS</div>
-    <h2 class="section-title">4つの主要事業</h2>
-    <div class="programs-grid">
+    <div class="section-label">TWO FAMILIES</div>
+    <h2 class="section-title">あんだんての二つの系統</h2>
+    <div class="systems-grid">
       
-      <a class="program-card" href="/kodomos/">
-        <div class="pcat">CHILDREN</div>
-        <h3>らふみーる こども＆みんなの食堂</h3>
-        <p class="desc">毎月開催。地域の子どもたち・保護者・住民が集い、温かい食事を共にする場所。</p>
-        <div class="more">詳しく見る →</div>
-      </a>
-      <a class="program-card" href="/kiraraka/">
-        <div class="pcat">COMMUNITY</div>
-        <h3>きららかサロン</h3>
-        <p class="desc">地域住民の憩いの場。お茶を飲みながら集まる、心地よい交流空間。</p>
-        <div class="more">詳しく見る →</div>
-      </a>
-      <a class="program-card" href="/yp-2/">
-        <div class="pcat">YOUTH</div>
-        <h3>ユースプレイス県南</h3>
-        <p class="desc">若者の居場所、第三の居場所づくり。「生きる力」を育む。</p>
-        <div class="more">詳しく見る →</div>
-      </a>
-      <a class="program-card" href="/%e5%ad%90%e8%82%b2%e3%81%a6%e7%9b%b8%e8%ab%87%e5%ae%a4/">
-        <div class="pcat">PARENTING</div>
-        <h3>子育て相談室</h3>
-        <p class="desc">子育てに関する不安や悩みに、寄り添ってお答えします。</p>
-        <div class="more">詳しく見る →</div>
-      </a>
+      <div class="sys-card sys-kiraraka">
+        <div class="sys-img" style="background-image:url('/assets/hero_kiraraka.jpg')"></div>
+        <div class="sys-body">
+          <div class="sys-en">KIRARAKA FAMILY</div>
+          <h3 class="sys-label">きららか系</h3>
+          <p class="sys-desc">地域の憩い・若者の居場所・子育てを支える「集う」系統。</p>
+          <ul class="sys-items">
+            <li><a href="/kiraraka/">きららかサロン →</a></li>
+            <li><a href="/yp-2/">若者の居場所ユースプレイス →</a></li>
+            <li><a href="/%e5%ad%90%e8%82%b2%e3%81%a6%e7%9b%b8%e8%ab%87%e5%ae%a4/">子育て相談室 →</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="sys-card sys-rafmiir">
+        <div class="sys-img" style="background-image:url('/assets/hero_rafmiir.jpg')"></div>
+        <div class="sys-body">
+          <div class="sys-en">RAFMIIR FAMILY</div>
+          <h3 class="sys-label">らふみーる系</h3>
+          <p class="sys-desc">地域に温かい食を届ける「食」と「働く」の系統。</p>
+          <ul class="sys-items">
+            <li><a href="/kodomos/">こども＆みんなの食堂 →</a></li>
+            <li><a href="https://hideo-t.github.io/rafmiir/" target="_blank" rel="noopener">らふみーる新白河 ↗</a></li>
+          </ul>
+        </div>
+      </div>
     </div>
   </div>
 </section>
@@ -169,7 +180,7 @@
   <div class="related-shops">
     <div class="rs-label">関連店舗・グループ</div>
     <div class="rs-grid">
-      <a href="https://r.goope.jp/taishingohanya/" target="_blank" rel="noopener">大進ごはん家 ↗</a>
+      <a href="https://r.goope.jp/taishingohanya/" target="_blank" rel="noopener">大信のご飯屋さん ↗</a>
       <a href="https://tabelog.com/fukushima/A0703/A070301/7020106/" target="_blank" rel="noopener">カフェるぽん ↗</a>
     </div>
   </div>
